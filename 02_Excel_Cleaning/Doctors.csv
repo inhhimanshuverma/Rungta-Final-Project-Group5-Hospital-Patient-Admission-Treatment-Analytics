@@ -1,0 +1,19 @@
+Doctor_ID,Doctor_Name,Department_ID,Specialization
+1,Doctor_01,1,Cardiology
+2,Doctor_02,2,Internal Medicine
+3,Doctor_03,3,Orthopedics
+4,Doctor_04,4,Neurology
+5,Doctor_05,5,Pediatrics
+6,Doctor_06,6,Oncology
+7,Doctor_07,1,Cardiology
+8,Doctor_08,2,Internal Medicine
+9,Doctor_09,3,Orthopedics
+10,Doctor_10,4,Neurology
+11,Doctor_11,5,Pediatrics
+12,Doctor_12,6,Oncology
+13,Doctor_13,1,Cardiology
+14,Doctor_14,2,Internal Medicine
+15,Doctor_15,3,Orthopedics
+16,Doctor_16,4,Neurology
+17,Doctor_17,5,Pediatrics
+18,Doctor_18,6,Oncology

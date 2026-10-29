@@ -1,0 +1,5201 @@
+Treatment_ID,Admission_ID,Treatment_Type,Treatment_Cost
+1,1,Physiotherapy,5778.87
+2,1,Medication,2048.1
+3,1,Physiotherapy,3628.57
+4,2,Physiotherapy,6342.39
+5,2,Diagnostic imaging,3349.72
+6,2,Physiotherapy,4194.17
+7,3,Consultation,3469.34
+8,3,Consultation,2568.53
+9,4,Medication,355.15
+10,5,Physiotherapy,448.32
+11,5,Surgery,11004.64
+12,5,Physiotherapy,2135.35
+13,6,Medication,4839.16
+14,6,Diagnostic imaging,5078.53
+15,6,Diagnostic imaging,2018.03
+16,7,Diagnostic imaging,3858.31
+17,8,Medication,3643.52
+18,8,Consultation,5128.6
+19,9,Diagnostic imaging,5759.57
+20,9,Physiotherapy,2257.46
+21,10,Physiotherapy,5773.94
+22,11,Medication,2979.29
+23,11,Consultation,2032.36
+24,11,Physiotherapy,1372.45
+25,12,Surgery,23439.71
+26,12,Diagnostic imaging,3564.74
+27,12,Physiotherapy,5729.35
+28,13,Diagnostic imaging,5193.26
+29,14,Physiotherapy,901.24
+30,14,Consultation,4223.03
+31,15,Consultation,1937.64
+32,15,Surgery,10834.23
+33,15,Physiotherapy,345.7
+34,16,Medication,5704.77
+35,17,Surgery,25381.18
+36,18,Surgery,18139.72
+37,18,Consultation,1995.64
+38,18,Consultation,1741.87
+39,19,Laboratory test,3235.22
+40,20,Diagnostic imaging,4672.46
+41,21,Surgery,15558.89
+42,21,Diagnostic imaging,4249.25
+43,22,Physiotherapy,348.08
+44,22,Medication,3826.02
+45,22,Medication,1501.03
+46,23,Surgery,14156.17
+47,24,Medication,6174.32
+48,25,Physiotherapy,1463.02
+49,26,Laboratory test,3824.31
+50,26,Medication,1253.95
+51,26,Physiotherapy,2553.59
+52,27,Surgery,24869.02
+53,27,Consultation,3336.66
+54,28,Diagnostic imaging,2782.8
+55,28,Laboratory test,4723.62
+56,28,Surgery,18987.62
+57,29,Diagnostic imaging,505.04
+58,29,Laboratory test,6007.54
+59,29,Medication,6234.81
+60,30,Diagnostic imaging,1542.96
+61,30,Surgery,16923.27
+62,31,Medication,587.15
+63,31,Surgery,10946.57
+64,31,Consultation,255.17
+65,32,Medication,4927.63
+66,32,Consultation,3212.23
+67,32,Diagnostic imaging,5877.6
+68,33,Laboratory test,3890.46
+69,33,Physiotherapy,5914.9
+70,34,Diagnostic imaging,184.73
+71,34,Physiotherapy,5162.83
+72,35,Medication,1760.57
+73,35,Medication,2839.62
+74,35,Laboratory test,4035.44
+75,36,Laboratory test,3818.08
+76,36,Physiotherapy,2678.12
+77,37,Medication,4576.31
+78,37,Physiotherapy,480.54
+79,37,Surgery,27016.82
+80,38,Consultation,4750.54
+81,38,Surgery,17287.55
+82,38,Medication,1969.08
+83,39,Consultation,5128.14
+84,40,Surgery,10049.29
+85,40,Surgery,11501.26
+86,41,Medication,6265.41
+87,42,Consultation,5248.68
+88,42,Laboratory test,5713.32
+89,43,Surgery,25128.54
+90,43,Consultation,3210.51
+91,43,Laboratory test,578.97
+92,44,Laboratory test,740.61
+93,45,Physiotherapy,4487.73
+94,46,Laboratory test,1140.57
+95,46,Consultation,911.23
+96,46,Consultation,4441.41
+97,47,Diagnostic imaging,6400.91
+98,47,Medication,1929.69
+99,48,Consultation,4583.85
+100,48,Surgery,9009.32
+101,49,Laboratory test,3143.04
+102,50,Medication,982.73
+103,51,Diagnostic imaging,3153.47
+104,51,Consultation,1271.46
+105,51,Surgery,3981.59
+106,52,Diagnostic imaging,531.23
+107,52,Laboratory test,3176.03
+108,52,Physiotherapy,761.52
+109,53,Medication,4276.65
+110,53,Medication,1258.32
+111,53,Laboratory test,2404.94
+112,54,Laboratory test,2828.53
+113,54,Medication,3779.9
+114,54,Consultation,652.36
+115,55,Medication,3457.94
+116,55,Surgery,11738.2
+117,55,Diagnostic imaging,5574.25
+118,56,Medication,491.79
+119,56,Surgery,14790.52
+120,57,Diagnostic imaging,983.61
+121,57,Diagnostic imaging,331.43
+122,57,Physiotherapy,2415.94
+123,58,Medication,3049.05
+124,58,Physiotherapy,4187.65
+125,58,Medication,2912.11
+126,59,Laboratory test,217.03
+127,60,Consultation,5013.27
+128,60,Laboratory test,3940.97
+129,61,Diagnostic imaging,1819.92
+130,61,Surgery,17602.71
+131,62,Diagnostic imaging,1988.93
+132,63,Consultation,1941.43
+133,64,Laboratory test,3094.4
+134,64,Consultation,2247.08
+135,65,Consultation,924.46
+136,65,Physiotherapy,1730.91
+137,66,Physiotherapy,6253.71
+138,66,Laboratory test,1157.18
+139,67,Diagnostic imaging,4168.97
+140,68,Medication,1134.2
+141,68,Consultation,1729.39
+142,68,Surgery,2786.39
+143,69,Diagnostic imaging,2161.3
+144,69,Medication,5157.37
+145,70,Physiotherapy,2928.13
+146,70,Laboratory test,3596.36
+147,71,Medication,1134.41
+148,72,Laboratory test,5077.71
+149,72,Diagnostic imaging,2186.41
+150,72,Consultation,4330.14
+151,73,Medication,4333.96
+152,74,Surgery,14841.54
+153,74,Physiotherapy,3898.41
+154,74,Consultation,2476.35
+155,75,Physiotherapy,520.21
+156,75,Medication,1837.93
+157,76,Diagnostic imaging,3491.32
+158,77,Surgery,19745.77
+159,77,Surgery,24748.37
+160,77,Diagnostic imaging,5182.13
+161,78,Surgery,21456.12
+162,78,Surgery,23175.8
+163,79,Physiotherapy,370.11
+164,80,Medication,3682.65
+165,80,Medication,1132.44
+166,80,Consultation,3073.35
+167,81,Consultation,4744.74
+168,81,Surgery,5048.04
+169,81,Physiotherapy,4613.08
+170,82,Surgery,11808.48
+171,82,Consultation,5673.14
+172,83,Medication,4580.83
+173,83,Diagnostic imaging,470.8
+174,84,Diagnostic imaging,2284.67
+175,85,Medication,1407.99
+176,85,Surgery,18349.89
+177,86,Physiotherapy,2776.25
+178,87,Diagnostic imaging,2946.94
+179,87,Diagnostic imaging,1418.0
+180,87,Laboratory test,1140.54
+181,88,Surgery,13325.53
+182,88,Laboratory test,1477.21
+183,89,Physiotherapy,3495.17
+184,89,Laboratory test,1231.53
+185,89,Laboratory test,1424.42
+186,90,Consultation,2007.35
+187,91,Diagnostic imaging,3329.13
+188,92,Laboratory test,4495.38
+189,93,Laboratory test,1582.45
+190,93,Laboratory test,5847.06
+191,93,Physiotherapy,1021.61
+192,94,Medication,986.75
+193,94,Physiotherapy,1029.96
+194,95,Medication,5973.66
+195,95,Laboratory test,580.62
+196,95,Medication,6173.62
+197,96,Diagnostic imaging,828.0
+198,97,Consultation,4519.7
+199,97,Surgery,3970.9
+200,98,Consultation,6026.51
+201,98,Surgery,6425.88
+202,99,Surgery,11485.05
+203,100,Consultation,3017.72
+204,100,Consultation,5723.9
+205,100,Diagnostic imaging,3443.76
+206,101,Surgery,4870.0
+207,101,Laboratory test,4043.4
+208,102,Surgery,9226.04
+209,102,Consultation,1285.88
+210,103,Physiotherapy,934.51
+211,103,Consultation,4634.54
+212,103,Physiotherapy,2454.69
+213,104,Diagnostic imaging,1285.8
+214,105,Medication,5010.26
+215,106,Surgery,12512.04
+216,106,Medication,3960.65
+217,107,Medication,5471.39
+218,107,Laboratory test,2252.56
+219,107,Consultation,461.35
+220,108,Medication,2437.2
+221,108,Consultation,741.35
+222,108,Laboratory test,2199.92
+223,109,Medication,2777.36
+224,109,Diagnostic imaging,4568.52
+225,110,Medication,5533.52
+226,110,Laboratory test,3486.23
+227,111,Diagnostic imaging,4649.53
+228,111,Diagnostic imaging,160.04
+229,111,Consultation,3102.02
+230,112,Physiotherapy,1427.54
+231,113,Surgery,20352.01
+232,113,Medication,6246.72
+233,114,Laboratory test,3086.68
+234,114,Surgery,25996.17
+235,114,Consultation,5452.92
+236,115,Diagnostic imaging,1930.92
+237,116,Laboratory test,4657.48
+238,116,Laboratory test,2778.07
+239,116,Surgery,24588.1
+240,117,Surgery,14291.35
+241,118,Physiotherapy,6453.77
+242,118,Diagnostic imaging,4751.02
+243,118,Surgery,11005.57
+244,119,Physiotherapy,4884.27
+245,119,Consultation,3817.5
+246,119,Laboratory test,4206.7
+247,120,Consultation,246.88
+248,120,Medication,3703.62
+249,121,Laboratory test,3582.66
+250,121,Consultation,975.97
+251,121,Surgery,25316.36
+252,122,Laboratory test,2134.0
+253,122,Diagnostic imaging,4676.91
+254,122,Physiotherapy,5289.05
+255,123,Diagnostic imaging,6166.3
+256,123,Diagnostic imaging,5617.96
+257,124,Consultation,565.07
+258,124,Consultation,2381.65
+259,125,Medication,4274.02
+260,125,Laboratory test,3532.93
+261,126,Medication,5149.52
+262,126,Medication,4557.75
+263,127,Laboratory test,6219.86
+264,128,Physiotherapy,5292.48
+265,128,Diagnostic imaging,4346.6
+266,128,Surgery,14992.35
+267,129,Physiotherapy,6389.38
+268,129,Laboratory test,6438.34
+269,130,Medication,5361.78
+270,130,Laboratory test,846.58
+271,130,Laboratory test,5647.07
+272,131,Diagnostic imaging,3165.43
+273,131,Diagnostic imaging,3676.93
+274,131,Laboratory test,5483.76
+275,132,Surgery,27305.56
+276,132,Diagnostic imaging,687.61
+277,132,Physiotherapy,5267.73
+278,133,Diagnostic imaging,1329.77
+279,133,Medication,197.18
+280,134,Laboratory test,868.59
+281,134,Surgery,26938.22
+282,134,Consultation,1052.26
+283,135,Physiotherapy,4364.73
+284,135,Physiotherapy,645.82
+285,135,Physiotherapy,3573.9
+286,136,Laboratory test,6249.69
+287,136,Laboratory test,1986.47
+288,137,Laboratory test,5286.49
+289,137,Medication,323.34
+290,137,Surgery,2539.66
+291,138,Diagnostic imaging,5929.33
+292,138,Physiotherapy,1109.71
+293,138,Surgery,10511.03
+294,139,Diagnostic imaging,5468.85
+295,139,Surgery,21627.71
+296,139,Diagnostic imaging,4345.24
+297,140,Surgery,20955.68
+298,140,Medication,1633.75
+299,141,Laboratory test,6257.19
+300,141,Physiotherapy,6219.78
+301,141,Consultation,5977.47
+302,142,Medication,2633.83
+303,142,Physiotherapy,4906.73
+304,142,Physiotherapy,4416.5
+305,143,Medication,809.81
+306,144,Physiotherapy,923.37
+307,144,Consultation,698.55
+308,144,Medication,974.91
+309,145,Surgery,25854.8
+310,145,Laboratory test,5035.43
+311,145,Physiotherapy,5886.54
+312,146,Diagnostic imaging,2947.65
+313,146,Surgery,27428.96
+314,147,Laboratory test,805.87
+315,147,Consultation,597.12
+316,147,Physiotherapy,1741.29
+317,148,Medication,173.52
+318,148,Physiotherapy,6118.44
+319,149,Medication,3549.18
+320,150,Surgery,21352.57
+321,151,Consultation,5771.11
+322,151,Surgery,20655.25
+323,152,Consultation,2304.46
+324,153,Medication,1629.46
+325,153,Consultation,384.17
+326,153,Diagnostic imaging,3254.48
+327,154,Surgery,17211.52
+328,155,Physiotherapy,4457.83
+329,155,Laboratory test,917.1
+330,156,Diagnostic imaging,4571.48
+331,156,Medication,1197.79
+332,157,Consultation,195.87
+333,158,Diagnostic imaging,6106.87
+334,158,Medication,4542.13
+335,159,Consultation,4080.15
+336,159,Medication,3372.88
+337,159,Surgery,21626.69
+338,160,Physiotherapy,2462.63
+339,161,Medication,887.01
+340,161,Diagnostic imaging,4730.91
+341,162,Surgery,24985.38
+342,163,Physiotherapy,1382.88
+343,163,Laboratory test,6344.78
+344,164,Laboratory test,3983.09
+345,165,Surgery,23476.45
+346,165,Laboratory test,242.1
+347,165,Surgery,20678.96
+348,166,Medication,363.49
+349,166,Medication,2653.93
+350,166,Physiotherapy,5365.2
+351,167,Surgery,18815.74
+352,168,Physiotherapy,158.66
+353,168,Physiotherapy,598.94
+354,168,Physiotherapy,2263.95
+355,169,Laboratory test,4822.08
+356,169,Consultation,3418.58
+357,169,Physiotherapy,2461.34
+358,170,Physiotherapy,5062.2
+359,170,Diagnostic imaging,6380.95
+360,170,Diagnostic imaging,3576.67
+361,171,Laboratory test,2342.19
+362,172,Laboratory test,5229.39
+363,172,Physiotherapy,5285.85
+364,172,Consultation,1346.05
+365,173,Diagnostic imaging,5706.21
+366,173,Medication,6195.87
+367,174,Consultation,5685.89
+368,175,Laboratory test,3752.05
+369,175,Laboratory test,1240.53
+370,176,Medication,1961.32
+371,176,Diagnostic imaging,5479.76
+372,176,Physiotherapy,5894.92
+373,177,Physiotherapy,370.28
+374,177,Laboratory test,6360.44
+375,177,Diagnostic imaging,2518.01
+376,178,Consultation,6310.45
+377,179,Physiotherapy,863.2
+378,179,Surgery,25229.84
+379,180,Physiotherapy,1389.2
+380,180,Medication,1560.61
+381,180,Laboratory test,1392.79
+382,181,Laboratory test,2674.49
+383,181,Physiotherapy,5571.66
+384,181,Laboratory test,2601.82
+385,182,Laboratory test,1190.07
+386,182,Physiotherapy,6311.79
+387,183,Medication,4951.32
+388,184,Diagnostic imaging,5435.0
+389,185,Laboratory test,2056.08
+390,186,Consultation,5005.96
+391,187,Consultation,2519.83
+392,187,Physiotherapy,3802.92
+393,187,Laboratory test,1184.08
+394,188,Laboratory test,2002.07
+395,189,Laboratory test,1873.76
+396,189,Physiotherapy,4521.0
+397,189,Consultation,3543.57
+398,190,Diagnostic imaging,1131.42
+399,191,Laboratory test,4538.17
+400,191,Diagnostic imaging,5338.2
+401,192,Diagnostic imaging,4519.1
+402,192,Laboratory test,945.94
+403,192,Diagnostic imaging,6380.05
+404,193,Consultation,5919.16
+405,193,Consultation,570.67
+406,194,Physiotherapy,6130.72
+407,195,Diagnostic imaging,4695.4
+408,195,Laboratory test,1240.76
+409,195,Medication,177.49
+410,196,Surgery,12018.55
+411,196,Medication,1594.97
+412,197,Physiotherapy,407.86
+413,197,Laboratory test,3285.08
+414,197,Surgery,8120.22
+415,198,Physiotherapy,2483.25
+416,198,Consultation,6491.89
+417,199,Diagnostic imaging,560.91
+418,199,Diagnostic imaging,2300.31
+419,199,Medication,5509.59
+420,200,Surgery,18750.29
+421,200,Surgery,27653.77
+422,201,Consultation,4835.02
+423,202,Physiotherapy,4922.72
+424,203,Surgery,24673.49
+425,204,Diagnostic imaging,3270.9
+426,204,Diagnostic imaging,2134.12
+427,204,Surgery,13776.87
+428,205,Physiotherapy,2390.05
+429,205,Laboratory test,2185.07
+430,205,Consultation,3899.44
+431,206,Consultation,4348.87
+432,206,Diagnostic imaging,1639.85
+433,207,Surgery,16013.37
+434,207,Surgery,7648.67
+435,207,Physiotherapy,3132.59
+436,208,Medication,5302.75
+437,208,Physiotherapy,2306.08
+438,209,Consultation,2037.98
+439,209,Medication,2702.87
+440,210,Diagnostic imaging,2355.46
+441,210,Consultation,4287.26
+442,211,Medication,1296.82
+443,211,Consultation,4136.81
+444,211,Medication,5628.21
+445,212,Diagnostic imaging,2463.14
+446,212,Diagnostic imaging,1676.37
+447,212,Physiotherapy,4501.7
+448,213,Physiotherapy,3967.82
+449,213,Surgery,6867.91
+450,214,Laboratory test,1016.33
+451,215,Medication,2042.17
+452,215,Consultation,5868.65
+453,216,Physiotherapy,5414.03
+454,216,Medication,1748.98
+455,216,Consultation,1661.79
+456,217,Diagnostic imaging,6309.01
+457,218,Diagnostic imaging,2455.04
+458,218,Physiotherapy,2485.14
+459,219,Physiotherapy,2454.13
+460,219,Physiotherapy,925.04
+461,219,Diagnostic imaging,5596.06
+462,220,Physiotherapy,2164.12
+463,220,Physiotherapy,2729.93
+464,221,Physiotherapy,1807.16
+465,222,Diagnostic imaging,169.53
+466,222,Diagnostic imaging,4139.68
+467,222,Laboratory test,3806.39
+468,223,Diagnostic imaging,4515.41
+469,223,Laboratory test,5227.01
+470,224,Surgery,5751.89
+471,225,Consultation,239.63
+472,225,Medication,2913.26
+473,225,Surgery,23206.39
+474,226,Diagnostic imaging,6469.57
+475,226,Laboratory test,4764.6
+476,226,Diagnostic imaging,2806.4
+477,227,Consultation,3127.4
+478,228,Consultation,3686.95
+479,229,Medication,4084.83
+480,229,Laboratory test,6357.28
+481,230,Consultation,2164.97
+482,231,Laboratory test,5882.73
+483,231,Laboratory test,4042.12
+484,232,Diagnostic imaging,1093.74
+485,233,Surgery,10143.43
+486,234,Diagnostic imaging,4912.1
+487,235,Physiotherapy,748.84
+488,235,Laboratory test,314.86
+489,236,Physiotherapy,6215.53
+490,236,Medication,4328.34
+491,237,Consultation,4873.13
+492,237,Medication,6194.57
+493,238,Physiotherapy,4928.75
+494,238,Physiotherapy,1128.76
+495,239,Surgery,24820.21
+496,239,Surgery,7700.3
+497,240,Physiotherapy,1573.86
+498,240,Physiotherapy,4681.59
+499,241,Physiotherapy,5883.44
+500,242,Consultation,3100.57
+501,242,Physiotherapy,3759.84
+502,243,Consultation,2793.2
+503,244,Diagnostic imaging,646.7
+504,245,Physiotherapy,2722.33
+505,245,Physiotherapy,6282.85
+506,246,Consultation,1361.59
+507,247,Laboratory test,5037.73
+508,248,Diagnostic imaging,1428.5
+509,248,Medication,5417.01
+510,248,Surgery,1663.09
+511,249,Surgery,11341.13
+512,250,Physiotherapy,2798.82
+513,250,Surgery,3495.11
+514,251,Diagnostic imaging,3373.49
+515,251,Medication,5922.6
+516,252,Diagnostic imaging,4098.7
+517,252,Laboratory test,4535.93
+518,253,Diagnostic imaging,1479.9
+519,253,Consultation,6495.31
+520,254,Medication,1573.01
+521,255,Consultation,6034.11
+522,255,Surgery,22421.89
+523,255,Consultation,6339.09
+524,256,Diagnostic imaging,4775.02
+525,256,Physiotherapy,2953.64
+526,257,Surgery,21595.84
+527,257,Consultation,1707.76
+528,258,Surgery,22095.24
+529,258,Diagnostic imaging,5241.23
+530,258,Surgery,25725.06
+531,259,Laboratory test,2149.01
+532,260,Surgery,24830.47
+533,260,Physiotherapy,3665.43
+534,261,Diagnostic imaging,5786.13
+535,261,Medication,5155.97
+536,261,Physiotherapy,2957.61
+537,262,Medication,1952.94
+538,262,Consultation,3399.11
+539,262,Laboratory test,3460.48
+540,263,Consultation,4798.11
+541,263,Laboratory test,1799.45
+542,263,Medication,2400.91
+543,264,Laboratory test,1956.8
+544,264,Physiotherapy,3787.06
+545,265,Diagnostic imaging,4668.92
+546,266,Medication,3445.3
+547,266,Surgery,24448.41
+548,266,Medication,3317.55
+549,267,Physiotherapy,3408.73
+550,268,Surgery,3311.83
+551,268,Laboratory test,3780.71
+552,268,Consultation,3469.64
+553,269,Laboratory test,5795.51
+554,270,Laboratory test,3742.6
+555,270,Laboratory test,5111.57
+556,270,Surgery,23406.26
+557,271,Medication,4369.59
+558,272,Physiotherapy,307.51
+559,273,Medication,1352.66
+560,273,Surgery,14198.23
+561,273,Consultation,913.8
+562,274,Medication,435.65
+563,274,Consultation,2308.72
+564,275,Diagnostic imaging,1772.77
+565,276,Surgery,2990.15
+566,276,Diagnostic imaging,2771.42
+567,277,Laboratory test,535.01
+568,278,Medication,4287.35
+569,279,Medication,6199.09
+570,280,Laboratory test,3946.46
+571,280,Physiotherapy,2563.97
+572,281,Consultation,5423.66
+573,281,Physiotherapy,3683.64
+574,281,Laboratory test,5727.07
+575,282,Physiotherapy,6392.19
+576,283,Physiotherapy,1251.95
+577,284,Consultation,2391.52
+578,284,Surgery,23212.2
+579,284,Laboratory test,2605.87
+580,285,Physiotherapy,6000.88
+581,285,Laboratory test,1366.1
+582,286,Diagnostic imaging,6400.07
+583,287,Medication,964.36
+584,288,Medication,5757.7
+585,288,Consultation,6105.6
+586,288,Physiotherapy,4424.18
+587,289,Consultation,5762.15
+588,289,Diagnostic imaging,448.23
+589,289,Surgery,15024.39
+590,290,Diagnostic imaging,1194.46
+591,291,Diagnostic imaging,834.79
+592,291,Diagnostic imaging,6238.4
+593,292,Consultation,5971.14
+594,293,Physiotherapy,504.27
+595,294,Surgery,13131.8
+596,294,Surgery,24668.28
+597,295,Diagnostic imaging,5892.75
+598,295,Diagnostic imaging,4197.26
+599,295,Laboratory test,2406.73
+600,296,Medication,5771.16
+601,296,Diagnostic imaging,1086.05
+602,297,Laboratory test,1390.84
+603,297,Diagnostic imaging,4217.52
+604,298,Laboratory test,2808.72
+605,298,Diagnostic imaging,815.78
+606,298,Consultation,3299.16
+607,299,Surgery,5947.53
+608,299,Diagnostic imaging,5395.64
+609,299,Consultation,2453.89
+610,300,Consultation,1414.43
+611,301,Consultation,283.31
+612,301,Physiotherapy,1021.5
+613,302,Medication,5748.57
+614,302,Physiotherapy,565.15
+615,302,Diagnostic imaging,5755.29
+616,303,Medication,1350.8
+617,303,Medication,2018.06
+618,303,Diagnostic imaging,2230.77
+619,304,Medication,2614.54
+620,305,Surgery,13396.79
+621,305,Medication,2696.01
+622,305,Medication,4275.83
+623,306,Laboratory test,3646.01
+624,306,Diagnostic imaging,4922.8
+625,307,Surgery,10448.46
+626,307,Surgery,9047.32
+627,308,Diagnostic imaging,774.9
+628,308,Consultation,2437.5
+629,309,Physiotherapy,3598.85
+630,309,Laboratory test,204.19
+631,309,Laboratory test,1939.72
+632,310,Diagnostic imaging,1590.98
+633,310,Physiotherapy,1482.71
+634,311,Surgery,12736.72
+635,312,Surgery,12063.71
+636,313,Medication,4149.48
+637,313,Medication,5952.33
+638,314,Surgery,17982.34
+639,314,Laboratory test,742.08
+640,314,Consultation,4435.52
+641,315,Laboratory test,4338.27
+642,316,Physiotherapy,586.64
+643,316,Diagnostic imaging,975.07
+644,317,Diagnostic imaging,197.27
+645,317,Diagnostic imaging,2980.4
+646,318,Physiotherapy,5744.31
+647,318,Surgery,9873.2
+648,319,Surgery,25525.62
+649,319,Diagnostic imaging,4585.61
+650,320,Physiotherapy,4737.3
+651,320,Diagnostic imaging,5920.48
+652,320,Surgery,27788.81
+653,321,Consultation,614.79
+654,321,Physiotherapy,4440.2
+655,322,Physiotherapy,4904.09
+656,322,Surgery,13052.66
+657,323,Laboratory test,938.36
+658,324,Medication,1522.66
+659,324,Physiotherapy,453.25
+660,324,Physiotherapy,5303.1
+661,325,Diagnostic imaging,2528.99
+662,326,Diagnostic imaging,4747.47
+663,326,Consultation,2789.57
+664,326,Consultation,5329.21
+665,327,Consultation,2703.59
+666,328,Surgery,8617.58
+667,329,Physiotherapy,2617.39
+668,329,Physiotherapy,994.11
+669,329,Diagnostic imaging,4184.49
+670,330,Medication,4624.39
+671,330,Consultation,1627.05
+672,330,Medication,4969.28
+673,331,Surgery,5921.69
+674,332,Laboratory test,4916.0
+675,332,Diagnostic imaging,5528.04
+676,332,Laboratory test,2326.33
+677,333,Surgery,17726.46
+678,334,Medication,646.34
+679,335,Diagnostic imaging,1876.32
+680,335,Surgery,2470.44
+681,335,Laboratory test,2678.85
+682,336,Medication,1120.27
+683,336,Physiotherapy,1265.69
+684,336,Surgery,13116.32
+685,337,Medication,4787.84
+686,338,Consultation,6452.2
+687,338,Consultation,2593.65
+688,339,Consultation,4283.26
+689,339,Surgery,20664.68
+690,339,Diagnostic imaging,3183.56
+691,340,Diagnostic imaging,3973.65
+692,340,Physiotherapy,5493.63
+693,341,Surgery,7267.18
+694,342,Physiotherapy,3786.08
+695,343,Consultation,593.49
+696,344,Medication,6172.87
+697,345,Physiotherapy,5947.37
+698,345,Consultation,5664.1
+699,346,Consultation,210.37
+700,346,Laboratory test,4923.92
+701,346,Consultation,4374.8
+702,347,Surgery,21254.3
+703,347,Medication,2877.03
+704,348,Consultation,169.59
+705,348,Physiotherapy,2701.48
+706,349,Surgery,17409.26
+707,349,Physiotherapy,5673.57
+708,350,Surgery,6731.25
+709,350,Surgery,11354.58
+710,350,Medication,5191.65
+711,351,Medication,5133.87
+712,351,Physiotherapy,3354.44
+713,351,Diagnostic imaging,3311.82
+714,352,Physiotherapy,4594.42
+715,353,Consultation,4375.77
+716,353,Medication,4173.03
+717,353,Surgery,2759.76
+718,354,Diagnostic imaging,1795.25
+719,355,Medication,4829.43
+720,355,Laboratory test,542.97
+721,356,Surgery,504.98
+722,357,Laboratory test,2111.46
+723,357,Physiotherapy,934.0
+724,357,Physiotherapy,3794.72
+725,358,Physiotherapy,483.8
+726,358,Diagnostic imaging,5590.55
+727,358,Physiotherapy,2637.98
+728,359,Surgery,2243.09
+729,359,Physiotherapy,1947.3
+730,360,Physiotherapy,1189.46
+731,360,Diagnostic imaging,2955.96
+732,361,Diagnostic imaging,2541.13
+733,361,Surgery,19104.61
+734,361,Diagnostic imaging,6030.01
+735,362,Physiotherapy,2715.36
+736,362,Consultation,904.4
+737,362,Surgery,13809.37
+738,363,Physiotherapy,4297.79
+739,363,Laboratory test,223.68
+740,364,Diagnostic imaging,2588.15
+741,364,Physiotherapy,4612.38
+742,364,Laboratory test,3778.54
+743,365,Medication,5465.86
+744,366,Surgery,22464.23
+745,366,Consultation,398.56
+746,366,Medication,1459.56
+747,367,Consultation,1726.94
+748,367,Consultation,6158.46
+749,367,Medication,5894.33
+750,368,Medication,3392.25
+751,368,Physiotherapy,778.71
+752,368,Consultation,1655.59
+753,369,Medication,1769.04
+754,370,Physiotherapy,4802.49
+755,371,Diagnostic imaging,2158.89
+756,371,Surgery,10765.64
+757,372,Laboratory test,5090.75
+758,372,Diagnostic imaging,5667.23
+759,373,Surgery,2901.25
+760,373,Laboratory test,4597.89
+761,373,Laboratory test,3652.29
+762,374,Medication,960.08
+763,374,Consultation,4510.28
+764,375,Diagnostic imaging,4456.67
+765,375,Surgery,19863.33
+766,375,Diagnostic imaging,2937.4
+767,376,Laboratory test,5517.31
+768,376,Physiotherapy,654.67
+769,377,Physiotherapy,3380.13
+770,377,Physiotherapy,1016.32
+771,378,Medication,4910.39
+772,378,Diagnostic imaging,6463.31
+773,378,Physiotherapy,6188.01
+774,379,Consultation,2480.77
+775,380,Consultation,1991.91
+776,380,Surgery,8395.87
+777,380,Diagnostic imaging,164.19
+778,381,Consultation,4058.62
+779,381,Laboratory test,2044.53
+780,382,Consultation,5948.24
+781,382,Consultation,1138.25
+782,383,Surgery,18461.76
+783,384,Surgery,20893.89
+784,384,Consultation,1167.98
+785,385,Surgery,14176.58
+786,385,Physiotherapy,5503.45
+787,386,Physiotherapy,5419.46
+788,387,Diagnostic imaging,4780.73
+789,387,Diagnostic imaging,1734.11
+790,387,Consultation,5637.46
+791,388,Medication,4143.57
+792,389,Surgery,11552.5
+793,390,Consultation,1859.71
+794,390,Laboratory test,6138.04
+795,391,Laboratory test,5918.86
+796,391,Consultation,2886.26
+797,392,Laboratory test,4857.2
+798,392,Laboratory test,4867.62
+799,393,Physiotherapy,3971.65
+800,393,Consultation,3874.67
+801,393,Physiotherapy,5340.55
+802,394,Physiotherapy,1125.82
+803,394,Diagnostic imaging,1367.34
+804,394,Medication,4668.68
+805,395,Medication,5172.12
+806,395,Diagnostic imaging,3954.63
+807,395,Physiotherapy,6293.54
+808,396,Surgery,21082.7
+809,397,Surgery,14230.94
+810,397,Physiotherapy,3484.21
+811,397,Laboratory test,5563.22
+812,398,Diagnostic imaging,1867.26
+813,398,Consultation,4229.32
+814,399,Medication,1826.64
+815,399,Diagnostic imaging,2742.98
+816,399,Medication,2022.59
+817,400,Physiotherapy,4519.53
+818,400,Physiotherapy,1784.14
+819,400,Physiotherapy,4177.84
+820,401,Surgery,6680.32
+821,402,Surgery,26428.1
+822,402,Diagnostic imaging,4262.03
+823,402,Consultation,2119.52
+824,403,Physiotherapy,3495.04
+825,404,Diagnostic imaging,5040.25
+826,405,Medication,5816.68
+827,405,Diagnostic imaging,2101.89
+828,406,Medication,5779.0
+829,407,Surgery,19307.76
+830,407,Physiotherapy,5374.68
+831,407,Consultation,3273.06
+832,408,Medication,1109.5
+833,409,Consultation,1871.44
+834,409,Surgery,18613.06
+835,410,Consultation,3819.3
+836,411,Surgery,16948.37
+837,411,Physiotherapy,2267.5
+838,411,Physiotherapy,6002.19
+839,412,Consultation,1643.48
+840,412,Consultation,1440.83
+841,412,Consultation,2451.23
+842,413,Diagnostic imaging,5406.67
+843,414,Medication,5677.53
+844,414,Consultation,1082.73
+845,415,Surgery,20300.97
+846,415,Surgery,21933.76
+847,416,Surgery,19117.32
+848,416,Surgery,15627.83
+849,417,Physiotherapy,1495.34
+850,418,Diagnostic imaging,497.17
+851,418,Laboratory test,4256.21
+852,419,Diagnostic imaging,3941.65
+853,420,Surgery,1517.64
+854,420,Laboratory test,741.89
+855,420,Laboratory test,203.84
+856,421,Surgery,25128.19
+857,421,Medication,791.37
+858,422,Consultation,6200.4
+859,422,Diagnostic imaging,5765.95
+860,422,Physiotherapy,4304.3
+861,423,Physiotherapy,5066.01
+862,424,Consultation,3318.09
+863,424,Surgery,8955.69
+864,424,Laboratory test,1175.35
+865,425,Physiotherapy,6018.42
+866,425,Consultation,6320.17
+867,426,Consultation,4481.98
+868,426,Medication,3008.09
+869,427,Laboratory test,2536.47
+870,428,Consultation,1294.74
+871,429,Physiotherapy,4857.16
+872,430,Laboratory test,5163.7
+873,431,Laboratory test,2722.18
+874,432,Laboratory test,1194.79
+875,432,Laboratory test,6131.33
+876,433,Physiotherapy,4391.56
+877,434,Medication,4736.52
+878,434,Surgery,26427.23
+879,435,Surgery,6247.81
+880,435,Diagnostic imaging,6197.59
+881,435,Physiotherapy,3812.91
+882,436,Surgery,10010.48
+883,436,Medication,2854.14
+884,437,Laboratory test,5516.33
+885,437,Physiotherapy,4469.79
+886,438,Physiotherapy,4923.46
+887,438,Medication,783.11
+888,439,Diagnostic imaging,5587.78
+889,440,Laboratory test,1849.32
+890,440,Physiotherapy,1829.57
+891,440,Surgery,18934.1
+892,441,Diagnostic imaging,6240.67
+893,441,Surgery,6960.81
+894,442,Laboratory test,3434.71
+895,442,Surgery,6659.4
+896,443,Diagnostic imaging,742.17
+897,443,Consultation,2927.62
+898,444,Physiotherapy,4160.04
+899,444,Laboratory test,1334.63
+900,445,Diagnostic imaging,4134.23
+901,446,Consultation,3288.46
+902,447,Physiotherapy,2816.41
+903,448,Laboratory test,6460.25
+904,449,Consultation,3439.27
+905,449,Diagnostic imaging,1523.55
+906,449,Laboratory test,878.91
+907,450,Physiotherapy,3652.01
+908,450,Laboratory test,3115.73
+909,451,Consultation,3856.17
+910,451,Medication,2128.57
+911,452,Surgery,12163.44
+912,452,Medication,2391.01
+913,452,Physiotherapy,5352.82
+914,453,Consultation,878.03
+915,453,Laboratory test,2876.61
+916,454,Consultation,4701.7
+917,454,Diagnostic imaging,3105.14
+918,454,Laboratory test,5857.02
+919,455,Physiotherapy,2828.11
+920,455,Surgery,9068.49
+921,455,Laboratory test,1408.26
+922,456,Medication,285.06
+923,457,Physiotherapy,253.33
+924,457,Surgery,2889.57
+925,458,Laboratory test,4572.5
+926,458,Surgery,13940.09
+927,459,Physiotherapy,4749.01
+928,459,Diagnostic imaging,1230.72
+929,460,Laboratory test,626.52
+930,461,Medication,5787.52
+931,462,Laboratory test,5056.29
+932,462,Surgery,6516.8
+933,463,Surgery,1922.41
+934,464,Physiotherapy,3033.04
+935,464,Diagnostic imaging,5533.57
+936,465,Surgery,4806.45
+937,465,Laboratory test,6191.99
+938,466,Surgery,18617.32
+939,467,Surgery,7814.34
+940,468,Surgery,3279.87
+941,468,Consultation,4254.29
+942,468,Consultation,1544.33
+943,469,Surgery,3061.19
+944,469,Physiotherapy,5382.84
+945,470,Diagnostic imaging,3345.57
+946,471,Diagnostic imaging,6260.24
+947,471,Physiotherapy,3163.71
+948,472,Diagnostic imaging,3150.81
+949,472,Consultation,5350.18
+950,473,Surgery,20641.12
+951,473,Medication,1784.11
+952,474,Laboratory test,4504.73
+953,475,Diagnostic imaging,4876.72
+954,475,Diagnostic imaging,5996.11
+955,476,Physiotherapy,2365.17
+956,476,Laboratory test,2633.02
+957,477,Surgery,15974.88
+958,477,Laboratory test,1981.39
+959,478,Surgery,8249.21
+960,478,Laboratory test,249.01
+961,479,Laboratory test,1024.51
+962,480,Diagnostic imaging,354.07
+963,480,Laboratory test,1729.43
+964,481,Diagnostic imaging,4489.09
+965,481,Diagnostic imaging,1737.63
+966,481,Surgery,15631.37
+967,482,Physiotherapy,4675.0
+968,482,Surgery,10078.88
+969,482,Surgery,11919.03
+970,483,Medication,3599.76
+971,484,Consultation,497.3
+972,485,Physiotherapy,3862.32
+973,486,Physiotherapy,2124.16
+974,486,Consultation,5265.67
+975,487,Consultation,5437.81
+976,487,Surgery,11092.31
+977,488,Diagnostic imaging,4189.85
+978,488,Diagnostic imaging,1049.71
+979,489,Physiotherapy,1897.4
+980,489,Surgery,19609.86
+981,490,Physiotherapy,4280.18
+982,491,Medication,1488.45
+983,491,Physiotherapy,3484.1
+984,491,Medication,548.56
+985,492,Physiotherapy,3221.78
+986,493,Medication,2360.4
+987,493,Medication,5419.78
+988,493,Consultation,435.3
+989,494,Diagnostic imaging,4773.84
+990,495,Medication,4158.72
+991,495,Consultation,6014.55
+992,496,Laboratory test,1581.9
+993,496,Physiotherapy,1179.27
+994,496,Medication,5285.07
+995,497,Diagnostic imaging,4482.99
+996,497,Physiotherapy,4228.18
+997,498,Surgery,17606.81
+998,498,Consultation,3764.12
+999,499,Laboratory test,2629.21
+1000,499,Laboratory test,581.5
+1001,500,Consultation,3616.73
+1002,500,Consultation,3850.61
+1003,500,Laboratory test,4298.02
+1004,501,Surgery,2273.31
+1005,502,Laboratory test,4743.14
+1006,503,Consultation,317.35
+1007,504,Diagnostic imaging,2878.71
+1008,504,Surgery,15499.87
+1009,504,Consultation,2931.0
+1010,505,Consultation,1592.25
+1011,505,Physiotherapy,4928.81
+1012,505,Medication,3757.11
+1013,506,Medication,4310.58
+1014,506,Diagnostic imaging,6487.86
+1015,507,Surgery,20039.46
+1016,508,Laboratory test,5867.7
+1017,509,Laboratory test,4753.18
+1018,510,Laboratory test,3885.32
+1019,510,Laboratory test,5402.59
+1020,511,Physiotherapy,2887.39
+1021,512,Physiotherapy,5415.67
+1022,512,Surgery,24274.35
+1023,513,Medication,4717.05
+1024,513,Medication,1801.64
+1025,514,Laboratory test,2293.33
+1026,514,Surgery,1321.32
+1027,514,Laboratory test,2446.76
+1028,515,Surgery,729.15
+1029,515,Consultation,3111.89
+1030,516,Surgery,5239.56
+1031,517,Consultation,4306.72
+1032,518,Consultation,4457.76
+1033,518,Laboratory test,3581.8
+1034,519,Laboratory test,5415.03
+1035,519,Physiotherapy,2791.41
+1036,519,Physiotherapy,2858.12
+1037,520,Laboratory test,433.28
+1038,521,Surgery,23302.67
+1039,522,Physiotherapy,919.89
+1040,522,Medication,5218.61
+1041,522,Medication,3149.29
+1042,523,Surgery,8986.15
+1043,524,Surgery,17044.82
+1044,524,Surgery,22069.94
+1045,524,Diagnostic imaging,3765.32
+1046,525,Laboratory test,899.07
+1047,525,Surgery,11933.38
+1048,526,Consultation,952.63
+1049,526,Consultation,5445.0
+1050,526,Consultation,4531.8
+1051,527,Laboratory test,5848.66
+1052,528,Surgery,8277.83
+1053,528,Surgery,19678.15
+1054,528,Physiotherapy,1314.91
+1055,529,Surgery,5154.04
+1056,529,Physiotherapy,3884.31
+1057,530,Laboratory test,2588.83
+1058,530,Diagnostic imaging,6204.81
+1059,531,Diagnostic imaging,902.8
+1060,531,Laboratory test,3240.14
+1061,532,Medication,5881.14
+1062,533,Surgery,14704.81
+1063,533,Surgery,8434.63
+1064,533,Consultation,4698.19
+1065,534,Consultation,4876.16
+1066,534,Diagnostic imaging,4768.75
+1067,535,Surgery,3037.18
+1068,536,Medication,2538.93
+1069,537,Consultation,6187.79
+1070,537,Physiotherapy,4908.98
+1071,537,Consultation,2907.92
+1072,538,Laboratory test,3224.88
+1073,538,Physiotherapy,6210.03
+1074,538,Laboratory test,5488.39
+1075,539,Laboratory test,2814.42
+1076,540,Diagnostic imaging,5062.88
+1077,540,Surgery,23563.35
+1078,540,Surgery,16929.38
+1079,541,Surgery,22700.6
+1080,541,Surgery,11313.36
+1081,542,Diagnostic imaging,5100.16
+1082,542,Consultation,6169.02
+1083,542,Medication,4028.27
+1084,543,Consultation,3443.42
+1085,543,Laboratory test,3550.25
+1086,543,Diagnostic imaging,5472.25
+1087,544,Consultation,4945.02
+1088,545,Laboratory test,4911.96
+1089,546,Consultation,4865.84
+1090,547,Physiotherapy,298.79
+1091,547,Laboratory test,3064.05
+1092,547,Consultation,1828.11
+1093,548,Consultation,6456.53
+1094,548,Physiotherapy,2649.65
+1095,549,Medication,841.82
+1096,549,Laboratory test,2260.97
+1097,550,Surgery,14774.51
+1098,550,Medication,4979.69
+1099,550,Consultation,5023.04
+1100,551,Diagnostic imaging,4944.49
+1101,551,Surgery,15390.09
+1102,551,Laboratory test,6242.67
+1103,552,Diagnostic imaging,4956.23
+1104,552,Diagnostic imaging,3451.61
+1105,553,Medication,2805.24
+1106,553,Consultation,2034.37
+1107,553,Surgery,27881.9
+1108,554,Physiotherapy,1448.33
+1109,554,Medication,6195.17
+1110,554,Laboratory test,3448.06
+1111,555,Diagnostic imaging,1104.72
+1112,555,Consultation,6457.52
+1113,556,Diagnostic imaging,574.0
+1114,556,Physiotherapy,3700.64
+1115,556,Diagnostic imaging,2340.48
+1116,557,Medication,4224.16
+1117,557,Diagnostic imaging,641.97
+1118,557,Diagnostic imaging,803.9
+1119,558,Medication,4394.96
+1120,558,Surgery,6058.26
+1121,558,Consultation,5124.37
+1122,559,Medication,5275.94
+1123,560,Laboratory test,5475.42
+1124,560,Laboratory test,3519.85
+1125,561,Laboratory test,4502.08
+1126,561,Medication,5863.49
+1127,561,Physiotherapy,2360.95
+1128,562,Laboratory test,1286.69
+1129,562,Physiotherapy,6471.03
+1130,563,Consultation,4003.02
+1131,563,Consultation,4259.84
+1132,563,Physiotherapy,3189.97
+1133,564,Physiotherapy,3035.95
+1134,564,Diagnostic imaging,3156.4
+1135,564,Physiotherapy,4916.22
+1136,565,Consultation,2965.45
+1137,566,Diagnostic imaging,5901.35
+1138,566,Medication,4735.56
+1139,566,Laboratory test,3428.76
+1140,567,Laboratory test,4014.16
+1141,568,Surgery,2696.49
+1142,568,Consultation,1308.88
+1143,568,Consultation,1328.93
+1144,569,Physiotherapy,4228.72
+1145,569,Diagnostic imaging,4896.04
+1146,570,Laboratory test,5760.66
+1147,571,Physiotherapy,5431.49
+1148,571,Consultation,6180.37
+1149,571,Medication,2599.07
+1150,572,Medication,5061.15
+1151,573,Medication,2549.73
+1152,573,Medication,5873.1
+1153,574,Laboratory test,2094.85
+1154,575,Diagnostic imaging,1753.85
+1155,575,Laboratory test,3965.98
+1156,576,Consultation,1191.56
+1157,576,Diagnostic imaging,6006.95
+1158,576,Medication,6279.25
+1159,577,Surgery,11238.83
+1160,577,Surgery,273.4
+1161,578,Physiotherapy,3676.46
+1162,579,Surgery,23319.88
+1163,579,Physiotherapy,1691.41
+1164,579,Consultation,2611.09
+1165,580,Physiotherapy,4851.72
+1166,580,Medication,320.79
+1167,581,Physiotherapy,1610.97
+1168,582,Surgery,18988.82
+1169,582,Surgery,1216.44
+1170,583,Surgery,22548.52
+1171,583,Consultation,1171.61
+1172,583,Diagnostic imaging,3799.23
+1173,584,Physiotherapy,886.34
+1174,584,Surgery,14182.21
+1175,584,Surgery,20008.65
+1176,585,Physiotherapy,3897.47
+1177,585,Diagnostic imaging,3419.59
+1178,586,Medication,4508.56
+1179,587,Laboratory test,4188.49
+1180,587,Medication,859.19
+1181,588,Laboratory test,2343.2
+1182,588,Surgery,19369.53
+1183,589,Medication,6374.69
+1184,589,Consultation,2294.86
+1185,590,Consultation,5189.64
+1186,590,Medication,1807.2
+1187,591,Physiotherapy,4524.28
+1188,591,Diagnostic imaging,1908.02
+1189,592,Diagnostic imaging,1894.78
+1190,592,Surgery,16874.45
+1191,592,Physiotherapy,2170.31
+1192,593,Surgery,17864.94
+1193,593,Laboratory test,3588.26
+1194,593,Surgery,26053.97
+1195,594,Surgery,1145.4
+1196,594,Medication,6295.04
+1197,595,Physiotherapy,3117.86
+1198,595,Diagnostic imaging,4117.88
+1199,596,Diagnostic imaging,2553.02
+1200,596,Consultation,765.82
+1201,596,Diagnostic imaging,1491.79
+1202,597,Laboratory test,4152.25
+1203,597,Physiotherapy,5768.21
+1204,598,Surgery,4605.86
+1205,598,Diagnostic imaging,2690.35
+1206,599,Diagnostic imaging,4191.25
+1207,599,Medication,1573.62
+1208,600,Medication,4121.89
+1209,601,Laboratory test,4741.43
+1210,601,Diagnostic imaging,1262.59
+1211,602,Medication,2967.2
+1212,602,Diagnostic imaging,5209.39
+1213,602,Surgery,14130.96
+1214,603,Surgery,24175.19
+1215,603,Consultation,5122.32
+1216,603,Laboratory test,5759.32
+1217,604,Surgery,20136.33
+1218,604,Medication,4145.85
+1219,605,Diagnostic imaging,5201.76
+1220,606,Surgery,19662.84
+1221,606,Medication,1898.15
+1222,607,Physiotherapy,2085.11
+1223,607,Physiotherapy,2943.13
+1224,607,Laboratory test,1130.7
+1225,608,Medication,226.62
+1226,609,Laboratory test,2550.17
+1227,609,Surgery,18242.45
+1228,609,Medication,3211.03
+1229,610,Diagnostic imaging,2413.78
+1230,610,Surgery,16051.07
+1231,610,Physiotherapy,5905.02
+1232,611,Consultation,1873.86
+1233,611,Medication,5525.95
+1234,611,Medication,5691.11
+1235,612,Physiotherapy,4705.37
+1236,613,Laboratory test,536.49
+1237,613,Diagnostic imaging,1699.02
+1238,613,Medication,3180.74
+1239,614,Consultation,3594.04
+1240,615,Laboratory test,4941.46
+1241,616,Diagnostic imaging,2316.25
+1242,616,Physiotherapy,3714.03
+1243,616,Laboratory test,4124.6
+1244,617,Physiotherapy,2084.47
+1245,617,Surgery,9752.48
+1246,618,Physiotherapy,2055.39
+1247,619,Medication,6380.33
+1248,619,Physiotherapy,3929.71
+1249,620,Laboratory test,3005.65
+1250,620,Surgery,15881.2
+1251,620,Surgery,407.41
+1252,621,Physiotherapy,4700.87
+1253,622,Medication,2944.66
+1254,622,Laboratory test,828.4
+1255,622,Diagnostic imaging,1168.65
+1256,623,Consultation,506.33
+1257,624,Diagnostic imaging,3895.28
+1258,625,Consultation,1041.97
+1259,625,Consultation,5679.11
+1260,625,Physiotherapy,4667.41
+1261,626,Physiotherapy,1794.81
+1262,626,Medication,4897.58
+1263,626,Consultation,1040.71
+1264,627,Laboratory test,5167.37
+1265,627,Surgery,8093.44
+1266,627,Laboratory test,4178.27
+1267,628,Physiotherapy,2886.51
+1268,629,Surgery,16198.98
+1269,630,Surgery,18387.75
+1270,630,Diagnostic imaging,5039.04
+1271,630,Medication,6026.01
+1272,631,Medication,2363.1
+1273,632,Laboratory test,323.33
+1274,633,Diagnostic imaging,5045.75
+1275,634,Physiotherapy,3990.79
+1276,634,Physiotherapy,6470.52
+1277,635,Surgery,22544.67
+1278,636,Consultation,4280.25
+1279,636,Surgery,24557.39
+1280,636,Consultation,6190.81
+1281,637,Physiotherapy,3133.31
+1282,638,Medication,6279.66
+1283,639,Medication,2188.81
+1284,639,Consultation,2255.55
+1285,640,Consultation,244.86
+1286,641,Physiotherapy,154.58
+1287,641,Surgery,13278.26
+1288,641,Laboratory test,964.06
+1289,642,Diagnostic imaging,4335.98
+1290,643,Physiotherapy,6334.63
+1291,643,Physiotherapy,3901.48
+1292,644,Surgery,17784.68
+1293,644,Diagnostic imaging,6370.02
+1294,644,Consultation,1057.76
+1295,645,Medication,2725.92
+1296,645,Diagnostic imaging,3027.78
+1297,645,Laboratory test,3616.33
+1298,646,Consultation,4391.88
+1299,646,Laboratory test,4996.76
+1300,646,Laboratory test,550.8
+1301,647,Laboratory test,3023.79
+1302,647,Medication,6400.38
+1303,648,Physiotherapy,4878.18
+1304,649,Diagnostic imaging,785.88
+1305,649,Diagnostic imaging,4181.66
+1306,650,Surgery,25251.55
+1307,650,Surgery,25051.41
+1308,651,Surgery,4143.42
+1309,652,Diagnostic imaging,6267.32
+1310,653,Consultation,4193.4
+1311,653,Medication,2125.87
+1312,654,Consultation,5739.44
+1313,655,Physiotherapy,5645.96
+1314,655,Surgery,21297.25
+1315,655,Diagnostic imaging,3470.03
+1316,656,Physiotherapy,1901.75
+1317,656,Laboratory test,4215.69
+1318,656,Laboratory test,2814.75
+1319,657,Laboratory test,810.18
+1320,657,Physiotherapy,3247.92
+1321,657,Medication,5467.57
+1322,658,Consultation,895.96
+1323,658,Diagnostic imaging,2440.45
+1324,658,Physiotherapy,4654.09
+1325,659,Physiotherapy,5087.96
+1326,659,Physiotherapy,5916.32
+1327,659,Diagnostic imaging,3750.01
+1328,660,Diagnostic imaging,1906.62
+1329,660,Consultation,2210.65
+1330,661,Surgery,24021.94
+1331,662,Diagnostic imaging,4954.18
+1332,662,Diagnostic imaging,1830.72
+1333,662,Physiotherapy,3232.55
+1334,663,Medication,1279.72
+1335,663,Medication,4567.29
+1336,663,Diagnostic imaging,742.86
+1337,664,Physiotherapy,5322.54
+1338,665,Surgery,6479.0
+1339,666,Surgery,23502.58
+1340,666,Surgery,15687.95
+1341,666,Medication,1370.72
+1342,667,Laboratory test,2464.67
+1343,667,Diagnostic imaging,2182.98
+1344,668,Laboratory test,815.53
+1345,668,Medication,1596.69
+1346,668,Laboratory test,4706.53
+1347,669,Diagnostic imaging,290.43
+1348,670,Laboratory test,6165.68
+1349,670,Physiotherapy,325.11
+1350,670,Medication,3266.64
+1351,671,Medication,5219.94
+1352,672,Consultation,3514.05
+1353,672,Physiotherapy,1173.67
+1354,672,Diagnostic imaging,1729.88
+1355,673,Medication,4600.9
+1356,673,Physiotherapy,2610.31
+1357,674,Consultation,1322.0
+1358,674,Surgery,5816.85
+1359,675,Consultation,4485.21
+1360,675,Consultation,1220.06
+1361,675,Medication,229.87
+1362,676,Consultation,5687.82
+1363,676,Diagnostic imaging,3958.21
+1364,677,Laboratory test,834.37
+1365,677,Physiotherapy,1295.65
+1366,678,Consultation,4396.28
+1367,678,Consultation,2298.48
+1368,679,Physiotherapy,4941.78
+1369,679,Medication,777.26
+1370,679,Medication,727.55
+1371,680,Physiotherapy,2857.13
+1372,680,Surgery,10713.61
+1373,681,Physiotherapy,499.98
+1374,681,Consultation,1344.3
+1375,681,Consultation,2100.21
+1376,682,Diagnostic imaging,2383.71
+1377,682,Medication,482.96
+1378,683,Physiotherapy,2183.97
+1379,684,Laboratory test,6400.95
+1380,684,Surgery,23187.38
+1381,684,Laboratory test,5976.66
+1382,685,Physiotherapy,4827.62
+1383,686,Physiotherapy,2661.22
+1384,686,Physiotherapy,5021.25
+1385,686,Diagnostic imaging,4359.82
+1386,687,Physiotherapy,6059.43
+1387,687,Surgery,8153.39
+1388,687,Laboratory test,1957.88
+1389,688,Surgery,3284.29
+1390,688,Diagnostic imaging,391.5
+1391,689,Medication,5019.12
+1392,689,Diagnostic imaging,5030.29
+1393,689,Physiotherapy,2168.8
+1394,690,Diagnostic imaging,6162.32
+1395,690,Medication,554.17
+1396,691,Medication,6272.52
+1397,692,Consultation,1061.14
+1398,692,Consultation,4495.41
+1399,693,Physiotherapy,5382.39
+1400,694,Laboratory test,2341.68
+1401,694,Physiotherapy,3039.15
+1402,694,Diagnostic imaging,3034.32
+1403,695,Consultation,2891.53
+1404,695,Laboratory test,1064.3
+1405,695,Surgery,11637.81
+1406,696,Physiotherapy,3022.18
+1407,696,Surgery,13112.6
+1408,697,Physiotherapy,5129.2
+1409,697,Laboratory test,5867.25
+1410,697,Medication,5626.49
+1411,698,Surgery,1662.08
+1412,698,Diagnostic imaging,2294.29
+1413,698,Diagnostic imaging,4338.79
+1414,699,Surgery,16208.17
+1415,699,Diagnostic imaging,1106.84
+1416,699,Laboratory test,3125.48
+1417,700,Consultation,286.31
+1418,701,Laboratory test,4107.52
+1419,702,Diagnostic imaging,2786.43
+1420,703,Physiotherapy,6153.3
+1421,704,Medication,3781.63
+1422,704,Surgery,25058.17
+1423,705,Consultation,6454.89
+1424,706,Medication,2802.64
+1425,706,Diagnostic imaging,2469.12
+1426,706,Laboratory test,1369.35
+1427,707,Surgery,9616.12
+1428,707,Laboratory test,4912.48
+1429,708,Medication,272.0
+1430,708,Surgery,5790.08
+1431,708,Surgery,10795.47
+1432,709,Laboratory test,3657.63
+1433,709,Surgery,8065.54
+1434,709,Consultation,5949.82
+1435,710,Laboratory test,562.49
+1436,711,Medication,4125.9
+1437,712,Consultation,4710.92
+1438,713,Diagnostic imaging,4647.31
+1439,713,Surgery,17051.45
+1440,714,Medication,3804.01
+1441,715,Surgery,14309.66
+1442,715,Laboratory test,1535.94
+1443,715,Laboratory test,5385.38
+1444,716,Surgery,2468.66
+1445,716,Physiotherapy,2981.67
+1446,716,Physiotherapy,4433.08
+1447,717,Laboratory test,4862.92
+1448,717,Surgery,10529.8
+1449,718,Surgery,13115.56
+1450,718,Surgery,12797.9
+1451,719,Consultation,2908.32
+1452,719,Physiotherapy,5899.05
+1453,720,Surgery,4643.28
+1454,720,Medication,1913.2
+1455,721,Laboratory test,4633.25
+1456,722,Laboratory test,4493.77
+1457,722,Surgery,17222.64
+1458,722,Medication,971.87
+1459,723,Laboratory test,4520.59
+1460,724,Physiotherapy,3783.95
+1461,724,Diagnostic imaging,4646.47
+1462,725,Medication,2192.51
+1463,726,Consultation,3158.29
+1464,726,Diagnostic imaging,4169.99
+1465,727,Diagnostic imaging,6231.56
+1466,727,Medication,3992.27
+1467,727,Laboratory test,4807.22
+1468,728,Consultation,4287.88
+1469,729,Laboratory test,3045.24
+1470,730,Surgery,10484.81
+1471,730,Laboratory test,5431.96
+1472,730,Surgery,15516.03
+1473,731,Consultation,4739.63
+1474,731,Physiotherapy,987.35
+1475,731,Consultation,6036.12
+1476,732,Consultation,3277.09
+1477,732,Medication,544.66
+1478,733,Diagnostic imaging,508.87
+1479,734,Laboratory test,2200.73
+1480,734,Physiotherapy,4406.17
+1481,734,Consultation,3390.07
+1482,735,Laboratory test,4606.58
+1483,736,Medication,2526.81
+1484,736,Surgery,4686.21
+1485,737,Medication,6295.12
+1486,737,Physiotherapy,3399.96
+1487,738,Physiotherapy,1511.07
+1488,738,Medication,5343.41
+1489,738,Laboratory test,3095.0
+1490,739,Surgery,26523.56
+1491,740,Medication,831.11
+1492,741,Consultation,2487.12
+1493,742,Diagnostic imaging,1818.31
+1494,742,Diagnostic imaging,914.06
+1495,743,Consultation,4613.27
+1496,743,Surgery,2006.13
+1497,744,Consultation,3812.43
+1498,745,Diagnostic imaging,4529.44
+1499,746,Laboratory test,711.44
+1500,746,Laboratory test,3047.24
+1501,747,Medication,2701.3
+1502,748,Medication,1757.82
+1503,749,Laboratory test,3580.34
+1504,749,Physiotherapy,1162.37
+1505,749,Medication,1035.96
+1506,750,Medication,4370.44
+1507,750,Diagnostic imaging,4847.17
+1508,751,Medication,2379.7
+1509,752,Consultation,5821.72
+1510,752,Medication,5229.59
+1511,752,Surgery,4255.87
+1512,753,Consultation,347.47
+1513,754,Physiotherapy,3944.51
+1514,755,Surgery,9119.78
+1515,756,Surgery,1323.14
+1516,757,Surgery,21036.2
+1517,757,Diagnostic imaging,3982.92
+1518,758,Surgery,2167.51
+1519,758,Diagnostic imaging,3091.19
+1520,758,Physiotherapy,3738.07
+1521,759,Consultation,1993.32
+1522,760,Consultation,2069.46
+1523,760,Diagnostic imaging,2309.45
+1524,761,Surgery,10425.25
+1525,761,Physiotherapy,2880.33
+1526,762,Consultation,703.99
+1527,763,Diagnostic imaging,2982.75
+1528,763,Medication,2520.56
+1529,763,Laboratory test,3184.54
+1530,764,Laboratory test,530.96
+1531,765,Diagnostic imaging,1348.04
+1532,765,Surgery,13522.14
+1533,766,Consultation,3745.1
+1534,766,Diagnostic imaging,4131.07
+1535,766,Surgery,23553.64
+1536,767,Physiotherapy,4763.24
+1537,768,Medication,3459.99
+1538,769,Laboratory test,2647.25
+1539,769,Surgery,18292.13
+1540,770,Laboratory test,727.77
+1541,770,Surgery,27312.54
+1542,771,Laboratory test,5910.83
+1543,771,Medication,1364.54
+1544,772,Diagnostic imaging,5244.25
+1545,772,Physiotherapy,2023.35
+1546,772,Physiotherapy,4505.97
+1547,773,Diagnostic imaging,1456.41
+1548,773,Physiotherapy,5422.97
+1549,773,Diagnostic imaging,5784.19
+1550,774,Consultation,1753.6
+1551,774,Surgery,22813.93
+1552,774,Surgery,340.66
+1553,775,Surgery,17680.13
+1554,776,Consultation,1911.21
+1555,777,Laboratory test,6352.91
+1556,778,Diagnostic imaging,295.76
+1557,779,Consultation,757.59
+1558,779,Surgery,6382.01
+1559,780,Diagnostic imaging,1624.35
+1560,780,Consultation,2744.19
+1561,781,Medication,2323.53
+1562,781,Consultation,3318.85
+1563,782,Surgery,5997.88
+1564,783,Medication,1699.86
+1565,783,Physiotherapy,560.81
+1566,783,Physiotherapy,5230.64
+1567,784,Diagnostic imaging,1858.92
+1568,784,Laboratory test,3188.67
+1569,785,Medication,4565.24
+1570,786,Surgery,8896.85
+1571,787,Medication,3136.08
+1572,787,Surgery,25084.09
+1573,788,Consultation,5097.03
+1574,788,Medication,4981.46
+1575,788,Physiotherapy,1286.17
+1576,789,Diagnostic imaging,1210.46
+1577,789,Surgery,4576.49
+1578,790,Physiotherapy,3998.17
+1579,791,Medication,4761.59
+1580,791,Medication,3113.04
+1581,791,Physiotherapy,6139.86
+1582,792,Consultation,3958.72
+1583,793,Surgery,21758.25
+1584,794,Surgery,11328.89
+1585,794,Physiotherapy,3104.05
+1586,795,Surgery,25485.63
+1587,795,Physiotherapy,5687.92
+1588,796,Consultation,1076.71
+1589,797,Surgery,9877.19
+1590,797,Laboratory test,1959.29
+1591,797,Consultation,5237.77
+1592,798,Surgery,9411.72
+1593,799,Consultation,2073.48
+1594,800,Consultation,1187.54
+1595,801,Medication,4772.3
+1596,801,Laboratory test,5551.27
+1597,802,Diagnostic imaging,1586.36
+1598,802,Consultation,2905.1
+1599,802,Laboratory test,2233.78
+1600,803,Diagnostic imaging,3098.61
+1601,804,Medication,3205.45
+1602,805,Laboratory test,900.74
+1603,805,Diagnostic imaging,3239.4
+1604,806,Diagnostic imaging,3947.19
+1605,806,Medication,2542.98
+1606,807,Consultation,3142.17
+1607,808,Laboratory test,784.82
+1608,808,Medication,672.9
+1609,809,Laboratory test,1030.21
+1610,809,Surgery,17071.15
+1611,809,Laboratory test,1149.45
+1612,810,Surgery,22735.01
+1613,810,Laboratory test,6193.32
+1614,810,Laboratory test,2014.7
+1615,811,Consultation,523.05
+1616,812,Diagnostic imaging,4713.37
+1617,812,Surgery,11624.19
+1618,812,Physiotherapy,4393.51
+1619,813,Consultation,460.59
+1620,813,Laboratory test,2623.7
+1621,814,Laboratory test,6233.71
+1622,814,Medication,5662.65
+1623,814,Diagnostic imaging,197.24
+1624,815,Diagnostic imaging,4726.98
+1625,815,Surgery,1316.96
+1626,816,Diagnostic imaging,2261.49
+1627,817,Consultation,3038.95
+1628,817,Physiotherapy,3902.69
+1629,817,Laboratory test,3571.33
+1630,818,Medication,3781.55
+1631,818,Laboratory test,5450.99
+1632,819,Diagnostic imaging,6195.25
+1633,820,Medication,5665.27
+1634,821,Diagnostic imaging,6027.75
+1635,822,Consultation,781.57
+1636,822,Physiotherapy,4791.96
+1637,823,Medication,4541.39
+1638,823,Physiotherapy,585.55
+1639,824,Medication,3104.64
+1640,824,Consultation,3205.89
+1641,824,Medication,1917.21
+1642,825,Diagnostic imaging,1075.91
+1643,826,Medication,5076.72
+1644,827,Surgery,10996.9
+1645,827,Physiotherapy,2492.33
+1646,827,Consultation,381.01
+1647,828,Consultation,1001.41
+1648,828,Consultation,3926.02
+1649,829,Laboratory test,1712.34
+1650,829,Medication,5370.75
+1651,829,Laboratory test,397.26
+1652,830,Laboratory test,626.96
+1653,830,Laboratory test,4840.29
+1654,830,Surgery,880.82
+1655,831,Laboratory test,2171.28
+1656,831,Consultation,1309.63
+1657,832,Medication,6088.58
+1658,832,Physiotherapy,3617.51
+1659,832,Medication,4327.66
+1660,833,Consultation,6176.05
+1661,834,Laboratory test,1219.21
+1662,835,Consultation,4476.96
+1663,835,Laboratory test,3811.99
+1664,836,Laboratory test,2336.1
+1665,836,Surgery,27270.77
+1666,836,Surgery,25523.21
+1667,837,Medication,1363.9
+1668,837,Laboratory test,4539.75
+1669,838,Consultation,4493.83
+1670,838,Diagnostic imaging,6279.15
+1671,838,Laboratory test,6242.19
+1672,839,Physiotherapy,5138.54
+1673,839,Laboratory test,2214.46
+1674,839,Surgery,10759.61
+1675,840,Surgery,26588.72
+1676,840,Surgery,1607.9
+1677,841,Laboratory test,1923.73
+1678,842,Surgery,7732.5
+1679,842,Surgery,6370.7
+1680,843,Laboratory test,4729.89
+1681,844,Laboratory test,1750.83
+1682,845,Laboratory test,159.27
+1683,845,Diagnostic imaging,1339.81
+1684,845,Physiotherapy,2095.25
+1685,846,Surgery,13343.96
+1686,847,Consultation,4529.78
+1687,847,Consultation,3738.76
+1688,847,Diagnostic imaging,1618.78
+1689,848,Diagnostic imaging,1551.65
+1690,848,Diagnostic imaging,1537.29
+1691,848,Consultation,382.51
+1692,849,Consultation,743.79
+1693,849,Laboratory test,5173.48
+1694,849,Medication,4889.75
+1695,850,Diagnostic imaging,5202.84
+1696,850,Laboratory test,785.59
+1697,851,Physiotherapy,769.2
+1698,852,Diagnostic imaging,992.19
+1699,853,Laboratory test,5450.64
+1700,853,Surgery,4521.54
+1701,853,Consultation,5443.48
+1702,854,Diagnostic imaging,1494.84
+1703,855,Diagnostic imaging,5412.72
+1704,855,Medication,3533.58
+1705,856,Surgery,8451.07
+1706,857,Surgery,11200.35
+1707,857,Physiotherapy,3837.21
+1708,857,Physiotherapy,5336.07
+1709,858,Medication,3656.96
+1710,859,Diagnostic imaging,5248.22
+1711,860,Diagnostic imaging,4476.5
+1712,860,Laboratory test,340.25
+1713,861,Physiotherapy,1359.18
+1714,862,Surgery,18902.96
+1715,862,Medication,4249.6
+1716,863,Consultation,1106.17
+1717,863,Laboratory test,3333.99
+1718,863,Consultation,2144.62
+1719,864,Laboratory test,4192.84
+1720,864,Consultation,2445.31
+1721,865,Laboratory test,4349.41
+1722,865,Laboratory test,2119.3
+1723,866,Medication,5585.76
+1724,866,Medication,3071.15
+1725,867,Medication,939.08
+1726,867,Medication,5961.74
+1727,868,Physiotherapy,5000.47
+1728,868,Medication,4263.17
+1729,869,Laboratory test,1157.06
+1730,869,Diagnostic imaging,5734.48
+1731,870,Physiotherapy,2625.74
+1732,870,Laboratory test,6158.0
+1733,871,Diagnostic imaging,6241.04
+1734,871,Physiotherapy,297.73
+1735,872,Physiotherapy,841.93
+1736,873,Physiotherapy,2308.55
+1737,873,Laboratory test,4511.35
+1738,873,Consultation,6456.35
+1739,874,Physiotherapy,1558.93
+1740,874,Diagnostic imaging,5267.77
+1741,875,Medication,730.51
+1742,876,Consultation,6221.94
+1743,876,Medication,4984.6
+1744,876,Surgery,21295.55
+1745,877,Consultation,6482.62
+1746,878,Surgery,17922.13
+1747,878,Surgery,7572.87
+1748,879,Consultation,634.2
+1749,880,Medication,1034.51
+1750,881,Laboratory test,2806.01
+1751,881,Consultation,1770.19
+1752,882,Consultation,5090.42
+1753,882,Laboratory test,1659.07
+1754,882,Surgery,12145.58
+1755,883,Consultation,3453.63
+1756,884,Diagnostic imaging,5024.23
+1757,885,Medication,4240.36
+1758,885,Diagnostic imaging,4094.48
+1759,886,Laboratory test,2045.1
+1760,887,Consultation,4385.61
+1761,888,Diagnostic imaging,6087.01
+1762,888,Physiotherapy,6470.56
+1763,888,Laboratory test,3851.41
+1764,889,Medication,2026.73
+1765,890,Laboratory test,3766.21
+1766,890,Diagnostic imaging,6203.38
+1767,890,Diagnostic imaging,838.05
+1768,891,Medication,4592.95
+1769,891,Medication,3153.41
+1770,892,Medication,1549.52
+1771,892,Physiotherapy,4357.15
+1772,892,Laboratory test,4278.7
+1773,893,Medication,4023.54
+1774,893,Laboratory test,340.12
+1775,893,Diagnostic imaging,2729.57
+1776,894,Surgery,17742.29
+1777,894,Diagnostic imaging,244.83
+1778,895,Diagnostic imaging,5085.34
+1779,895,Surgery,15275.74
+1780,896,Diagnostic imaging,156.21
+1781,896,Physiotherapy,5561.52
+1782,897,Laboratory test,5379.61
+1783,897,Consultation,454.27
+1784,897,Consultation,2532.47
+1785,898,Diagnostic imaging,5629.41
+1786,898,Medication,1393.96
+1787,899,Surgery,12534.78
+1788,899,Laboratory test,2631.19
+1789,900,Consultation,4886.23
+1790,900,Surgery,20368.42
+1791,900,Surgery,25858.5
+1792,901,Diagnostic imaging,3032.05
+1793,902,Medication,6037.51
+1794,902,Surgery,545.3
+1795,903,Diagnostic imaging,5389.81
+1796,903,Physiotherapy,2167.75
+1797,904,Laboratory test,3912.72
+1798,904,Physiotherapy,6253.86
+1799,905,Consultation,1651.82
+1800,905,Diagnostic imaging,4481.01
+1801,906,Consultation,5445.63
+1802,907,Medication,2309.87
+1803,907,Surgery,22016.95
+1804,907,Physiotherapy,4001.24
+1805,908,Consultation,2299.29
+1806,908,Medication,4914.22
+1807,909,Surgery,14632.2
+1808,910,Diagnostic imaging,4145.26
+1809,911,Physiotherapy,1832.17
+1810,912,Medication,3542.55
+1811,912,Physiotherapy,1855.09
+1812,912,Surgery,17550.38
+1813,913,Medication,2900.51
+1814,913,Physiotherapy,3948.72
+1815,913,Physiotherapy,1742.4
+1816,914,Laboratory test,3019.33
+1817,914,Medication,3372.85
+1818,915,Surgery,13503.44
+1819,915,Medication,5033.83
+1820,916,Medication,3529.45
+1821,916,Surgery,15289.86
+1822,917,Physiotherapy,392.44
+1823,917,Physiotherapy,3529.09
+1824,918,Laboratory test,4947.85
+1825,918,Surgery,10821.06
+1826,918,Medication,2257.42
+1827,919,Laboratory test,1309.23
+1828,919,Medication,2646.65
+1829,920,Diagnostic imaging,5650.96
+1830,920,Diagnostic imaging,3618.26
+1831,921,Medication,4985.51
+1832,922,Diagnostic imaging,2330.11
+1833,922,Medication,5113.68
+1834,922,Laboratory test,799.1
+1835,923,Laboratory test,6222.24
+1836,923,Medication,2209.79
+1837,923,Medication,2184.8
+1838,924,Surgery,16872.28
+1839,925,Consultation,2215.31
+1840,925,Surgery,3233.75
+1841,926,Medication,768.35
+1842,926,Surgery,12663.32
+1843,926,Laboratory test,440.78
+1844,927,Diagnostic imaging,3049.62
+1845,927,Medication,3510.5
+1846,928,Diagnostic imaging,5513.86
+1847,929,Consultation,6217.72
+1848,929,Medication,3365.89
+1849,930,Physiotherapy,1925.55
+1850,930,Physiotherapy,2306.05
+1851,930,Medication,2829.48
+1852,931,Surgery,27594.46
+1853,931,Consultation,1014.4
+1854,931,Consultation,5753.81
+1855,932,Physiotherapy,5721.31
+1856,933,Physiotherapy,2853.09
+1857,933,Physiotherapy,1306.65
+1858,933,Consultation,1952.83
+1859,934,Surgery,25193.61
+1860,934,Surgery,20212.26
+1861,935,Diagnostic imaging,5264.19
+1862,935,Diagnostic imaging,4643.04
+1863,935,Consultation,4830.24
+1864,936,Physiotherapy,201.53
+1865,936,Consultation,3449.4
+1866,937,Medication,4634.16
+1867,937,Physiotherapy,3045.77
+1868,938,Diagnostic imaging,5628.38
+1869,938,Consultation,2216.51
+1870,939,Surgery,26899.73
+1871,939,Physiotherapy,3126.71
+1872,939,Consultation,3053.01
+1873,940,Diagnostic imaging,1135.47
+1874,941,Laboratory test,1650.33
+1875,941,Medication,1063.59
+1876,941,Diagnostic imaging,2214.4
+1877,942,Physiotherapy,5753.92
+1878,942,Diagnostic imaging,1175.92
+1879,942,Surgery,8293.14
+1880,943,Medication,2936.35
+1881,943,Diagnostic imaging,3776.12
+1882,943,Surgery,2189.24
+1883,944,Medication,6190.35
+1884,945,Diagnostic imaging,1250.24
+1885,945,Consultation,1834.73
+1886,945,Medication,3254.8
+1887,946,Medication,2419.26
+1888,946,Diagnostic imaging,4197.66
+1889,946,Surgery,25899.4
+1890,947,Medication,2186.66
+1891,947,Surgery,2092.83
+1892,947,Diagnostic imaging,6208.5
+1893,948,Consultation,737.22
+1894,948,Diagnostic imaging,3185.1
+1895,948,Physiotherapy,5660.89
+1896,949,Medication,6293.08
+1897,950,Surgery,21136.31
+1898,950,Diagnostic imaging,489.75
+1899,951,Medication,4732.61
+1900,952,Laboratory test,1473.35
+1901,952,Consultation,4343.14
+1902,953,Physiotherapy,2656.88
+1903,953,Medication,1042.88
+1904,953,Laboratory test,5610.01
+1905,954,Laboratory test,6465.5
+1906,954,Laboratory test,4732.0
+1907,954,Consultation,5296.45
+1908,955,Consultation,1603.28
+1909,956,Consultation,1796.92
+1910,957,Diagnostic imaging,3690.31
+1911,957,Laboratory test,532.96
+1912,958,Physiotherapy,6151.72
+1913,958,Consultation,2324.18
+1914,958,Laboratory test,6201.01
+1915,959,Laboratory test,5915.68
+1916,959,Surgery,26795.35
+1917,959,Medication,5955.21
+1918,960,Laboratory test,2849.83
+1919,960,Diagnostic imaging,6155.64
+1920,961,Consultation,395.94
+1921,961,Consultation,5268.71
+1922,961,Physiotherapy,5182.57
+1923,962,Consultation,5308.33
+1924,962,Physiotherapy,2475.65
+1925,962,Consultation,1090.64
+1926,963,Diagnostic imaging,492.16
+1927,964,Consultation,4620.81
+1928,965,Laboratory test,3300.71
+1929,965,Diagnostic imaging,915.15
+1930,965,Consultation,2269.39
+1931,966,Diagnostic imaging,651.23
+1932,966,Medication,556.87
+1933,967,Physiotherapy,3892.15
+1934,967,Consultation,5198.91
+1935,968,Medication,581.45
+1936,968,Physiotherapy,3724.55
+1937,968,Physiotherapy,5597.79
+1938,969,Medication,3336.66
+1939,969,Medication,2039.94
+1940,969,Medication,5367.87
+1941,970,Surgery,16982.89
+1942,970,Physiotherapy,2008.11
+1943,971,Diagnostic imaging,5426.32
+1944,972,Surgery,22644.62
+1945,972,Consultation,4667.94
+1946,972,Laboratory test,1198.66
+1947,973,Consultation,2758.21
+1948,974,Laboratory test,4495.6
+1949,975,Medication,343.9
+1950,975,Consultation,6312.73
+1951,975,Surgery,25063.04
+1952,976,Laboratory test,2929.19
+1953,976,Consultation,3573.28
+1954,976,Consultation,5305.38
+1955,977,Medication,690.56
+1956,977,Medication,2710.51
+1957,978,Medication,1105.28
+1958,978,Physiotherapy,4926.19
+1959,978,Medication,6139.77
+1960,979,Surgery,3371.68
+1961,979,Surgery,1471.59
+1962,979,Medication,4228.78
+1963,980,Laboratory test,4213.99
+1964,981,Laboratory test,3026.93
+1965,982,Diagnostic imaging,5392.05
+1966,982,Surgery,7887.28
+1967,982,Medication,944.12
+1968,983,Diagnostic imaging,6404.83
+1969,983,Surgery,13556.78
+1970,984,Consultation,1511.77
+1971,984,Consultation,3874.26
+1972,985,Diagnostic imaging,1504.73
+1973,986,Physiotherapy,289.26
+1974,986,Diagnostic imaging,2438.01
+1975,987,Physiotherapy,1986.12
+1976,988,Diagnostic imaging,4596.24
+1977,988,Medication,3567.82
+1978,988,Medication,4153.59
+1979,989,Medication,5533.47
+1980,989,Consultation,5149.21
+1981,990,Medication,2663.51
+1982,990,Medication,3639.66
+1983,990,Laboratory test,6057.47
+1984,991,Consultation,4046.98
+1985,992,Consultation,596.94
+1986,992,Consultation,2832.76
+1987,993,Medication,3828.36
+1988,994,Laboratory test,3517.74
+1989,995,Surgery,11640.27
+1990,995,Laboratory test,5161.28
+1991,996,Surgery,21964.84
+1992,996,Laboratory test,5026.83
+1993,996,Diagnostic imaging,1371.03
+1994,997,Diagnostic imaging,5042.2
+1995,997,Laboratory test,4598.8
+1996,997,Consultation,838.33
+1997,998,Diagnostic imaging,2017.61
+1998,999,Consultation,2627.41
+1999,999,Consultation,652.06
+2000,999,Laboratory test,4653.05
+2001,1000,Surgery,16589.48
+2002,1001,Consultation,6061.76
+2003,1001,Laboratory test,2982.83
+2004,1002,Diagnostic imaging,3507.64
+2005,1003,Medication,2374.75
+2006,1003,Physiotherapy,1221.9
+2007,1004,Laboratory test,5210.42
+2008,1004,Laboratory test,449.4
+2009,1005,Consultation,1038.64
+2010,1006,Surgery,25257.48
+2011,1006,Surgery,21455.36
+2012,1007,Diagnostic imaging,5354.76
+2013,1007,Surgery,10063.24
+2014,1007,Consultation,4309.6
+2015,1008,Diagnostic imaging,2213.75
+2016,1008,Medication,3344.31
+2017,1008,Diagnostic imaging,1843.96
+2018,1009,Surgery,14268.09
+2019,1009,Medication,5896.77
+2020,1010,Medication,1485.19
+2021,1011,Physiotherapy,4507.63
+2022,1012,Physiotherapy,2601.08
+2023,1012,Medication,3756.16
+2024,1012,Surgery,27671.77
+2025,1013,Surgery,19148.41
+2026,1013,Laboratory test,2542.95
+2027,1014,Surgery,4765.87
+2028,1014,Diagnostic imaging,1663.0
+2029,1014,Consultation,1108.52
+2030,1015,Medication,3687.24
+2031,1015,Diagnostic imaging,1215.42
+2032,1015,Consultation,434.37
+2033,1016,Consultation,3375.31
+2034,1017,Surgery,22362.85
+2035,1017,Laboratory test,541.87
+2036,1018,Laboratory test,2824.24
+2037,1018,Medication,4223.62
+2038,1019,Surgery,25668.98
+2039,1019,Consultation,2499.87
+2040,1020,Surgery,11962.77
+2041,1020,Consultation,618.79
+2042,1020,Physiotherapy,2645.47
+2043,1021,Medication,5343.95
+2044,1021,Medication,1857.29
+2045,1022,Medication,4757.66
+2046,1022,Medication,4098.62
+2047,1023,Medication,6468.29
+2048,1023,Physiotherapy,4219.33
+2049,1024,Consultation,4551.91
+2050,1024,Diagnostic imaging,953.3
+2051,1025,Laboratory test,6358.89
+2052,1026,Surgery,12929.48
+2053,1026,Physiotherapy,722.85
+2054,1027,Consultation,4014.3
+2055,1027,Medication,2707.86
+2056,1028,Laboratory test,4728.39
+2057,1028,Laboratory test,1841.65
+2058,1028,Diagnostic imaging,818.25
+2059,1029,Laboratory test,3305.6
+2060,1030,Consultation,3066.92
+2061,1030,Diagnostic imaging,5403.23
+2062,1031,Consultation,714.89
+2063,1032,Surgery,26379.33
+2064,1033,Consultation,3797.19
+2065,1034,Laboratory test,1594.07
+2066,1034,Surgery,1727.41
+2067,1034,Medication,1014.64
+2068,1035,Medication,5136.07
+2069,1035,Medication,4667.24
+2070,1035,Physiotherapy,2010.78
+2071,1036,Medication,1782.53
+2072,1037,Medication,674.78
+2073,1037,Physiotherapy,5061.38
+2074,1038,Laboratory test,1504.68
+2075,1038,Physiotherapy,2435.64
+2076,1039,Physiotherapy,2875.84
+2077,1040,Surgery,25811.56
+2078,1041,Physiotherapy,468.27
+2079,1041,Laboratory test,3001.06
+2080,1042,Laboratory test,5879.69
+2081,1042,Laboratory test,830.34
+2082,1042,Surgery,17703.2
+2083,1043,Medication,6412.88
+2084,1044,Consultation,2728.88
+2085,1044,Medication,2505.53
+2086,1044,Diagnostic imaging,2151.06
+2087,1045,Laboratory test,5686.71
+2088,1045,Consultation,217.16
+2089,1045,Surgery,21327.42
+2090,1046,Physiotherapy,5805.29
+2091,1046,Laboratory test,353.14
+2092,1047,Physiotherapy,4869.09
+2093,1047,Physiotherapy,2475.1
+2094,1048,Consultation,1440.72
+2095,1048,Medication,902.59
+2096,1048,Laboratory test,2361.13
+2097,1049,Physiotherapy,2288.75
+2098,1050,Consultation,526.71
+2099,1051,Medication,2606.54
+2100,1052,Diagnostic imaging,3771.25
+2101,1052,Laboratory test,2097.91
+2102,1052,Physiotherapy,6266.19
+2103,1053,Consultation,1534.09
+2104,1053,Physiotherapy,2359.41
+2105,1054,Medication,538.29
+2106,1055,Consultation,4234.01
+2107,1055,Surgery,23530.31
+2108,1055,Consultation,2411.68
+2109,1056,Surgery,12572.99
+2110,1056,Diagnostic imaging,4063.29
+2111,1057,Diagnostic imaging,707.07
+2112,1057,Medication,4829.61
+2113,1057,Surgery,8899.26
+2114,1058,Medication,1334.52
+2115,1058,Laboratory test,3083.34
+2116,1059,Medication,188.86
+2117,1059,Diagnostic imaging,2889.7
+2118,1059,Diagnostic imaging,778.49
+2119,1060,Laboratory test,3741.2
+2120,1060,Surgery,3203.04
+2121,1060,Consultation,3344.89
+2122,1061,Physiotherapy,4536.15
+2123,1062,Medication,6367.22
+2124,1063,Consultation,6470.97
+2125,1063,Diagnostic imaging,1217.57
+2126,1063,Surgery,4759.75
+2127,1064,Consultation,1911.64
+2128,1064,Surgery,27650.43
+2129,1065,Diagnostic imaging,4821.82
+2130,1065,Physiotherapy,232.84
+2131,1065,Consultation,4176.18
+2132,1066,Consultation,1697.49
+2133,1066,Physiotherapy,1381.67
+2134,1066,Diagnostic imaging,3346.2
+2135,1067,Medication,1615.64
+2136,1067,Surgery,12929.48
+2137,1067,Laboratory test,2676.56
+2138,1068,Physiotherapy,5759.97
+2139,1068,Physiotherapy,6362.08
+2140,1069,Diagnostic imaging,5497.63
+2141,1069,Physiotherapy,3586.7
+2142,1070,Surgery,638.28
+2143,1070,Consultation,2479.77
+2144,1071,Medication,3402.12
+2145,1072,Diagnostic imaging,4498.85
+2146,1072,Medication,5040.84
+2147,1073,Surgery,3987.64
+2148,1074,Medication,4565.96
+2149,1074,Laboratory test,4426.76
+2150,1074,Consultation,4462.78
+2151,1075,Physiotherapy,1674.65
+2152,1076,Diagnostic imaging,4723.05
+2153,1077,Diagnostic imaging,6178.46
+2154,1077,Consultation,5286.62
+2155,1078,Surgery,21849.55
+2156,1078,Surgery,25672.82
+2157,1079,Laboratory test,6290.8
+2158,1080,Diagnostic imaging,5902.75
+2159,1080,Diagnostic imaging,652.15
+2160,1081,Medication,1055.48
+2161,1081,Laboratory test,3805.8
+2162,1082,Physiotherapy,3886.98
+2163,1082,Consultation,1837.16
+2164,1083,Consultation,2061.33
+2165,1083,Laboratory test,5776.93
+2166,1084,Medication,4249.67
+2167,1085,Laboratory test,2171.43
+2168,1085,Diagnostic imaging,2453.45
+2169,1085,Physiotherapy,1923.94
+2170,1086,Diagnostic imaging,4231.88
+2171,1086,Diagnostic imaging,5672.55
+2172,1087,Surgery,11358.46
+2173,1087,Laboratory test,2732.78
+2174,1087,Diagnostic imaging,3121.99
+2175,1088,Laboratory test,2216.82
+2176,1089,Laboratory test,3090.78
+2177,1090,Surgery,14932.15
+2178,1091,Surgery,5134.28
+2179,1091,Physiotherapy,320.11
+2180,1091,Physiotherapy,1334.19
+2181,1092,Diagnostic imaging,1223.0
+2182,1093,Laboratory test,2458.8
+2183,1094,Surgery,11269.41
+2184,1095,Diagnostic imaging,5419.01
+2185,1095,Diagnostic imaging,2570.19
+2186,1095,Consultation,239.91
+2187,1096,Consultation,6269.23
+2188,1096,Surgery,18737.62
+2189,1096,Physiotherapy,2910.61
+2190,1097,Diagnostic imaging,6386.67
+2191,1098,Laboratory test,3707.35
+2192,1099,Consultation,2544.12
+2193,1099,Medication,6454.93
+2194,1100,Consultation,1874.38
+2195,1100,Physiotherapy,5185.44
+2196,1100,Laboratory test,813.84
+2197,1101,Consultation,1545.42
+2198,1101,Surgery,5092.79
+2199,1101,Physiotherapy,514.06
+2200,1102,Consultation,2445.73
+2201,1102,Laboratory test,3761.1
+2202,1103,Surgery,7787.43
+2203,1103,Medication,6076.74
+2204,1104,Consultation,5301.14
+2205,1104,Consultation,1760.49
+2206,1105,Laboratory test,615.4
+2207,1106,Medication,3163.5
+2208,1106,Consultation,1197.58
+2209,1106,Surgery,25036.2
+2210,1107,Medication,6270.35
+2211,1107,Medication,4097.4
+2212,1107,Physiotherapy,3608.82
+2213,1108,Laboratory test,1346.19
+2214,1108,Medication,4417.92
+2215,1109,Laboratory test,3237.94
+2216,1110,Laboratory test,2113.34
+2217,1110,Physiotherapy,4991.97
+2218,1111,Physiotherapy,6440.36
+2219,1111,Laboratory test,5597.67
+2220,1112,Medication,2859.07
+2221,1112,Diagnostic imaging,6264.33
+2222,1113,Surgery,20202.69
+2223,1113,Diagnostic imaging,2486.84
+2224,1113,Consultation,1175.6
+2225,1114,Surgery,9925.9
+2226,1114,Laboratory test,2778.57
+2227,1114,Surgery,7132.38
+2228,1115,Consultation,2661.56
+2229,1115,Medication,3890.71
+2230,1115,Medication,1689.61
+2231,1116,Consultation,3488.99
+2232,1116,Physiotherapy,5463.5
+2233,1117,Diagnostic imaging,6425.88
+2234,1117,Physiotherapy,5341.58
+2235,1117,Physiotherapy,5042.91
+2236,1118,Consultation,4539.58
+2237,1119,Laboratory test,3151.12
+2238,1119,Medication,987.64
+2239,1120,Physiotherapy,4029.46
+2240,1121,Laboratory test,3507.66
+2241,1121,Medication,2636.7
+2242,1122,Physiotherapy,2439.15
+2243,1122,Laboratory test,1351.12
+2244,1123,Diagnostic imaging,1359.64
+2245,1123,Surgery,4622.6
+2246,1124,Laboratory test,1623.14
+2247,1125,Physiotherapy,5847.13
+2248,1125,Medication,5613.26
+2249,1125,Surgery,21153.05
+2250,1126,Consultation,2068.32
+2251,1127,Surgery,9638.95
+2252,1127,Surgery,21107.08
+2253,1128,Diagnostic imaging,253.13
+2254,1129,Surgery,2129.25
+2255,1129,Physiotherapy,930.13
+2256,1130,Diagnostic imaging,5856.4
+2257,1130,Consultation,1252.11
+2258,1131,Diagnostic imaging,334.43
+2259,1132,Surgery,20166.16
+2260,1133,Physiotherapy,5757.67
+2261,1133,Surgery,20497.71
+2262,1134,Medication,6091.79
+2263,1134,Diagnostic imaging,6027.94
+2264,1134,Consultation,2603.12
+2265,1135,Diagnostic imaging,2160.78
+2266,1136,Surgery,7162.63
+2267,1137,Consultation,1646.73
+2268,1137,Laboratory test,6389.0
+2269,1137,Medication,2791.15
+2270,1138,Diagnostic imaging,2388.51
+2271,1138,Medication,6319.82
+2272,1138,Medication,1749.05
+2273,1139,Laboratory test,1736.06
+2274,1139,Medication,3035.46
+2275,1139,Diagnostic imaging,286.3
+2276,1140,Diagnostic imaging,4849.24
+2277,1141,Medication,5487.92
+2278,1141,Surgery,14362.94
+2279,1142,Physiotherapy,2368.44
+2280,1142,Medication,5014.66
+2281,1142,Laboratory test,1353.11
+2282,1143,Diagnostic imaging,1851.85
+2283,1143,Surgery,25815.57
+2284,1144,Consultation,1050.18
+2285,1144,Medication,999.76
+2286,1144,Physiotherapy,2492.42
+2287,1145,Physiotherapy,4602.18
+2288,1145,Surgery,6704.41
+2289,1146,Surgery,10711.28
+2290,1147,Physiotherapy,3568.27
+2291,1148,Consultation,2512.92
+2292,1149,Laboratory test,5824.55
+2293,1149,Consultation,4998.71
+2294,1150,Diagnostic imaging,3769.61
+2295,1150,Medication,5963.85
+2296,1151,Surgery,21032.93
+2297,1151,Physiotherapy,904.07
+2298,1152,Consultation,1377.51
+2299,1153,Physiotherapy,3233.54
+2300,1153,Medication,5973.18
+2301,1154,Physiotherapy,3495.47
+2302,1154,Physiotherapy,1171.61
+2303,1154,Physiotherapy,1414.68
+2304,1155,Consultation,2358.76
+2305,1156,Diagnostic imaging,1865.47
+2306,1156,Medication,5859.57
+2307,1157,Surgery,11297.49
+2308,1158,Medication,5820.28
+2309,1158,Physiotherapy,5163.98
+2310,1158,Diagnostic imaging,1512.01
+2311,1159,Surgery,12872.8
+2312,1160,Physiotherapy,4015.71
+2313,1161,Physiotherapy,6105.64
+2314,1161,Physiotherapy,6125.19
+2315,1162,Diagnostic imaging,189.84
+2316,1162,Medication,3468.81
+2317,1162,Physiotherapy,5313.94
+2318,1163,Medication,2810.65
+2319,1163,Medication,4234.65
+2320,1164,Surgery,10708.15
+2321,1164,Physiotherapy,6203.72
+2322,1164,Surgery,15064.8
+2323,1165,Laboratory test,1569.32
+2324,1165,Laboratory test,4411.88
+2325,1166,Medication,2766.24
+2326,1167,Physiotherapy,4466.19
+2327,1167,Laboratory test,3700.6
+2328,1168,Surgery,13071.7
+2329,1169,Medication,3539.02
+2330,1169,Laboratory test,1991.6
+2331,1170,Diagnostic imaging,6253.49
+2332,1170,Consultation,2669.09
+2333,1171,Consultation,3682.39
+2334,1172,Physiotherapy,6467.26
+2335,1172,Medication,2357.47
+2336,1173,Surgery,21333.68
+2337,1173,Surgery,3075.57
+2338,1173,Medication,2409.91
+2339,1174,Physiotherapy,5513.66
+2340,1174,Laboratory test,2893.16
+2341,1174,Medication,478.84
+2342,1175,Consultation,4157.0
+2343,1176,Medication,6107.2
+2344,1176,Surgery,13679.56
+2345,1176,Physiotherapy,2327.7
+2346,1177,Laboratory test,5929.52
+2347,1178,Consultation,2256.84
+2348,1178,Diagnostic imaging,6067.38
+2349,1178,Physiotherapy,4340.41
+2350,1179,Medication,1565.02
+2351,1179,Surgery,9303.65
+2352,1180,Laboratory test,4776.95
+2353,1180,Diagnostic imaging,795.33
+2354,1181,Physiotherapy,5097.49
+2355,1182,Laboratory test,3678.6
+2356,1182,Physiotherapy,4436.93
+2357,1182,Medication,2212.0
+2358,1183,Laboratory test,4054.92
+2359,1183,Surgery,2097.04
+2360,1184,Diagnostic imaging,5005.75
+2361,1184,Physiotherapy,1514.13
+2362,1185,Laboratory test,1987.59
+2363,1186,Consultation,5698.93
+2364,1186,Consultation,4521.22
+2365,1187,Diagnostic imaging,3197.49
+2366,1187,Surgery,5697.3
+2367,1188,Laboratory test,5431.5
+2368,1188,Diagnostic imaging,6033.8
+2369,1189,Laboratory test,5670.41
+2370,1189,Surgery,2681.52
+2371,1190,Medication,3989.22
+2372,1191,Consultation,862.25
+2373,1191,Medication,3931.92
+2374,1191,Laboratory test,3196.04
+2375,1192,Medication,1994.73
+2376,1192,Laboratory test,1230.78
+2377,1192,Laboratory test,2625.63
+2378,1193,Laboratory test,4182.94
+2379,1193,Medication,2363.16
+2380,1194,Medication,4018.44
+2381,1194,Physiotherapy,5520.38
+2382,1194,Consultation,5357.01
+2383,1195,Consultation,5165.91
+2384,1195,Diagnostic imaging,2851.63
+2385,1196,Medication,2319.92
+2386,1196,Surgery,23807.57
+2387,1196,Consultation,5073.54
+2388,1197,Medication,4319.99
+2389,1197,Physiotherapy,3787.65
+2390,1197,Diagnostic imaging,5442.06
+2391,1198,Consultation,4137.83
+2392,1198,Physiotherapy,2138.06
+2393,1199,Medication,1681.18
+2394,1200,Physiotherapy,2858.86
+2395,1201,Diagnostic imaging,4687.92
+2396,1201,Diagnostic imaging,2692.93
+2397,1202,Physiotherapy,3957.36
+2398,1202,Medication,1707.95
+2399,1202,Laboratory test,1686.67
+2400,1203,Diagnostic imaging,695.77
+2401,1203,Laboratory test,5615.92
+2402,1203,Surgery,6893.59
+2403,1204,Diagnostic imaging,5473.33
+2404,1204,Diagnostic imaging,3144.26
+2405,1204,Diagnostic imaging,3051.54
+2406,1205,Consultation,2548.46
+2407,1205,Laboratory test,1778.3
+2408,1205,Physiotherapy,4486.78
+2409,1206,Laboratory test,422.12
+2410,1206,Laboratory test,6267.17
+2411,1207,Diagnostic imaging,6078.53
+2412,1207,Medication,5689.5
+2413,1208,Medication,2764.69
+2414,1209,Diagnostic imaging,1249.4
+2415,1209,Medication,4998.42
+2416,1209,Laboratory test,6109.38
+2417,1210,Surgery,3671.18
+2418,1211,Consultation,1439.65
+2419,1211,Diagnostic imaging,3900.61
+2420,1211,Medication,5872.28
+2421,1212,Surgery,8130.02
+2422,1213,Diagnostic imaging,3405.33
+2423,1213,Physiotherapy,5695.76
+2424,1214,Physiotherapy,5530.88
+2425,1215,Laboratory test,570.91
+2426,1215,Consultation,4641.2
+2427,1216,Physiotherapy,628.05
+2428,1216,Medication,3215.28
+2429,1216,Medication,2115.75
+2430,1217,Physiotherapy,2625.07
+2431,1218,Diagnostic imaging,1989.04
+2432,1219,Laboratory test,2579.33
+2433,1220,Diagnostic imaging,5096.88
+2434,1221,Medication,347.98
+2435,1221,Laboratory test,3101.77
+2436,1221,Medication,2137.48
+2437,1222,Diagnostic imaging,4929.23
+2438,1223,Physiotherapy,2625.53
+2439,1224,Diagnostic imaging,3624.45
+2440,1224,Consultation,3159.65
+2441,1224,Consultation,3037.9
+2442,1225,Diagnostic imaging,2323.74
+2443,1226,Diagnostic imaging,2536.51
+2444,1226,Consultation,1472.35
+2445,1227,Laboratory test,4723.27
+2446,1227,Consultation,6312.75
+2447,1227,Physiotherapy,1000.5
+2448,1228,Physiotherapy,851.29
+2449,1228,Medication,3842.16
+2450,1228,Consultation,1234.13
+2451,1229,Diagnostic imaging,3093.92
+2452,1230,Consultation,3781.48
+2453,1230,Surgery,8341.23
+2454,1230,Medication,979.5
+2455,1231,Medication,6258.37
+2456,1231,Physiotherapy,961.9
+2457,1232,Diagnostic imaging,894.65
+2458,1232,Medication,6280.7
+2459,1232,Surgery,9090.07
+2460,1233,Laboratory test,5881.91
+2461,1234,Physiotherapy,6462.31
+2462,1234,Surgery,6889.82
+2463,1234,Consultation,4037.38
+2464,1235,Medication,4931.35
+2465,1235,Physiotherapy,1116.9
+2466,1236,Physiotherapy,4072.88
+2467,1236,Surgery,497.15
+2468,1236,Physiotherapy,2288.92
+2469,1237,Medication,3420.57
+2470,1237,Physiotherapy,1541.4
+2471,1237,Surgery,3545.05
+2472,1238,Laboratory test,2243.76
+2473,1238,Diagnostic imaging,4971.11
+2474,1238,Laboratory test,1103.02
+2475,1239,Surgery,9175.83
+2476,1240,Consultation,756.36
+2477,1240,Medication,1025.97
+2478,1240,Physiotherapy,4728.46
+2479,1241,Diagnostic imaging,6252.17
+2480,1242,Laboratory test,4196.05
+2481,1243,Diagnostic imaging,3653.04
+2482,1243,Laboratory test,830.61
+2483,1243,Consultation,4510.03
+2484,1244,Consultation,3100.52
+2485,1245,Consultation,338.12
+2486,1245,Physiotherapy,5731.51
+2487,1246,Laboratory test,6160.3
+2488,1246,Physiotherapy,2526.56
+2489,1246,Surgery,20658.14
+2490,1247,Surgery,11876.19
+2491,1248,Physiotherapy,5220.79
+2492,1248,Diagnostic imaging,6271.65
+2493,1248,Laboratory test,3273.04
+2494,1249,Physiotherapy,951.48
+2495,1249,Surgery,18791.95
+2496,1249,Diagnostic imaging,2653.43
+2497,1250,Medication,5733.69
+2498,1251,Consultation,4208.36
+2499,1251,Laboratory test,245.53
+2500,1251,Surgery,27305.34
+2501,1252,Consultation,2100.96
+2502,1252,Surgery,24634.07
+2503,1253,Laboratory test,1780.54
+2504,1254,Physiotherapy,4660.13
+2505,1255,Diagnostic imaging,2292.26
+2506,1255,Medication,5159.86
+2507,1256,Surgery,7455.85
+2508,1256,Consultation,2355.46
+2509,1257,Physiotherapy,1334.2
+2510,1258,Diagnostic imaging,788.05
+2511,1258,Physiotherapy,4225.81
+2512,1259,Consultation,5278.18
+2513,1260,Surgery,21393.49
+2514,1260,Medication,2784.87
+2515,1260,Physiotherapy,816.51
+2516,1261,Medication,4264.89
+2517,1262,Laboratory test,3516.19
+2518,1263,Medication,4978.88
+2519,1263,Physiotherapy,1589.53
+2520,1264,Diagnostic imaging,4447.97
+2521,1265,Surgery,24623.01
+2522,1266,Surgery,24312.9
+2523,1266,Medication,349.88
+2524,1267,Medication,391.63
+2525,1267,Surgery,16968.4
+2526,1268,Surgery,17447.89
+2527,1269,Diagnostic imaging,2616.31
+2528,1269,Consultation,3200.18
+2529,1270,Medication,5647.21
+2530,1270,Medication,1019.66
+2531,1270,Medication,5581.02
+2532,1271,Diagnostic imaging,447.5
+2533,1271,Consultation,2488.71
+2534,1272,Medication,5626.89
+2535,1272,Diagnostic imaging,2117.6
+2536,1272,Consultation,743.55
+2537,1273,Laboratory test,3150.11
+2538,1274,Diagnostic imaging,3910.95
+2539,1275,Medication,3082.81
+2540,1275,Diagnostic imaging,4813.14
+2541,1275,Consultation,1124.78
+2542,1276,Consultation,3075.4
+2543,1277,Physiotherapy,4738.89
+2544,1277,Diagnostic imaging,770.41
+2545,1278,Surgery,18890.2
+2546,1278,Surgery,1632.24
+2547,1278,Medication,1247.02
+2548,1279,Surgery,12143.95
+2549,1279,Diagnostic imaging,215.31
+2550,1280,Surgery,19442.69
+2551,1280,Laboratory test,3983.76
+2552,1281,Physiotherapy,1634.35
+2553,1281,Consultation,4556.4
+2554,1281,Laboratory test,5086.62
+2555,1282,Medication,5571.34
+2556,1282,Surgery,26655.37
+2557,1283,Laboratory test,2336.06
+2558,1283,Diagnostic imaging,2920.72
+2559,1283,Consultation,3875.52
+2560,1284,Physiotherapy,1459.64
+2561,1284,Consultation,4634.16
+2562,1285,Medication,916.39
+2563,1285,Surgery,3208.37
+2564,1286,Medication,1627.57
+2565,1286,Laboratory test,1265.83
+2566,1286,Consultation,5455.72
+2567,1287,Laboratory test,1320.84
+2568,1288,Consultation,2690.39
+2569,1289,Surgery,5343.23
+2570,1289,Laboratory test,2542.27
+2571,1290,Diagnostic imaging,6232.68
+2572,1290,Consultation,4858.1
+2573,1290,Laboratory test,1801.7
+2574,1291,Diagnostic imaging,6444.8
+2575,1291,Surgery,5250.06
+2576,1291,Consultation,1166.41
+2577,1292,Diagnostic imaging,5423.33
+2578,1293,Surgery,7597.51
+2579,1293,Physiotherapy,4128.92
+2580,1293,Laboratory test,298.56
+2581,1294,Consultation,3614.82
+2582,1295,Medication,356.85
+2583,1296,Consultation,6229.52
+2584,1297,Laboratory test,2236.36
+2585,1297,Physiotherapy,4486.73
+2586,1298,Diagnostic imaging,2652.63
+2587,1298,Diagnostic imaging,3909.81
+2588,1299,Laboratory test,724.46
+2589,1299,Medication,515.33
+2590,1300,Surgery,11391.31
+2591,1301,Consultation,3746.37
+2592,1301,Surgery,9737.66
+2593,1301,Consultation,3870.83
+2594,1302,Surgery,9088.43
+2595,1302,Physiotherapy,5566.85
+2596,1303,Consultation,178.64
+2597,1304,Physiotherapy,1612.23
+2598,1304,Laboratory test,2401.87
+2599,1305,Surgery,13711.93
+2600,1305,Medication,3077.32
+2601,1305,Diagnostic imaging,1806.89
+2602,1306,Physiotherapy,2190.48
+2603,1306,Medication,5174.23
+2604,1306,Medication,1295.11
+2605,1307,Diagnostic imaging,4960.47
+2606,1308,Medication,4376.0
+2607,1308,Surgery,7879.5
+2608,1308,Medication,2268.0
+2609,1309,Consultation,4846.82
+2610,1310,Surgery,4933.45
+2611,1310,Diagnostic imaging,1246.1
+2612,1310,Laboratory test,204.76
+2613,1311,Physiotherapy,230.72
+2614,1312,Medication,4608.75
+2615,1313,Medication,2444.3
+2616,1314,Diagnostic imaging,1709.63
+2617,1314,Diagnostic imaging,3571.02
+2618,1314,Diagnostic imaging,1003.88
+2619,1315,Diagnostic imaging,3079.91
+2620,1315,Physiotherapy,386.68
+2621,1315,Surgery,8047.38
+2622,1316,Consultation,3785.01
+2623,1317,Diagnostic imaging,5144.28
+2624,1318,Laboratory test,1902.74
+2625,1318,Laboratory test,888.53
+2626,1319,Physiotherapy,1473.52
+2627,1319,Laboratory test,3987.97
+2628,1320,Consultation,5457.92
+2629,1321,Laboratory test,1842.97
+2630,1321,Laboratory test,643.84
+2631,1322,Consultation,1200.97
+2632,1322,Laboratory test,5056.71
+2633,1322,Laboratory test,4883.02
+2634,1323,Physiotherapy,1840.5
+2635,1323,Physiotherapy,226.76
+2636,1323,Consultation,3932.19
+2637,1324,Medication,3981.63
+2638,1324,Consultation,3842.85
+2639,1325,Consultation,2014.36
+2640,1325,Surgery,14268.99
+2641,1325,Medication,1813.22
+2642,1326,Surgery,23811.96
+2643,1326,Diagnostic imaging,4464.42
+2644,1327,Diagnostic imaging,3025.35
+2645,1328,Laboratory test,6349.46
+2646,1329,Medication,1709.86
+2647,1329,Consultation,2666.87
+2648,1329,Physiotherapy,2944.2
+2649,1330,Medication,4229.07
+2650,1330,Consultation,4050.86
+2651,1331,Surgery,21102.18
+2652,1331,Medication,2783.41
+2653,1332,Physiotherapy,2072.04
+2654,1332,Diagnostic imaging,1032.64
+2655,1332,Consultation,4559.88
+2656,1333,Diagnostic imaging,1336.3
+2657,1333,Consultation,4992.11
+2658,1334,Medication,5334.15
+2659,1334,Diagnostic imaging,3264.92
+2660,1334,Medication,1127.38
+2661,1335,Medication,1816.33
+2662,1335,Surgery,16547.92
+2663,1336,Laboratory test,2428.33
+2664,1337,Consultation,2485.94
+2665,1338,Diagnostic imaging,5120.84
+2666,1338,Physiotherapy,4457.17
+2667,1338,Physiotherapy,628.44
+2668,1339,Consultation,2332.75
+2669,1339,Physiotherapy,3500.92
+2670,1339,Consultation,803.77
+2671,1340,Surgery,1759.58
+2672,1341,Physiotherapy,5853.91
+2673,1341,Consultation,3034.56
+2674,1341,Surgery,4418.68
+2675,1342,Diagnostic imaging,3428.76
+2676,1342,Physiotherapy,3829.53
+2677,1343,Medication,5766.95
+2678,1343,Surgery,24075.58
+2679,1343,Diagnostic imaging,5228.79
+2680,1344,Diagnostic imaging,4420.49
+2681,1344,Laboratory test,1931.88
+2682,1345,Consultation,1284.38
+2683,1346,Diagnostic imaging,3061.66
+2684,1347,Diagnostic imaging,5981.15
+2685,1348,Medication,4937.26
+2686,1348,Physiotherapy,3533.21
+2687,1349,Laboratory test,5701.67
+2688,1350,Surgery,1316.72
+2689,1351,Diagnostic imaging,1006.54
+2690,1351,Consultation,6190.86
+2691,1351,Diagnostic imaging,3990.68
+2692,1352,Medication,2741.95
+2693,1352,Diagnostic imaging,5817.63
+2694,1352,Surgery,17185.07
+2695,1353,Medication,3418.78
+2696,1353,Physiotherapy,3295.99
+2697,1354,Diagnostic imaging,757.35
+2698,1354,Diagnostic imaging,3979.83
+2699,1354,Physiotherapy,1353.96
+2700,1355,Physiotherapy,4584.81
+2701,1355,Surgery,4323.54
+2702,1355,Medication,4749.79
+2703,1356,Laboratory test,900.63
+2704,1357,Laboratory test,5438.43
+2705,1357,Surgery,8495.15
+2706,1357,Physiotherapy,5140.49
+2707,1358,Diagnostic imaging,346.72
+2708,1358,Surgery,27814.8
+2709,1359,Laboratory test,2704.59
+2710,1359,Diagnostic imaging,5733.85
+2711,1359,Consultation,3159.0
+2712,1360,Diagnostic imaging,4961.37
+2713,1360,Physiotherapy,5962.48
+2714,1361,Consultation,4319.72
+2715,1362,Surgery,27738.58
+2716,1363,Diagnostic imaging,3424.29
+2717,1363,Diagnostic imaging,1483.29
+2718,1363,Consultation,1355.72
+2719,1364,Consultation,2968.96
+2720,1364,Medication,2791.49
+2721,1365,Physiotherapy,366.64
+2722,1365,Physiotherapy,3689.26
+2723,1366,Laboratory test,2585.39
+2724,1366,Laboratory test,385.2
+2725,1367,Surgery,7480.87
+2726,1367,Physiotherapy,5234.87
+2727,1368,Medication,1711.02
+2728,1369,Physiotherapy,3616.67
+2729,1369,Diagnostic imaging,667.11
+2730,1369,Medication,303.25
+2731,1370,Laboratory test,4139.97
+2732,1370,Physiotherapy,4872.77
+2733,1370,Physiotherapy,2974.58
+2734,1371,Surgery,19932.91
+2735,1371,Diagnostic imaging,5655.14
+2736,1371,Physiotherapy,1653.24
+2737,1372,Surgery,1431.36
+2738,1372,Physiotherapy,6277.46
+2739,1373,Physiotherapy,5371.76
+2740,1373,Physiotherapy,5774.36
+2741,1373,Laboratory test,5646.89
+2742,1374,Consultation,2327.48
+2743,1374,Surgery,6936.88
+2744,1374,Physiotherapy,907.59
+2745,1375,Consultation,3172.91
+2746,1375,Laboratory test,2457.33
+2747,1375,Laboratory test,2031.29
+2748,1376,Consultation,1986.9
+2749,1376,Physiotherapy,616.27
+2750,1377,Diagnostic imaging,1726.05
+2751,1377,Physiotherapy,4969.3
+2752,1378,Laboratory test,3237.13
+2753,1379,Consultation,2666.04
+2754,1380,Consultation,4111.41
+2755,1380,Medication,916.34
+2756,1381,Medication,1815.56
+2757,1382,Consultation,464.57
+2758,1382,Physiotherapy,3537.38
+2759,1383,Laboratory test,1965.02
+2760,1384,Medication,3929.79
+2761,1384,Laboratory test,4145.74
+2762,1384,Medication,1492.14
+2763,1385,Surgery,17358.74
+2764,1386,Surgery,1095.91
+2765,1386,Consultation,2031.71
+2766,1386,Physiotherapy,1129.57
+2767,1387,Diagnostic imaging,4473.68
+2768,1387,Consultation,2951.74
+2769,1388,Consultation,2521.21
+2770,1388,Diagnostic imaging,1773.44
+2771,1388,Consultation,1478.35
+2772,1389,Laboratory test,4559.42
+2773,1389,Surgery,16442.81
+2774,1389,Laboratory test,4739.03
+2775,1390,Surgery,16365.44
+2776,1390,Surgery,9410.21
+2777,1390,Consultation,3666.18
+2778,1391,Physiotherapy,3126.29
+2779,1391,Diagnostic imaging,6313.11
+2780,1392,Diagnostic imaging,1191.03
+2781,1392,Medication,2435.24
+2782,1392,Surgery,6962.6
+2783,1393,Consultation,1331.37
+2784,1393,Medication,6001.9
+2785,1394,Diagnostic imaging,4099.38
+2786,1394,Physiotherapy,1162.53
+2787,1395,Surgery,17367.51
+2788,1396,Consultation,5228.07
+2789,1396,Surgery,9446.33
+2790,1396,Laboratory test,5623.81
+2791,1397,Medication,6242.18
+2792,1398,Physiotherapy,5097.17
+2793,1398,Diagnostic imaging,3279.05
+2794,1398,Surgery,13205.42
+2795,1399,Medication,2445.56
+2796,1400,Physiotherapy,5382.98
+2797,1401,Laboratory test,3365.26
+2798,1401,Surgery,12833.05
+2799,1402,Surgery,24754.31
+2800,1402,Laboratory test,6156.24
+2801,1402,Physiotherapy,600.68
+2802,1403,Medication,5475.38
+2803,1403,Physiotherapy,1914.01
+2804,1403,Medication,5163.92
+2805,1404,Medication,4608.97
+2806,1404,Physiotherapy,1467.86
+2807,1405,Consultation,980.34
+2808,1405,Diagnostic imaging,4713.12
+2809,1406,Consultation,175.93
+2810,1406,Consultation,1308.57
+2811,1407,Diagnostic imaging,5399.61
+2812,1407,Physiotherapy,1176.26
+2813,1408,Medication,4232.8
+2814,1408,Physiotherapy,3217.55
+2815,1409,Physiotherapy,1771.9
+2816,1409,Physiotherapy,2499.99
+2817,1409,Laboratory test,3118.87
+2818,1410,Surgery,5600.14
+2819,1410,Physiotherapy,3589.01
+2820,1410,Consultation,5587.61
+2821,1411,Surgery,11371.54
+2822,1412,Medication,6163.59
+2823,1412,Laboratory test,2231.39
+2824,1412,Laboratory test,5791.77
+2825,1413,Medication,5146.79
+2826,1413,Surgery,22681.9
+2827,1414,Laboratory test,5621.0
+2828,1415,Medication,5074.63
+2829,1416,Laboratory test,5292.8
+2830,1416,Laboratory test,1127.16
+2831,1416,Diagnostic imaging,3405.61
+2832,1417,Consultation,1499.95
+2833,1417,Physiotherapy,3822.75
+2834,1417,Medication,5040.5
+2835,1418,Laboratory test,845.43
+2836,1418,Laboratory test,2621.68
+2837,1418,Laboratory test,3494.08
+2838,1419,Laboratory test,3313.99
+2839,1419,Physiotherapy,6203.71
+2840,1419,Medication,1745.21
+2841,1420,Physiotherapy,5686.65
+2842,1421,Diagnostic imaging,5511.84
+2843,1421,Diagnostic imaging,409.52
+2844,1422,Laboratory test,573.5
+2845,1422,Surgery,20724.34
+2846,1422,Physiotherapy,3469.02
+2847,1423,Medication,2818.81
+2848,1424,Surgery,11904.72
+2849,1425,Physiotherapy,5958.71
+2850,1425,Consultation,2509.22
+2851,1425,Medication,6013.1
+2852,1426,Medication,3920.12
+2853,1426,Consultation,6078.13
+2854,1426,Diagnostic imaging,1645.85
+2855,1427,Diagnostic imaging,3144.19
+2856,1428,Surgery,16370.67
+2857,1428,Physiotherapy,1797.76
+2858,1429,Physiotherapy,1484.33
+2859,1429,Medication,571.06
+2860,1430,Surgery,23192.98
+2861,1431,Consultation,1108.45
+2862,1431,Medication,2684.59
+2863,1432,Medication,4258.71
+2864,1433,Physiotherapy,4978.7
+2865,1433,Medication,382.71
+2866,1434,Laboratory test,5898.59
+2867,1435,Surgery,13870.53
+2868,1436,Consultation,5013.73
+2869,1436,Physiotherapy,5857.37
+2870,1436,Diagnostic imaging,785.95
+2871,1437,Medication,4439.44
+2872,1437,Physiotherapy,1563.79
+2873,1437,Laboratory test,4664.27
+2874,1438,Consultation,4286.39
+2875,1438,Physiotherapy,800.26
+2876,1439,Medication,624.01
+2877,1439,Consultation,3850.65
+2878,1439,Surgery,24623.98
+2879,1440,Medication,2003.71
+2880,1440,Surgery,27343.07
+2881,1441,Medication,2177.54
+2882,1442,Physiotherapy,4400.44
+2883,1442,Physiotherapy,2938.81
+2884,1442,Consultation,3382.43
+2885,1443,Physiotherapy,2082.3
+2886,1443,Diagnostic imaging,6474.15
+2887,1443,Diagnostic imaging,1589.16
+2888,1444,Consultation,6161.76
+2889,1444,Diagnostic imaging,2054.31
+2890,1445,Laboratory test,4279.42
+2891,1445,Physiotherapy,3242.81
+2892,1445,Physiotherapy,6067.51
+2893,1446,Physiotherapy,747.18
+2894,1446,Medication,3654.0
+2895,1446,Physiotherapy,5446.72
+2896,1447,Diagnostic imaging,4556.87
+2897,1447,Surgery,8236.49
+2898,1447,Physiotherapy,6476.02
+2899,1448,Diagnostic imaging,2847.18
+2900,1449,Diagnostic imaging,2789.16
+2901,1449,Surgery,13006.11
+2902,1449,Medication,4888.72
+2903,1450,Diagnostic imaging,998.61
+2904,1451,Laboratory test,4069.2
+2905,1451,Consultation,745.55
+2906,1452,Medication,1192.7
+2907,1453,Consultation,3639.87
+2908,1454,Physiotherapy,2276.33
+2909,1454,Medication,4962.88
+2910,1454,Physiotherapy,1310.19
+2911,1455,Diagnostic imaging,4867.74
+2912,1456,Medication,5932.34
+2913,1457,Physiotherapy,3211.98
+2914,1457,Medication,5417.06
+2915,1458,Consultation,1000.98
+2916,1459,Physiotherapy,3504.94
+2917,1460,Consultation,2211.04
+2918,1460,Consultation,1738.58
+2919,1460,Surgery,13608.33
+2920,1461,Medication,2182.53
+2921,1461,Laboratory test,968.35
+2922,1461,Surgery,23530.85
+2923,1462,Laboratory test,1287.96
+2924,1462,Physiotherapy,1395.72
+2925,1463,Consultation,4438.03
+2926,1463,Diagnostic imaging,1218.07
+2927,1463,Physiotherapy,756.91
+2928,1464,Consultation,6392.71
+2929,1465,Diagnostic imaging,5668.54
+2930,1465,Medication,978.62
+2931,1466,Consultation,4964.35
+2932,1467,Diagnostic imaging,1155.36
+2933,1468,Laboratory test,4019.77
+2934,1468,Surgery,22257.17
+2935,1469,Surgery,21072.33
+2936,1470,Laboratory test,2720.26
+2937,1471,Diagnostic imaging,2497.8
+2938,1471,Diagnostic imaging,5689.34
+2939,1472,Surgery,23809.64
+2940,1473,Physiotherapy,5742.42
+2941,1474,Laboratory test,3165.11
+2942,1475,Laboratory test,2758.73
+2943,1475,Laboratory test,3326.34
+2944,1475,Surgery,7086.24
+2945,1476,Medication,4925.52
+2946,1476,Medication,5149.53
+2947,1476,Consultation,2787.03
+2948,1477,Consultation,3306.6
+2949,1478,Medication,5889.36
+2950,1478,Consultation,3680.17
+2951,1479,Surgery,5354.43
+2952,1479,Physiotherapy,1915.12
+2953,1480,Consultation,3071.06
+2954,1480,Physiotherapy,6060.25
+2955,1480,Medication,4154.37
+2956,1481,Laboratory test,3751.45
+2957,1481,Consultation,4089.68
+2958,1481,Surgery,27710.69
+2959,1482,Diagnostic imaging,2371.89
+2960,1483,Diagnostic imaging,1620.81
+2961,1484,Medication,5211.85
+2962,1484,Laboratory test,712.68
+2963,1484,Consultation,6214.34
+2964,1485,Physiotherapy,4660.9
+2965,1485,Physiotherapy,4326.36
+2966,1485,Consultation,452.01
+2967,1486,Surgery,25668.41
+2968,1487,Medication,5835.27
+2969,1487,Laboratory test,2070.01
+2970,1488,Medication,783.03
+2971,1488,Medication,2576.7
+2972,1489,Physiotherapy,2114.93
+2973,1489,Consultation,6476.88
+2974,1489,Laboratory test,5904.45
+2975,1490,Diagnostic imaging,5919.86
+2976,1490,Physiotherapy,626.78
+2977,1491,Consultation,1666.65
+2978,1491,Consultation,388.18
+2979,1491,Physiotherapy,3320.66
+2980,1492,Consultation,633.46
+2981,1492,Diagnostic imaging,673.25
+2982,1493,Laboratory test,1211.85
+2983,1493,Laboratory test,1264.43
+2984,1494,Surgery,16449.05
+2985,1494,Medication,4625.4
+2986,1494,Laboratory test,3455.79
+2987,1495,Laboratory test,822.89
+2988,1496,Laboratory test,5779.36
+2989,1496,Diagnostic imaging,2996.42
+2990,1496,Physiotherapy,698.78
+2991,1497,Consultation,677.07
+2992,1497,Physiotherapy,5998.23
+2993,1497,Consultation,5476.58
+2994,1498,Physiotherapy,6375.96
+2995,1499,Diagnostic imaging,1370.3
+2996,1499,Physiotherapy,856.89
+2997,1500,Consultation,3553.92
+2998,1500,Surgery,9317.09
+2999,1501,Medication,5246.09
+3000,1501,Diagnostic imaging,2518.71
+3001,1502,Diagnostic imaging,5015.01
+3002,1503,Consultation,3952.35
+3003,1503,Surgery,14796.3
+3004,1503,Consultation,960.42
+3005,1504,Laboratory test,640.23
+3006,1505,Physiotherapy,968.47
+3007,1505,Consultation,1263.07
+3008,1505,Physiotherapy,3388.12
+3009,1506,Diagnostic imaging,3100.59
+3010,1506,Medication,5059.24
+3011,1506,Physiotherapy,1076.52
+3012,1507,Laboratory test,6232.17
+3013,1507,Surgery,22012.88
+3014,1507,Medication,3783.25
+3015,1508,Physiotherapy,460.13
+3016,1508,Laboratory test,2431.47
+3017,1508,Diagnostic imaging,3450.87
+3018,1509,Laboratory test,2507.47
+3019,1509,Consultation,677.01
+3020,1510,Laboratory test,1546.7
+3021,1511,Laboratory test,2063.22
+3022,1511,Surgery,24106.16
+3023,1512,Diagnostic imaging,2064.41
+3024,1513,Medication,835.88
+3025,1513,Medication,2296.53
+3026,1514,Laboratory test,3021.33
+3027,1515,Consultation,2195.71
+3028,1516,Diagnostic imaging,5895.61
+3029,1516,Physiotherapy,4069.45
+3030,1517,Surgery,15278.68
+3031,1517,Diagnostic imaging,5897.85
+3032,1518,Diagnostic imaging,6412.39
+3033,1518,Laboratory test,4922.18
+3034,1519,Diagnostic imaging,1110.27
+3035,1520,Medication,3243.81
+3036,1520,Medication,542.39
+3037,1521,Surgery,2025.73
+3038,1521,Physiotherapy,2489.76
+3039,1521,Medication,2112.81
+3040,1522,Diagnostic imaging,676.06
+3041,1522,Surgery,18312.19
+3042,1522,Surgery,13166.88
+3043,1523,Physiotherapy,901.01
+3044,1524,Surgery,19994.08
+3045,1524,Laboratory test,520.92
+3046,1525,Medication,498.89
+3047,1525,Physiotherapy,621.04
+3048,1526,Surgery,17710.29
+3049,1527,Diagnostic imaging,604.74
+3050,1527,Diagnostic imaging,2553.8
+3051,1527,Physiotherapy,3431.79
+3052,1528,Consultation,404.27
+3053,1529,Physiotherapy,614.5
+3054,1529,Diagnostic imaging,1798.8
+3055,1529,Laboratory test,3956.43
+3056,1530,Surgery,18540.33
+3057,1531,Consultation,774.6
+3058,1532,Laboratory test,553.95
+3059,1533,Surgery,17277.26
+3060,1533,Surgery,7469.93
+3061,1534,Laboratory test,2733.15
+3062,1535,Diagnostic imaging,5346.99
+3063,1536,Consultation,4048.19
+3064,1536,Medication,5087.93
+3065,1536,Laboratory test,4498.57
+3066,1537,Diagnostic imaging,5150.13
+3067,1538,Medication,1999.8
+3068,1539,Diagnostic imaging,2973.89
+3069,1540,Surgery,21504.76
+3070,1540,Surgery,576.08
+3071,1541,Consultation,5810.02
+3072,1542,Surgery,19000.54
+3073,1542,Surgery,886.61
+3074,1543,Physiotherapy,4450.08
+3075,1543,Medication,5975.2
+3076,1544,Diagnostic imaging,1074.38
+3077,1545,Consultation,5858.15
+3078,1546,Physiotherapy,3385.78
+3079,1546,Physiotherapy,4959.06
+3080,1546,Physiotherapy,376.84
+3081,1547,Physiotherapy,1506.21
+3082,1548,Consultation,1401.49
+3083,1548,Medication,4208.68
+3084,1548,Consultation,6005.81
+3085,1549,Surgery,22181.1
+3086,1550,Medication,6358.81
+3087,1550,Consultation,690.94
+3088,1551,Surgery,24386.54
+3089,1552,Laboratory test,2829.59
+3090,1552,Surgery,19830.1
+3091,1552,Medication,2497.07
+3092,1553,Diagnostic imaging,748.58
+3093,1553,Physiotherapy,3210.56
+3094,1553,Medication,425.05
+3095,1554,Diagnostic imaging,5158.2
+3096,1555,Laboratory test,592.17
+3097,1555,Laboratory test,5299.89
+3098,1556,Consultation,3548.34
+3099,1557,Surgery,12900.69
+3100,1557,Physiotherapy,6183.3
+3101,1558,Medication,540.39
+3102,1559,Diagnostic imaging,5791.64
+3103,1559,Consultation,2364.87
+3104,1560,Surgery,10372.22
+3105,1561,Diagnostic imaging,1386.8
+3106,1561,Laboratory test,252.09
+3107,1561,Medication,4680.09
+3108,1562,Diagnostic imaging,6228.14
+3109,1562,Diagnostic imaging,957.62
+3110,1562,Consultation,3829.54
+3111,1563,Laboratory test,3279.55
+3112,1564,Consultation,345.14
+3113,1564,Consultation,1004.39
+3114,1565,Laboratory test,1985.29
+3115,1566,Surgery,6978.43
+3116,1566,Physiotherapy,3359.02
+3117,1567,Diagnostic imaging,5339.77
+3118,1567,Surgery,11996.09
+3119,1567,Diagnostic imaging,5094.62
+3120,1568,Physiotherapy,5741.68
+3121,1569,Consultation,3891.6
+3122,1569,Medication,5012.13
+3123,1570,Laboratory test,5856.11
+3124,1571,Consultation,3492.15
+3125,1571,Medication,3887.89
+3126,1571,Consultation,3661.83
+3127,1572,Laboratory test,559.38
+3128,1572,Medication,5742.96
+3129,1572,Medication,4950.59
+3130,1573,Surgery,11180.95
+3131,1574,Physiotherapy,6381.84
+3132,1574,Surgery,23748.82
+3133,1575,Medication,2897.33
+3134,1576,Surgery,17077.71
+3135,1576,Surgery,27963.88
+3136,1576,Physiotherapy,5633.32
+3137,1577,Surgery,24385.09
+3138,1577,Diagnostic imaging,4329.58
+3139,1578,Physiotherapy,4307.6
+3140,1579,Medication,5425.6
+3141,1579,Medication,221.08
+3142,1580,Laboratory test,3837.95
+3143,1580,Diagnostic imaging,5283.49
+3144,1581,Laboratory test,308.35
+3145,1581,Diagnostic imaging,5942.06
+3146,1582,Surgery,15552.35
+3147,1582,Diagnostic imaging,3780.02
+3148,1583,Medication,2871.17
+3149,1583,Consultation,5693.79
+3150,1584,Physiotherapy,3090.4
+3151,1584,Consultation,4128.02
+3152,1585,Consultation,3283.14
+3153,1585,Diagnostic imaging,3779.79
+3154,1585,Consultation,2699.53
+3155,1586,Diagnostic imaging,5778.87
+3156,1586,Consultation,5118.61
+3157,1587,Diagnostic imaging,3131.79
+3158,1587,Physiotherapy,4182.61
+3159,1588,Physiotherapy,5083.78
+3160,1588,Surgery,7346.01
+3161,1589,Physiotherapy,566.46
+3162,1589,Surgery,18435.03
+3163,1590,Medication,4857.95
+3164,1590,Diagnostic imaging,4349.58
+3165,1591,Laboratory test,1676.14
+3166,1591,Consultation,5615.3
+3167,1591,Surgery,13369.15
+3168,1592,Physiotherapy,1749.07
+3169,1592,Diagnostic imaging,5682.55
+3170,1592,Physiotherapy,2884.46
+3171,1593,Diagnostic imaging,3528.27
+3172,1593,Surgery,13111.6
+3173,1593,Physiotherapy,5374.35
+3174,1594,Medication,2148.55
+3175,1595,Laboratory test,394.17
+3176,1596,Laboratory test,1591.3
+3177,1597,Consultation,5214.04
+3178,1598,Laboratory test,1322.53
+3179,1598,Surgery,22924.94
+3180,1599,Medication,1371.99
+3181,1600,Diagnostic imaging,2208.54
+3182,1600,Consultation,3176.64
+3183,1600,Laboratory test,2334.53
+3184,1601,Medication,5517.03
+3185,1602,Surgery,20206.18
+3186,1602,Physiotherapy,1209.09
+3187,1603,Diagnostic imaging,239.63
+3188,1603,Medication,6073.97
+3189,1604,Surgery,26363.44
+3190,1604,Laboratory test,2280.98
+3191,1604,Physiotherapy,2245.06
+3192,1605,Diagnostic imaging,1930.52
+3193,1606,Laboratory test,4009.57
+3194,1607,Diagnostic imaging,3143.27
+3195,1607,Laboratory test,2953.93
+3196,1608,Consultation,3460.49
+3197,1609,Physiotherapy,5584.04
+3198,1609,Physiotherapy,6381.4
+3199,1609,Surgery,13671.12
+3200,1610,Diagnostic imaging,2625.4
+3201,1610,Laboratory test,5286.5
+3202,1610,Surgery,6178.22
+3203,1611,Medication,1138.19
+3204,1612,Consultation,2429.55
+3205,1613,Diagnostic imaging,508.65
+3206,1613,Laboratory test,2168.0
+3207,1614,Physiotherapy,6119.84
+3208,1615,Consultation,1878.47
+3209,1615,Medication,5108.53
+3210,1615,Diagnostic imaging,1884.45
+3211,1616,Medication,761.24
+3212,1616,Consultation,5793.03
+3213,1616,Medication,4372.95
+3214,1617,Diagnostic imaging,168.55
+3215,1618,Surgery,14762.47
+3216,1618,Physiotherapy,5101.32
+3217,1618,Surgery,6417.82
+3218,1619,Medication,3912.44
+3219,1619,Laboratory test,4264.9
+3220,1619,Surgery,13629.46
+3221,1620,Consultation,2904.01
+3222,1620,Laboratory test,3709.99
+3223,1621,Consultation,4101.07
+3224,1621,Physiotherapy,2079.97
+3225,1621,Laboratory test,6085.6
+3226,1622,Diagnostic imaging,2938.86
+3227,1623,Surgery,15343.3
+3228,1623,Consultation,2513.82
+3229,1624,Physiotherapy,4311.01
+3230,1625,Physiotherapy,1536.92
+3231,1626,Laboratory test,3397.13
+3232,1627,Medication,6353.68
+3233,1627,Surgery,16710.06
+3234,1628,Physiotherapy,3981.28
+3235,1628,Physiotherapy,1596.77
+3236,1629,Physiotherapy,1214.69
+3237,1629,Consultation,2583.97
+3238,1629,Medication,1566.39
+3239,1630,Diagnostic imaging,3411.12
+3240,1631,Consultation,5534.69
+3241,1631,Surgery,9536.98
+3242,1631,Surgery,14841.51
+3243,1632,Diagnostic imaging,6054.6
+3244,1632,Diagnostic imaging,825.99
+3245,1633,Surgery,2385.9
+3246,1634,Laboratory test,2998.81
+3247,1634,Diagnostic imaging,4879.77
+3248,1635,Diagnostic imaging,3487.28
+3249,1635,Physiotherapy,4661.85
+3250,1635,Physiotherapy,3837.84
+3251,1636,Surgery,9908.64
+3252,1636,Physiotherapy,4567.11
+3253,1637,Medication,382.61
+3254,1637,Consultation,2121.5
+3255,1638,Diagnostic imaging,2320.09
+3256,1638,Surgery,25330.6
+3257,1638,Diagnostic imaging,4468.52
+3258,1639,Consultation,2930.95
+3259,1639,Laboratory test,592.85
+3260,1640,Physiotherapy,6445.76
+3261,1641,Consultation,5387.57
+3262,1641,Physiotherapy,5055.76
+3263,1642,Surgery,14716.53
+3264,1642,Physiotherapy,2294.24
+3265,1642,Medication,443.0
+3266,1643,Physiotherapy,4031.62
+3267,1643,Diagnostic imaging,4611.63
+3268,1643,Surgery,13665.88
+3269,1644,Surgery,12815.79
+3270,1645,Diagnostic imaging,4280.4
+3271,1645,Physiotherapy,1234.17
+3272,1646,Consultation,747.82
+3273,1646,Medication,784.23
+3274,1647,Laboratory test,1703.53
+3275,1647,Laboratory test,196.5
+3276,1647,Medication,2103.58
+3277,1648,Laboratory test,201.21
+3278,1648,Medication,1959.8
+3279,1649,Consultation,4495.8
+3280,1649,Medication,504.35
+3281,1650,Physiotherapy,3819.71
+3282,1651,Diagnostic imaging,5073.59
+3283,1651,Medication,2353.29
+3284,1651,Diagnostic imaging,3561.6
+3285,1652,Diagnostic imaging,1930.81
+3286,1652,Physiotherapy,5602.5
+3287,1653,Medication,3571.37
+3288,1653,Diagnostic imaging,6196.93
+3289,1653,Laboratory test,1475.16
+3290,1654,Diagnostic imaging,1955.17
+3291,1654,Physiotherapy,3718.83
+3292,1655,Laboratory test,1185.62
+3293,1655,Medication,4173.37
+3294,1655,Medication,5274.2
+3295,1656,Laboratory test,1480.51
+3296,1656,Medication,760.4
+3297,1657,Diagnostic imaging,3645.54
+3298,1657,Surgery,6140.4
+3299,1658,Consultation,2744.5
+3300,1658,Consultation,3055.61
+3301,1659,Diagnostic imaging,5219.97
+3302,1660,Physiotherapy,2300.79
+3303,1661,Laboratory test,4558.77
+3304,1662,Consultation,4250.28
+3305,1662,Surgery,11586.67
+3306,1663,Medication,2909.92
+3307,1664,Physiotherapy,5606.33
+3308,1665,Surgery,21356.4
+3309,1665,Diagnostic imaging,3434.87
+3310,1665,Laboratory test,3788.36
+3311,1666,Consultation,5548.48
+3312,1667,Medication,5608.81
+3313,1667,Diagnostic imaging,5906.6
+3314,1667,Physiotherapy,3259.76
+3315,1668,Surgery,6233.79
+3316,1668,Laboratory test,4468.02
+3317,1668,Diagnostic imaging,4143.31
+3318,1669,Diagnostic imaging,2504.48
+3319,1670,Surgery,5052.4
+3320,1670,Surgery,24952.83
+3321,1671,Laboratory test,5125.58
+3322,1671,Laboratory test,4044.3
+3323,1672,Surgery,22095.12
+3324,1672,Consultation,6260.62
+3325,1672,Diagnostic imaging,3173.86
+3326,1673,Consultation,2106.6
+3327,1673,Surgery,9982.82
+3328,1674,Physiotherapy,445.35
+3329,1674,Laboratory test,4839.32
+3330,1674,Surgery,10589.67
+3331,1675,Physiotherapy,2833.93
+3332,1675,Diagnostic imaging,2321.42
+3333,1675,Diagnostic imaging,5952.55
+3334,1676,Laboratory test,3111.74
+3335,1677,Consultation,649.52
+3336,1677,Physiotherapy,5010.18
+3337,1678,Surgery,22104.66
+3338,1678,Laboratory test,2701.39
+3339,1678,Consultation,2130.94
+3340,1679,Surgery,20592.9
+3341,1679,Surgery,11347.09
+3342,1679,Physiotherapy,5601.47
+3343,1680,Medication,2530.79
+3344,1680,Medication,4226.09
+3345,1680,Consultation,1904.04
+3346,1681,Laboratory test,1916.82
+3347,1682,Surgery,10686.68
+3348,1682,Laboratory test,3226.91
+3349,1682,Surgery,24326.31
+3350,1683,Diagnostic imaging,166.91
+3351,1683,Laboratory test,3996.24
+3352,1684,Physiotherapy,4480.44
+3353,1684,Surgery,11727.95
+3354,1684,Surgery,13544.08
+3355,1685,Laboratory test,5869.46
+3356,1686,Consultation,3254.89
+3357,1686,Medication,2231.96
+3358,1686,Medication,5272.74
+3359,1687,Laboratory test,5278.58
+3360,1687,Consultation,2542.62
+3361,1688,Physiotherapy,5010.48
+3362,1688,Physiotherapy,502.34
+3363,1688,Diagnostic imaging,6249.29
+3364,1689,Physiotherapy,4012.49
+3365,1690,Diagnostic imaging,2024.47
+3366,1690,Consultation,2027.84
+3367,1691,Diagnostic imaging,397.6
+3368,1691,Consultation,5283.77
+3369,1692,Medication,3636.34
+3370,1692,Physiotherapy,5027.14
+3371,1693,Medication,774.08
+3372,1693,Surgery,26300.58
+3373,1693,Medication,1844.82
+3374,1694,Surgery,19398.1
+3375,1694,Consultation,259.66
+3376,1694,Physiotherapy,4764.61
+3377,1695,Physiotherapy,681.61
+3378,1696,Medication,1379.06
+3379,1697,Diagnostic imaging,4976.4
+3380,1697,Medication,4133.34
+3381,1698,Surgery,20646.7
+3382,1698,Laboratory test,5262.14
+3383,1698,Medication,3090.56
+3384,1699,Diagnostic imaging,5950.9
+3385,1699,Medication,2686.4
+3386,1699,Surgery,1468.72
+3387,1700,Surgery,19469.37
+3388,1700,Medication,6284.35
+3389,1701,Consultation,745.43
+3390,1702,Surgery,9895.75
+3391,1702,Physiotherapy,6389.1
+3392,1702,Medication,4108.85
+3393,1703,Physiotherapy,5662.66
+3394,1704,Medication,247.94
+3395,1704,Medication,255.89
+3396,1704,Laboratory test,919.96
+3397,1705,Medication,4666.74
+3398,1706,Physiotherapy,2746.13
+3399,1707,Medication,2715.48
+3400,1707,Physiotherapy,3507.38
+3401,1707,Surgery,23413.29
+3402,1708,Medication,5904.58
+3403,1709,Medication,4769.58
+3404,1709,Physiotherapy,6132.47
+3405,1710,Laboratory test,4811.32
+3406,1710,Medication,2216.63
+3407,1711,Physiotherapy,2243.93
+3408,1711,Physiotherapy,1157.37
+3409,1711,Medication,4595.13
+3410,1712,Diagnostic imaging,2871.24
+3411,1712,Laboratory test,4979.89
+3412,1712,Physiotherapy,4289.65
+3413,1713,Laboratory test,5094.43
+3414,1714,Diagnostic imaging,2378.61
+3415,1714,Medication,5345.42
+3416,1714,Consultation,5452.7
+3417,1715,Diagnostic imaging,951.7
+3418,1715,Laboratory test,4971.71
+3419,1716,Physiotherapy,4557.9
+3420,1716,Consultation,5258.35
+3421,1717,Surgery,21000.09
+3422,1718,Consultation,2341.07
+3423,1718,Medication,1129.43
+3424,1719,Physiotherapy,2263.01
+3425,1720,Surgery,20754.08
+3426,1720,Physiotherapy,1125.13
+3427,1721,Physiotherapy,3306.76
+3428,1722,Surgery,18047.4
+3429,1722,Laboratory test,1982.43
+3430,1723,Medication,560.68
+3431,1723,Surgery,10646.38
+3432,1723,Consultation,1122.67
+3433,1724,Medication,1279.3
+3434,1724,Physiotherapy,4975.71
+3435,1724,Medication,5106.96
+3436,1725,Consultation,2446.44
+3437,1725,Laboratory test,4755.55
+3438,1726,Surgery,22469.51
+3439,1726,Diagnostic imaging,6187.26
+3440,1727,Laboratory test,1486.73
+3441,1728,Diagnostic imaging,5017.27
+3442,1728,Medication,6251.98
+3443,1729,Laboratory test,2698.2
+3444,1729,Consultation,1567.64
+3445,1729,Laboratory test,4265.8
+3446,1730,Diagnostic imaging,5615.47
+3447,1731,Medication,2063.97
+3448,1731,Surgery,10298.98
+3449,1731,Medication,770.53
+3450,1732,Consultation,2058.7
+3451,1732,Surgery,3073.9
+3452,1733,Physiotherapy,1709.29
+3453,1733,Laboratory test,940.48
+3454,1733,Laboratory test,4681.64
+3455,1734,Surgery,3046.45
+3456,1734,Consultation,3071.75
+3457,1734,Medication,4454.06
+3458,1735,Consultation,3254.4
+3459,1735,Surgery,19695.23
+3460,1735,Diagnostic imaging,6145.41
+3461,1736,Surgery,19032.75
+3462,1736,Laboratory test,6488.66
+3463,1737,Diagnostic imaging,993.53
+3464,1737,Medication,1511.43
+3465,1738,Surgery,25524.02
+3466,1738,Laboratory test,1197.55
+3467,1738,Physiotherapy,2116.95
+3468,1739,Laboratory test,3453.02
+3469,1739,Consultation,1394.71
+3470,1739,Physiotherapy,219.87
+3471,1740,Diagnostic imaging,6336.86
+3472,1740,Laboratory test,1302.36
+3473,1740,Physiotherapy,2785.76
+3474,1741,Consultation,711.73
+3475,1741,Diagnostic imaging,4418.59
+3476,1741,Diagnostic imaging,5209.45
+3477,1742,Medication,5643.68
+3478,1742,Surgery,27354.69
+3479,1743,Physiotherapy,5350.47
+3480,1743,Laboratory test,1968.7
+3481,1744,Consultation,1458.59
+3482,1745,Medication,5094.07
+3483,1746,Medication,1698.32
+3484,1746,Diagnostic imaging,2205.13
+3485,1746,Consultation,5861.19
+3486,1747,Surgery,25445.27
+3487,1747,Consultation,4800.2
+3488,1748,Surgery,11934.63
+3489,1749,Consultation,4320.49
+3490,1749,Consultation,3331.37
+3491,1749,Medication,1562.05
+3492,1750,Laboratory test,843.35
+3493,1750,Medication,679.05
+3494,1751,Physiotherapy,4656.31
+3495,1751,Surgery,18153.55
+3496,1751,Diagnostic imaging,2044.64
+3497,1752,Medication,783.99
+3498,1752,Surgery,27818.79
+3499,1752,Diagnostic imaging,3830.32
+3500,1753,Diagnostic imaging,5109.09
+3501,1753,Laboratory test,6199.01
+3502,1753,Surgery,22335.96
+3503,1754,Medication,1622.6
+3504,1755,Laboratory test,2998.83
+3505,1755,Laboratory test,5555.65
+3506,1756,Consultation,5911.65
+3507,1756,Consultation,1105.94
+3508,1757,Laboratory test,5280.97
+3509,1758,Medication,2077.0
+3510,1759,Diagnostic imaging,2996.18
+3511,1760,Diagnostic imaging,2119.54
+3512,1760,Physiotherapy,5501.73
+3513,1761,Consultation,1595.56
+3514,1762,Consultation,5099.71
+3515,1762,Laboratory test,3597.07
+3516,1763,Consultation,5588.43
+3517,1763,Laboratory test,1179.96
+3518,1764,Surgery,26705.83
+3519,1765,Diagnostic imaging,2610.0
+3520,1766,Surgery,14913.79
+3521,1766,Laboratory test,4859.43
+3522,1766,Consultation,5502.1
+3523,1767,Surgery,1187.12
+3524,1767,Surgery,24757.47
+3525,1767,Surgery,12433.16
+3526,1768,Surgery,2185.81
+3527,1768,Consultation,500.36
+3528,1768,Surgery,21320.28
+3529,1769,Diagnostic imaging,1191.17
+3530,1769,Diagnostic imaging,4496.01
+3531,1770,Consultation,5449.19
+3532,1770,Surgery,15956.47
+3533,1770,Laboratory test,4644.01
+3534,1771,Medication,2090.06
+3535,1772,Medication,3190.87
+3536,1772,Laboratory test,1708.35
+3537,1773,Diagnostic imaging,6337.61
+3538,1773,Surgery,21343.68
+3539,1774,Surgery,1010.71
+3540,1774,Diagnostic imaging,416.97
+3541,1774,Physiotherapy,3897.08
+3542,1775,Diagnostic imaging,6191.52
+3543,1775,Medication,4352.64
+3544,1776,Laboratory test,3752.89
+3545,1777,Diagnostic imaging,4977.53
+3546,1778,Laboratory test,4498.32
+3547,1778,Diagnostic imaging,6112.63
+3548,1779,Laboratory test,3514.4
+3549,1779,Medication,1023.06
+3550,1780,Diagnostic imaging,2726.54
+3551,1780,Physiotherapy,3776.82
+3552,1781,Physiotherapy,3597.12
+3553,1781,Diagnostic imaging,1430.56
+3554,1782,Consultation,5202.19
+3555,1782,Laboratory test,2280.89
+3556,1783,Physiotherapy,3072.93
+3557,1783,Consultation,2467.64
+3558,1783,Physiotherapy,828.54
+3559,1784,Consultation,5537.25
+3560,1785,Medication,4261.28
+3561,1785,Diagnostic imaging,4937.59
+3562,1786,Diagnostic imaging,5243.16
+3563,1786,Physiotherapy,2967.06
+3564,1787,Laboratory test,3714.18
+3565,1788,Consultation,1279.14
+3566,1788,Physiotherapy,3801.92
+3567,1788,Surgery,20441.38
+3568,1789,Laboratory test,1404.46
+3569,1789,Laboratory test,5610.54
+3570,1789,Medication,5844.27
+3571,1790,Medication,5652.59
+3572,1791,Medication,5637.31
+3573,1791,Consultation,4128.17
+3574,1792,Diagnostic imaging,2725.04
+3575,1792,Physiotherapy,5097.96
+3576,1793,Medication,4979.01
+3577,1794,Diagnostic imaging,5354.41
+3578,1794,Surgery,8873.01
+3579,1795,Diagnostic imaging,1530.67
+3580,1795,Laboratory test,4028.7
+3581,1795,Physiotherapy,1882.9
+3582,1796,Consultation,6391.66
+3583,1796,Diagnostic imaging,5630.33
+3584,1797,Consultation,4720.11
+3585,1798,Laboratory test,2062.02
+3586,1798,Surgery,14214.86
+3587,1798,Diagnostic imaging,5496.92
+3588,1799,Diagnostic imaging,4748.15
+3589,1799,Physiotherapy,538.4
+3590,1799,Surgery,12539.77
+3591,1800,Laboratory test,5570.81
+3592,1800,Physiotherapy,5089.49
+3593,1801,Medication,776.16
+3594,1802,Diagnostic imaging,6409.58
+3595,1803,Physiotherapy,5350.22
+3596,1804,Consultation,5349.72
+3597,1804,Surgery,19916.47
+3598,1805,Physiotherapy,5343.15
+3599,1806,Diagnostic imaging,2186.71
+3600,1807,Laboratory test,4693.4
+3601,1808,Surgery,26595.68
+3602,1808,Surgery,12244.73
+3603,1809,Consultation,4413.08
+3604,1810,Laboratory test,413.75
+3605,1811,Diagnostic imaging,4505.08
+3606,1811,Physiotherapy,6273.64
+3607,1812,Consultation,5544.83
+3608,1812,Physiotherapy,1525.09
+3609,1812,Diagnostic imaging,3233.51
+3610,1813,Consultation,2600.3
+3611,1813,Diagnostic imaging,3673.38
+3612,1813,Consultation,2738.46
+3613,1814,Physiotherapy,373.42
+3614,1814,Medication,2574.49
+3615,1815,Surgery,4595.46
+3616,1815,Consultation,4747.42
+3617,1815,Medication,862.85
+3618,1816,Medication,1567.8
+3619,1816,Physiotherapy,4670.7
+3620,1817,Physiotherapy,1771.18
+3621,1818,Surgery,14870.23
+3622,1818,Physiotherapy,2803.39
+3623,1819,Medication,5202.09
+3624,1819,Surgery,6000.58
+3625,1819,Laboratory test,1730.79
+3626,1820,Laboratory test,4965.98
+3627,1820,Diagnostic imaging,1675.44
+3628,1821,Medication,5120.56
+3629,1822,Consultation,1029.45
+3630,1822,Laboratory test,6216.19
+3631,1822,Laboratory test,2290.05
+3632,1823,Surgery,11390.56
+3633,1823,Surgery,6824.02
+3634,1823,Medication,3187.27
+3635,1824,Consultation,3834.67
+3636,1825,Medication,3746.6
+3637,1825,Physiotherapy,2771.13
+3638,1826,Diagnostic imaging,2288.83
+3639,1827,Laboratory test,2577.23
+3640,1828,Consultation,6011.23
+3641,1828,Physiotherapy,1204.11
+3642,1829,Diagnostic imaging,3827.38
+3643,1830,Consultation,2222.54
+3644,1830,Surgery,11097.7
+3645,1831,Medication,1097.26
+3646,1831,Medication,3605.8
+3647,1831,Surgery,5561.15
+3648,1832,Consultation,4566.11
+3649,1832,Surgery,19093.36
+3650,1832,Physiotherapy,3878.47
+3651,1833,Surgery,26076.35
+3652,1833,Consultation,5695.82
+3653,1834,Physiotherapy,3237.38
+3654,1834,Medication,3656.54
+3655,1835,Medication,4172.65
+3656,1836,Physiotherapy,164.14
+3657,1836,Laboratory test,3010.27
+3658,1836,Medication,2443.36
+3659,1837,Consultation,1406.87
+3660,1838,Surgery,16890.11
+3661,1838,Consultation,3039.21
+3662,1838,Laboratory test,323.49
+3663,1839,Medication,6135.31
+3664,1840,Consultation,177.35
+3665,1840,Surgery,719.57
+3666,1841,Consultation,4502.58
+3667,1842,Consultation,2616.96
+3668,1842,Laboratory test,285.37
+3669,1843,Laboratory test,3431.45
+3670,1843,Surgery,586.25
+3671,1843,Physiotherapy,1715.0
+3672,1844,Surgery,8941.26
+3673,1844,Laboratory test,3931.54
+3674,1844,Diagnostic imaging,5330.8
+3675,1845,Laboratory test,4062.15
+3676,1846,Diagnostic imaging,1631.41
+3677,1847,Consultation,5347.75
+3678,1847,Physiotherapy,1636.78
+3679,1847,Diagnostic imaging,5908.63
+3680,1848,Physiotherapy,2600.57
+3681,1849,Physiotherapy,5947.8
+3682,1849,Laboratory test,3366.7
+3683,1850,Diagnostic imaging,5647.56
+3684,1850,Physiotherapy,5306.65
+3685,1850,Medication,3028.04
+3686,1851,Consultation,2883.17
+3687,1851,Laboratory test,2460.37
+3688,1852,Laboratory test,305.56
+3689,1853,Consultation,6110.56
+3690,1854,Physiotherapy,5483.54
+3691,1854,Consultation,4749.3
+3692,1855,Medication,6016.87
+3693,1856,Consultation,2787.02
+3694,1856,Medication,3068.92
+3695,1857,Diagnostic imaging,3520.93
+3696,1857,Laboratory test,4379.16
+3697,1857,Surgery,23343.77
+3698,1858,Laboratory test,3510.58
+3699,1858,Surgery,19016.47
+3700,1858,Surgery,26576.08
+3701,1859,Medication,1014.95
+3702,1859,Diagnostic imaging,283.29
+3703,1859,Diagnostic imaging,4916.65
+3704,1860,Diagnostic imaging,1353.85
+3705,1861,Surgery,12308.64
+3706,1861,Consultation,5462.42
+3707,1862,Diagnostic imaging,5773.0
+3708,1862,Physiotherapy,5262.01
+3709,1862,Surgery,25544.38
+3710,1863,Laboratory test,1324.81
+3711,1864,Physiotherapy,3592.52
+3712,1864,Medication,867.33
+3713,1864,Consultation,622.35
+3714,1865,Consultation,5489.79
+3715,1865,Laboratory test,4610.75
+3716,1866,Laboratory test,3814.76
+3717,1867,Physiotherapy,292.79
+3718,1867,Diagnostic imaging,1358.16
+3719,1868,Diagnostic imaging,4731.42
+3720,1868,Medication,1391.84
+3721,1869,Physiotherapy,691.9
+3722,1869,Consultation,3194.73
+3723,1870,Surgery,24193.95
+3724,1870,Consultation,806.65
+3725,1870,Laboratory test,6170.27
+3726,1871,Physiotherapy,6168.1
+3727,1872,Consultation,5788.65
+3728,1873,Medication,2365.74
+3729,1873,Diagnostic imaging,166.95
+3730,1874,Physiotherapy,4699.58
+3731,1874,Surgery,17262.75
+3732,1875,Physiotherapy,4654.53
+3733,1876,Diagnostic imaging,968.02
+3734,1876,Diagnostic imaging,1470.74
+3735,1876,Consultation,231.69
+3736,1877,Physiotherapy,5893.03
+3737,1878,Consultation,5639.38
+3738,1878,Consultation,5682.12
+3739,1878,Physiotherapy,2667.11
+3740,1879,Consultation,1764.42
+3741,1880,Medication,1974.95
+3742,1880,Physiotherapy,2253.68
+3743,1880,Consultation,784.06
+3744,1881,Diagnostic imaging,2027.81
+3745,1881,Consultation,2427.52
+3746,1881,Laboratory test,5345.04
+3747,1882,Laboratory test,5461.5
+3748,1883,Medication,5467.83
+3749,1883,Diagnostic imaging,6399.07
+3750,1884,Surgery,5088.4
+3751,1884,Laboratory test,4888.07
+3752,1885,Physiotherapy,2914.8
+3753,1885,Diagnostic imaging,3090.09
+3754,1885,Physiotherapy,3599.94
+3755,1886,Laboratory test,5244.87
+3756,1886,Medication,5807.18
+3757,1887,Diagnostic imaging,4018.12
+3758,1888,Laboratory test,3728.42
+3759,1888,Surgery,9162.61
+3760,1888,Surgery,16888.47
+3761,1889,Surgery,27210.95
+3762,1889,Surgery,24504.86
+3763,1890,Medication,3101.19
+3764,1890,Consultation,5217.25
+3765,1890,Consultation,5726.54
+3766,1891,Consultation,5962.87
+3767,1892,Physiotherapy,6426.27
+3768,1893,Consultation,4172.1
+3769,1893,Laboratory test,4569.17
+3770,1894,Medication,2470.89
+3771,1895,Surgery,11236.94
+3772,1895,Diagnostic imaging,474.8
+3773,1895,Medication,204.31
+3774,1896,Physiotherapy,5869.16
+3775,1896,Physiotherapy,1754.33
+3776,1897,Physiotherapy,1624.85
+3777,1897,Surgery,23292.06
+3778,1898,Medication,2241.63
+3779,1898,Physiotherapy,4193.87
+3780,1898,Medication,4853.9
+3781,1899,Surgery,18731.31
+3782,1899,Medication,607.48
+3783,1900,Physiotherapy,4404.02
+3784,1900,Physiotherapy,5485.25
+3785,1901,Medication,1145.19
+3786,1901,Diagnostic imaging,1403.31
+3787,1902,Consultation,4773.09
+3788,1902,Diagnostic imaging,702.44
+3789,1902,Diagnostic imaging,6053.57
+3790,1903,Medication,3010.61
+3791,1903,Laboratory test,3923.4
+3792,1904,Medication,1693.21
+3793,1905,Surgery,27288.91
+3794,1906,Medication,742.1
+3795,1906,Physiotherapy,1086.47
+3796,1906,Physiotherapy,4800.86
+3797,1907,Physiotherapy,1654.03
+3798,1907,Physiotherapy,4165.23
+3799,1907,Laboratory test,2602.39
+3800,1908,Laboratory test,474.2
+3801,1908,Surgery,6139.83
+3802,1908,Laboratory test,2872.27
+3803,1909,Physiotherapy,3963.85
+3804,1909,Laboratory test,4457.68
+3805,1909,Surgery,1231.4
+3806,1910,Consultation,1316.76
+3807,1910,Physiotherapy,1316.89
+3808,1910,Consultation,3732.88
+3809,1911,Physiotherapy,576.31
+3810,1912,Medication,3170.21
+3811,1912,Diagnostic imaging,5943.51
+3812,1913,Medication,1150.45
+3813,1913,Surgery,21983.71
+3814,1913,Medication,1081.58
+3815,1914,Diagnostic imaging,5766.32
+3816,1914,Medication,1630.65
+3817,1914,Surgery,12584.08
+3818,1915,Medication,6077.93
+3819,1916,Medication,3664.13
+3820,1916,Laboratory test,1792.66
+3821,1917,Consultation,4256.75
+3822,1917,Laboratory test,2943.75
+3823,1917,Physiotherapy,4135.43
+3824,1918,Medication,5903.99
+3825,1918,Laboratory test,239.5
+3826,1919,Diagnostic imaging,5896.0
+3827,1920,Diagnostic imaging,5824.24
+3828,1920,Physiotherapy,4719.16
+3829,1920,Physiotherapy,4238.77
+3830,1921,Laboratory test,2608.67
+3831,1922,Laboratory test,4188.46
+3832,1922,Diagnostic imaging,3110.45
+3833,1922,Medication,1362.27
+3834,1923,Surgery,22222.54
+3835,1924,Physiotherapy,3416.67
+3836,1925,Laboratory test,519.67
+3837,1925,Diagnostic imaging,1578.34
+3838,1926,Consultation,2229.77
+3839,1926,Consultation,731.6
+3840,1926,Medication,6024.73
+3841,1927,Diagnostic imaging,2359.9
+3842,1928,Surgery,10364.16
+3843,1928,Medication,5170.03
+3844,1928,Surgery,7715.59
+3845,1929,Laboratory test,1765.47
+3846,1929,Diagnostic imaging,2350.58
+3847,1929,Surgery,18651.21
+3848,1930,Physiotherapy,1491.05
+3849,1930,Laboratory test,399.87
+3850,1931,Surgery,22345.14
+3851,1931,Surgery,20828.25
+3852,1932,Laboratory test,2331.26
+3853,1932,Consultation,5282.92
+3854,1932,Surgery,8607.71
+3855,1933,Consultation,1492.64
+3856,1933,Laboratory test,3346.06
+3857,1933,Diagnostic imaging,1948.58
+3858,1934,Laboratory test,2524.17
+3859,1935,Consultation,6259.72
+3860,1935,Laboratory test,2755.78
+3861,1935,Surgery,25143.63
+3862,1936,Medication,4379.15
+3863,1937,Physiotherapy,5601.01
+3864,1938,Medication,5672.84
+3865,1938,Surgery,25818.53
+3866,1938,Medication,5639.34
+3867,1939,Surgery,386.53
+3868,1939,Diagnostic imaging,3857.6
+3869,1940,Laboratory test,2879.1
+3870,1941,Medication,5988.72
+3871,1941,Medication,4271.49
+3872,1942,Consultation,1646.06
+3873,1942,Consultation,883.72
+3874,1943,Physiotherapy,6443.14
+3875,1943,Physiotherapy,3842.06
+3876,1944,Physiotherapy,5155.86
+3877,1944,Laboratory test,2735.23
+3878,1945,Surgery,1033.18
+3879,1946,Laboratory test,1682.08
+3880,1946,Consultation,1503.69
+3881,1946,Surgery,26896.16
+3882,1947,Surgery,5468.47
+3883,1947,Consultation,5228.73
+3884,1948,Consultation,5904.18
+3885,1948,Surgery,2402.69
+3886,1948,Physiotherapy,5750.73
+3887,1949,Medication,6056.09
+3888,1950,Medication,413.55
+3889,1950,Laboratory test,5447.05
+3890,1951,Consultation,2234.95
+3891,1951,Consultation,1690.12
+3892,1952,Physiotherapy,1161.82
+3893,1953,Surgery,4029.11
+3894,1953,Medication,4610.39
+3895,1953,Laboratory test,1332.07
+3896,1954,Medication,1588.25
+3897,1954,Laboratory test,2928.96
+3898,1955,Physiotherapy,2488.6
+3899,1955,Diagnostic imaging,2322.48
+3900,1955,Surgery,5064.19
+3901,1956,Laboratory test,4631.31
+3902,1956,Surgery,6308.49
+3903,1956,Diagnostic imaging,5077.28
+3904,1957,Consultation,4996.97
+3905,1957,Diagnostic imaging,2252.28
+3906,1958,Medication,3562.73
+3907,1958,Consultation,2434.0
+3908,1959,Medication,214.51
+3909,1959,Laboratory test,3419.61
+3910,1960,Diagnostic imaging,1949.74
+3911,1960,Medication,2247.37
+3912,1960,Medication,3104.31
+3913,1961,Surgery,7869.79
+3914,1962,Medication,333.74
+3915,1962,Consultation,1682.41
+3916,1962,Medication,3317.37
+3917,1963,Medication,4427.73
+3918,1964,Physiotherapy,3006.56
+3919,1964,Diagnostic imaging,3397.99
+3920,1964,Surgery,2216.86
+3921,1965,Surgery,9702.39
+3922,1965,Laboratory test,4033.69
+3923,1966,Consultation,2057.3
+3924,1966,Laboratory test,5708.36
+3925,1967,Physiotherapy,5845.22
+3926,1967,Diagnostic imaging,5287.18
+3927,1967,Consultation,6134.27
+3928,1968,Laboratory test,5434.67
+3929,1969,Physiotherapy,2599.3
+3930,1969,Medication,5748.85
+3931,1970,Physiotherapy,6449.3
+3932,1971,Laboratory test,723.11
+3933,1971,Physiotherapy,712.27
+3934,1971,Medication,5872.48
+3935,1972,Surgery,17115.95
+3936,1972,Laboratory test,712.23
+3937,1973,Diagnostic imaging,5229.47
+3938,1974,Diagnostic imaging,5817.34
+3939,1974,Surgery,15425.5
+3940,1974,Consultation,1328.81
+3941,1975,Consultation,6461.47
+3942,1975,Consultation,735.9
+3943,1975,Medication,5606.54
+3944,1976,Laboratory test,1151.92
+3945,1976,Consultation,5385.59
+3946,1977,Surgery,26865.05
+3947,1978,Medication,5877.15
+3948,1978,Consultation,4076.72
+3949,1978,Medication,5186.72
+3950,1979,Laboratory test,3911.95
+3951,1979,Surgery,1021.89
+3952,1980,Physiotherapy,5608.86
+3953,1980,Surgery,4468.66
+3954,1981,Physiotherapy,6324.87
+3955,1982,Consultation,2845.74
+3956,1983,Physiotherapy,3989.18
+3957,1983,Physiotherapy,1019.47
+3958,1984,Medication,3296.28
+3959,1985,Laboratory test,5798.66
+3960,1985,Surgery,8384.98
+3961,1986,Surgery,5425.49
+3962,1986,Medication,5553.33
+3963,1986,Laboratory test,5949.67
+3964,1987,Medication,5035.03
+3965,1988,Medication,5921.36
+3966,1988,Medication,4661.26
+3967,1988,Diagnostic imaging,2667.01
+3968,1989,Laboratory test,3444.9
+3969,1989,Surgery,11935.29
+3970,1990,Surgery,6576.58
+3971,1991,Medication,806.84
+3972,1992,Surgery,24992.8
+3973,1992,Consultation,2779.35
+3974,1992,Surgery,3531.79
+3975,1993,Laboratory test,2307.64
+3976,1993,Physiotherapy,1862.04
+3977,1994,Surgery,2733.76
+3978,1994,Laboratory test,5274.16
+3979,1995,Surgery,22115.04
+3980,1995,Consultation,206.3
+3981,1995,Consultation,5555.29
+3982,1996,Physiotherapy,948.24
+3983,1996,Consultation,4287.87
+3984,1997,Laboratory test,5469.6
+3985,1997,Physiotherapy,3013.73
+3986,1997,Medication,1379.86
+3987,1998,Laboratory test,5586.44
+3988,1998,Consultation,1677.48
+3989,1998,Medication,4140.12
+3990,1999,Physiotherapy,3810.15
+3991,1999,Physiotherapy,938.12
+3992,1999,Diagnostic imaging,3921.38
+3993,2000,Physiotherapy,6304.33
+3994,2000,Surgery,3869.45
+3995,2000,Laboratory test,1220.33
+3996,2001,Laboratory test,3865.23
+3997,2001,Diagnostic imaging,2137.83
+3998,2001,Consultation,5332.33
+3999,2002,Consultation,2975.47
+4000,2003,Consultation,4834.19
+4001,2003,Diagnostic imaging,410.06
+4002,2004,Physiotherapy,2376.34
+4003,2004,Diagnostic imaging,5148.56
+4004,2005,Physiotherapy,3273.84
+4005,2005,Medication,941.81
+4006,2006,Laboratory test,3437.09
+4007,2007,Physiotherapy,6093.66
+4008,2008,Physiotherapy,668.96
+4009,2008,Consultation,6495.93
+4010,2008,Medication,1681.1
+4011,2009,Diagnostic imaging,1681.46
+4012,2009,Physiotherapy,4398.82
+4013,2009,Laboratory test,3703.26
+4014,2010,Diagnostic imaging,1245.89
+4015,2010,Consultation,1145.83
+4016,2011,Surgery,18727.18
+4017,2011,Surgery,20452.36
+4018,2011,Diagnostic imaging,3586.26
+4019,2012,Surgery,21283.96
+4020,2012,Physiotherapy,3513.0
+4021,2013,Consultation,5298.22
+4022,2013,Surgery,14685.19
+4023,2014,Medication,1639.57
+4024,2014,Medication,1872.88
+4025,2014,Diagnostic imaging,4419.65
+4026,2015,Physiotherapy,5633.11
+4027,2015,Laboratory test,2658.04
+4028,2016,Medication,1873.68
+4029,2016,Surgery,16272.71
+4030,2017,Surgery,17217.91
+4031,2018,Diagnostic imaging,214.19
+4032,2019,Physiotherapy,1092.88
+4033,2020,Physiotherapy,5220.81
+4034,2021,Laboratory test,972.44
+4035,2022,Physiotherapy,1272.13
+4036,2022,Laboratory test,4918.31
+4037,2023,Physiotherapy,1468.36
+4038,2024,Physiotherapy,3562.53
+4039,2024,Medication,1486.94
+4040,2024,Laboratory test,2481.3
+4041,2025,Surgery,3053.52
+4042,2026,Consultation,5824.65
+4043,2026,Physiotherapy,4136.74
+4044,2026,Laboratory test,2496.51
+4045,2027,Physiotherapy,1149.12
+4046,2027,Laboratory test,341.25
+4047,2027,Diagnostic imaging,4679.38
+4048,2028,Medication,1504.99
+4049,2028,Medication,391.4
+4050,2028,Medication,3050.77
+4051,2029,Physiotherapy,2820.85
+4052,2029,Laboratory test,5216.46
+4053,2029,Consultation,4473.94
+4054,2030,Physiotherapy,3056.67
+4055,2030,Laboratory test,3288.25
+4056,2031,Medication,2276.93
+4057,2032,Surgery,8435.04
+4058,2032,Medication,4446.82
+4059,2032,Surgery,6572.9
+4060,2033,Laboratory test,2915.3
+4061,2033,Physiotherapy,4296.03
+4062,2034,Surgery,26335.41
+4063,2034,Surgery,18883.6
+4064,2034,Diagnostic imaging,4486.39
+4065,2035,Surgery,7684.27
+4066,2035,Diagnostic imaging,3949.77
+4067,2035,Consultation,2855.64
+4068,2036,Surgery,6018.47
+4069,2036,Physiotherapy,1129.5
+4070,2036,Laboratory test,2081.71
+4071,2037,Surgery,27770.22
+4072,2038,Medication,832.26
+4073,2038,Laboratory test,2372.94
+4074,2038,Surgery,22855.42
+4075,2039,Physiotherapy,2217.45
+4076,2039,Medication,6140.49
+4077,2039,Consultation,4335.8
+4078,2040,Consultation,3918.19
+4079,2040,Medication,3340.6
+4080,2041,Diagnostic imaging,4892.86
+4081,2041,Consultation,1101.21
+4082,2042,Laboratory test,1744.71
+4083,2043,Consultation,3459.07
+4084,2044,Surgery,11415.52
+4085,2045,Diagnostic imaging,4766.61
+4086,2046,Laboratory test,928.66
+4087,2047,Diagnostic imaging,3424.22
+4088,2048,Consultation,1320.68
+4089,2049,Laboratory test,4008.17
+4090,2049,Medication,886.19
+4091,2049,Surgery,17606.86
+4092,2050,Surgery,15020.07
+4093,2050,Consultation,3335.58
+4094,2050,Physiotherapy,3277.09
+4095,2051,Surgery,25735.85
+4096,2052,Medication,2391.64
+4097,2052,Diagnostic imaging,417.28
+4098,2053,Laboratory test,3465.65
+4099,2053,Laboratory test,2597.02
+4100,2054,Physiotherapy,983.81
+4101,2054,Consultation,4275.38
+4102,2055,Surgery,1583.84
+4103,2055,Physiotherapy,553.05
+4104,2055,Consultation,5860.03
+4105,2056,Physiotherapy,3375.6
+4106,2056,Surgery,16367.45
+4107,2056,Diagnostic imaging,528.25
+4108,2057,Medication,4619.72
+4109,2058,Consultation,5500.18
+4110,2059,Medication,4604.33
+4111,2060,Medication,5708.04
+4112,2060,Consultation,5358.44
+4113,2061,Surgery,16736.86
+4114,2061,Diagnostic imaging,4495.03
+4115,2062,Laboratory test,1058.53
+4116,2063,Surgery,21138.79
+4117,2063,Medication,693.4
+4118,2064,Surgery,27701.09
+4119,2065,Consultation,4966.82
+4120,2066,Medication,5976.06
+4121,2066,Physiotherapy,2772.96
+4122,2066,Physiotherapy,441.93
+4123,2067,Diagnostic imaging,700.78
+4124,2068,Medication,2188.53
+4125,2069,Diagnostic imaging,202.42
+4126,2069,Laboratory test,5917.02
+4127,2070,Medication,6250.32
+4128,2070,Medication,1610.09
+4129,2071,Laboratory test,5969.25
+4130,2071,Physiotherapy,1586.5
+4131,2071,Consultation,5184.47
+4132,2072,Physiotherapy,3106.41
+4133,2072,Surgery,16670.81
+4134,2072,Medication,1109.68
+4135,2073,Medication,5645.89
+4136,2073,Physiotherapy,3433.24
+4137,2073,Medication,842.46
+4138,2074,Physiotherapy,2261.35
+4139,2075,Physiotherapy,4958.19
+4140,2076,Consultation,5858.88
+4141,2077,Medication,4824.98
+4142,2078,Consultation,3529.96
+4143,2078,Medication,3616.99
+4144,2078,Surgery,8553.58
+4145,2079,Physiotherapy,5496.72
+4146,2080,Consultation,4319.84
+4147,2081,Laboratory test,6004.54
+4148,2082,Medication,5202.67
+4149,2083,Medication,2894.06
+4150,2084,Physiotherapy,4667.64
+4151,2084,Physiotherapy,2410.25
+4152,2085,Physiotherapy,6474.44
+4153,2086,Medication,960.03
+4154,2087,Medication,410.08
+4155,2087,Surgery,632.4
+4156,2088,Surgery,20314.83
+4157,2088,Surgery,7349.51
+4158,2089,Diagnostic imaging,1179.04
+4159,2089,Medication,5563.37
+4160,2089,Consultation,5645.65
+4161,2090,Medication,5167.36
+4162,2090,Surgery,3959.16
+4163,2091,Diagnostic imaging,4355.33
+4164,2091,Consultation,5865.85
+4165,2091,Surgery,18568.69
+4166,2092,Medication,5302.22
+4167,2092,Laboratory test,3822.07
+4168,2093,Physiotherapy,1642.5
+4169,2093,Medication,4482.03
+4170,2094,Physiotherapy,2758.39
+4171,2095,Diagnostic imaging,3322.72
+4172,2095,Diagnostic imaging,6000.87
+4173,2095,Diagnostic imaging,4995.45
+4174,2096,Surgery,10409.48
+4175,2096,Diagnostic imaging,2441.59
+4176,2097,Physiotherapy,3607.07
+4177,2097,Laboratory test,1287.64
+4178,2097,Surgery,23975.29
+4179,2098,Consultation,1572.04
+4180,2099,Laboratory test,6454.43
+4181,2100,Surgery,6470.77
+4182,2100,Physiotherapy,6005.57
+4183,2101,Consultation,5236.12
+4184,2102,Medication,2936.58
+4185,2102,Diagnostic imaging,5838.36
+4186,2102,Laboratory test,4089.86
+4187,2103,Consultation,902.76
+4188,2103,Physiotherapy,2281.33
+4189,2104,Medication,2842.47
+4190,2105,Surgery,27620.1
+4191,2105,Surgery,24170.29
+4192,2105,Medication,2012.73
+4193,2106,Surgery,23550.48
+4194,2106,Physiotherapy,2844.29
+4195,2107,Laboratory test,5352.33
+4196,2107,Physiotherapy,1833.24
+4197,2107,Surgery,20912.14
+4198,2108,Consultation,5069.05
+4199,2108,Diagnostic imaging,2961.04
+4200,2109,Consultation,1655.1
+4201,2109,Laboratory test,1925.83
+4202,2110,Medication,1346.9
+4203,2110,Physiotherapy,4005.48
+4204,2111,Diagnostic imaging,501.55
+4205,2111,Laboratory test,704.74
+4206,2112,Laboratory test,3429.94
+4207,2112,Medication,3019.92
+4208,2113,Physiotherapy,387.13
+4209,2113,Diagnostic imaging,5552.35
+4210,2114,Medication,1951.35
+4211,2114,Consultation,488.91
+4212,2114,Consultation,284.29
+4213,2115,Surgery,13452.8
+4214,2115,Physiotherapy,3130.26
+4215,2115,Medication,1396.58
+4216,2116,Physiotherapy,6160.15
+4217,2116,Medication,3896.77
+4218,2117,Physiotherapy,2712.15
+4219,2118,Medication,1307.82
+4220,2119,Physiotherapy,3885.39
+4221,2119,Laboratory test,6245.7
+4222,2119,Consultation,4594.26
+4223,2120,Medication,569.98
+4224,2120,Consultation,4137.6
+4225,2121,Diagnostic imaging,4984.58
+4226,2121,Physiotherapy,4248.84
+4227,2121,Surgery,14982.7
+4228,2122,Laboratory test,4532.13
+4229,2122,Consultation,5661.65
+4230,2122,Laboratory test,4088.21
+4231,2123,Diagnostic imaging,4844.92
+4232,2123,Consultation,2867.94
+4233,2124,Medication,1519.14
+4234,2124,Diagnostic imaging,6473.64
+4235,2124,Physiotherapy,363.83
+4236,2125,Laboratory test,1159.36
+4237,2125,Physiotherapy,389.8
+4238,2125,Diagnostic imaging,4004.78
+4239,2126,Surgery,10035.32
+4240,2126,Consultation,6363.29
+4241,2127,Consultation,1076.91
+4242,2128,Medication,1039.2
+4243,2128,Consultation,4963.7
+4244,2128,Physiotherapy,5574.95
+4245,2129,Laboratory test,3519.86
+4246,2129,Physiotherapy,2996.63
+4247,2130,Physiotherapy,2242.38
+4248,2130,Physiotherapy,2229.1
+4249,2131,Laboratory test,5559.89
+4250,2131,Medication,2404.48
+4251,2132,Laboratory test,3907.6
+4252,2132,Diagnostic imaging,490.6
+4253,2133,Physiotherapy,4990.01
+4254,2134,Surgery,20003.71
+4255,2134,Consultation,1657.03
+4256,2135,Laboratory test,3377.73
+4257,2135,Consultation,5603.4
+4258,2136,Laboratory test,2512.86
+4259,2136,Diagnostic imaging,2499.1
+4260,2137,Medication,3134.1
+4261,2137,Consultation,258.12
+4262,2138,Laboratory test,6004.85
+4263,2138,Consultation,2920.99
+4264,2139,Consultation,6056.32
+4265,2139,Surgery,12208.19
+4266,2140,Physiotherapy,3214.99
+4267,2141,Laboratory test,1946.53
+4268,2142,Consultation,2842.16
+4269,2143,Medication,492.7
+4270,2143,Medication,2411.37
+4271,2144,Laboratory test,4471.13
+4272,2144,Medication,2188.73
+4273,2145,Physiotherapy,4467.81
+4274,2146,Consultation,739.5
+4275,2146,Laboratory test,5491.74
+4276,2146,Diagnostic imaging,427.56
+4277,2147,Surgery,16551.34
+4278,2148,Medication,4054.86
+4279,2148,Medication,2036.93
+4280,2148,Surgery,14672.59
+4281,2149,Diagnostic imaging,2048.51
+4282,2149,Physiotherapy,738.68
+4283,2149,Laboratory test,1333.31
+4284,2150,Physiotherapy,3698.41
+4285,2150,Physiotherapy,5007.65
+4286,2151,Physiotherapy,3640.38
+4287,2151,Surgery,23137.89
+4288,2151,Laboratory test,1881.18
+4289,2152,Consultation,5295.87
+4290,2153,Consultation,5527.76
+4291,2153,Medication,5263.04
+4292,2153,Laboratory test,5012.02
+4293,2154,Physiotherapy,5052.9
+4294,2155,Diagnostic imaging,1613.06
+4295,2155,Physiotherapy,3693.28
+4296,2156,Medication,1703.26
+4297,2156,Laboratory test,5148.87
+4298,2157,Medication,2597.12
+4299,2157,Physiotherapy,163.52
+4300,2158,Laboratory test,1514.21
+4301,2158,Surgery,25654.8
+4302,2158,Diagnostic imaging,3114.77
+4303,2159,Physiotherapy,3389.14
+4304,2160,Medication,2357.27
+4305,2160,Physiotherapy,287.81
+4306,2160,Laboratory test,2746.18
+4307,2161,Diagnostic imaging,4655.79
+4308,2162,Diagnostic imaging,1465.77
+4309,2162,Medication,758.26
+4310,2163,Surgery,25230.01
+4311,2163,Physiotherapy,5093.52
+4312,2164,Diagnostic imaging,2381.05
+4313,2164,Medication,2875.51
+4314,2164,Consultation,5241.26
+4315,2165,Diagnostic imaging,404.94
+4316,2166,Consultation,1943.98
+4317,2166,Surgery,6887.99
+4318,2167,Surgery,11661.73
+4319,2167,Surgery,24001.05
+4320,2168,Laboratory test,2256.66
+4321,2168,Diagnostic imaging,2823.26
+4322,2169,Consultation,5796.8
+4323,2170,Diagnostic imaging,678.5
+4324,2171,Diagnostic imaging,4977.53
+4325,2171,Diagnostic imaging,256.03
+4326,2171,Laboratory test,1881.29
+4327,2172,Diagnostic imaging,5615.36
+4328,2173,Physiotherapy,2251.33
+4329,2173,Consultation,3791.96
+4330,2173,Diagnostic imaging,4726.73
+4331,2174,Medication,1555.62
+4332,2175,Laboratory test,1378.77
+4333,2175,Physiotherapy,5677.74
+4334,2175,Consultation,3818.01
+4335,2176,Consultation,5410.69
+4336,2176,Physiotherapy,1861.67
+4337,2177,Physiotherapy,5355.45
+4338,2178,Medication,749.4
+4339,2178,Physiotherapy,1653.39
+4340,2179,Medication,5033.65
+4341,2179,Diagnostic imaging,1720.66
+4342,2180,Laboratory test,424.07
+4343,2180,Laboratory test,4621.72
+4344,2180,Physiotherapy,2029.7
+4345,2181,Consultation,3811.09
+4346,2181,Surgery,5242.96
+4347,2182,Consultation,4976.55
+4348,2182,Physiotherapy,4326.06
+4349,2183,Medication,5777.06
+4350,2184,Surgery,1608.6
+4351,2184,Diagnostic imaging,6466.11
+4352,2184,Surgery,19405.68
+4353,2185,Consultation,1912.32
+4354,2186,Surgery,1031.76
+4355,2186,Surgery,12726.35
+4356,2187,Laboratory test,5644.79
+4357,2188,Medication,5118.47
+4358,2188,Medication,1259.4
+4359,2188,Consultation,459.3
+4360,2189,Diagnostic imaging,4790.73
+4361,2189,Surgery,20422.54
+4362,2189,Laboratory test,3385.91
+4363,2190,Medication,2098.78
+4364,2190,Medication,1643.5
+4365,2190,Surgery,17022.39
+4366,2191,Surgery,18021.43
+4367,2191,Consultation,1094.27
+4368,2192,Physiotherapy,634.52
+4369,2193,Diagnostic imaging,1644.93
+4370,2193,Laboratory test,1279.89
+4371,2194,Medication,5576.03
+4372,2194,Medication,1400.75
+4373,2195,Surgery,9564.21
+4374,2195,Consultation,5186.92
+4375,2195,Medication,4283.99
+4376,2196,Surgery,21922.05
+4377,2196,Medication,650.87
+4378,2196,Laboratory test,1444.38
+4379,2197,Physiotherapy,2248.2
+4380,2198,Medication,4606.62
+4381,2198,Laboratory test,3011.99
+4382,2199,Medication,3560.63
+4383,2200,Laboratory test,1076.51
+4384,2201,Consultation,5552.58
+4385,2202,Surgery,27198.87
+4386,2202,Laboratory test,1484.37
+4387,2203,Surgery,1726.59
+4388,2203,Consultation,5678.62
+4389,2204,Diagnostic imaging,6255.61
+4390,2205,Surgery,23463.81
+4391,2206,Surgery,19263.76
+4392,2206,Physiotherapy,4353.64
+4393,2207,Surgery,5519.33
+4394,2208,Consultation,2581.86
+4395,2208,Consultation,5899.58
+4396,2209,Surgery,10230.47
+4397,2209,Consultation,1042.04
+4398,2210,Laboratory test,4766.62
+4399,2210,Medication,1232.26
+4400,2210,Consultation,4619.7
+4401,2211,Medication,3851.39
+4402,2212,Physiotherapy,2669.5
+4403,2212,Medication,3839.86
+4404,2212,Medication,918.33
+4405,2213,Consultation,4082.43
+4406,2214,Laboratory test,3602.87
+4407,2214,Physiotherapy,3594.64
+4408,2214,Surgery,5428.64
+4409,2215,Physiotherapy,4209.33
+4410,2215,Consultation,6475.51
+4411,2216,Medication,2148.0
+4412,2217,Diagnostic imaging,1086.95
+4413,2217,Physiotherapy,5717.3
+4414,2217,Laboratory test,2655.3
+4415,2218,Diagnostic imaging,3559.29
+4416,2219,Physiotherapy,6078.71
+4417,2219,Physiotherapy,3896.77
+4418,2219,Medication,3283.68
+4419,2220,Diagnostic imaging,626.5
+4420,2220,Surgery,18295.51
+4421,2221,Physiotherapy,4424.91
+4422,2222,Consultation,2924.11
+4423,2222,Physiotherapy,6428.8
+4424,2223,Medication,4325.53
+4425,2224,Physiotherapy,2858.14
+4426,2224,Consultation,3185.96
+4427,2224,Physiotherapy,5983.2
+4428,2225,Diagnostic imaging,599.43
+4429,2225,Consultation,4756.72
+4430,2225,Physiotherapy,3824.1
+4431,2226,Consultation,3297.18
+4432,2226,Laboratory test,188.93
+4433,2226,Medication,3652.52
+4434,2227,Surgery,14251.78
+4435,2227,Physiotherapy,6234.52
+4436,2228,Laboratory test,1914.69
+4437,2228,Diagnostic imaging,1184.31
+4438,2228,Laboratory test,3850.14
+4439,2229,Surgery,6026.69
+4440,2229,Physiotherapy,2400.36
+4441,2229,Physiotherapy,4620.4
+4442,2230,Surgery,21237.6
+4443,2231,Diagnostic imaging,1806.17
+4444,2232,Medication,659.13
+4445,2233,Consultation,598.35
+4446,2234,Consultation,5850.18
+4447,2235,Consultation,319.87
+4448,2235,Medication,756.58
+4449,2235,Consultation,1695.93
+4450,2236,Consultation,4635.78
+4451,2236,Consultation,3604.23
+4452,2237,Consultation,1937.84
+4453,2238,Diagnostic imaging,4748.9
+4454,2238,Laboratory test,2089.51
+4455,2239,Diagnostic imaging,924.44
+4456,2240,Physiotherapy,962.19
+4457,2240,Diagnostic imaging,3939.65
+4458,2240,Laboratory test,2837.72
+4459,2241,Medication,5904.52
+4460,2241,Surgery,13878.21
+4461,2241,Surgery,20661.51
+4462,2242,Medication,1567.36
+4463,2242,Surgery,18099.44
+4464,2242,Diagnostic imaging,414.92
+4465,2243,Consultation,4247.02
+4466,2243,Surgery,23235.3
+4467,2243,Diagnostic imaging,1931.49
+4468,2244,Physiotherapy,4173.88
+4469,2245,Physiotherapy,2634.74
+4470,2246,Consultation,6139.04
+4471,2246,Diagnostic imaging,3430.17
+4472,2247,Surgery,15760.09
+4473,2248,Laboratory test,6099.76
+4474,2248,Consultation,3008.61
+4475,2249,Physiotherapy,5849.05
+4476,2249,Diagnostic imaging,6340.96
+4477,2249,Consultation,4990.52
+4478,2250,Consultation,6418.51
+4479,2250,Diagnostic imaging,2023.54
+4480,2251,Surgery,11595.72
+4481,2251,Consultation,3463.54
+4482,2251,Laboratory test,6189.08
+4483,2252,Consultation,6370.85
+4484,2253,Laboratory test,1573.22
+4485,2253,Consultation,3093.74
+4486,2253,Diagnostic imaging,2105.53
+4487,2254,Diagnostic imaging,3410.26
+4488,2254,Consultation,5247.77
+4489,2255,Physiotherapy,1366.97
+4490,2256,Consultation,3389.16
+4491,2256,Consultation,1204.42
+4492,2257,Physiotherapy,5502.26
+4493,2258,Physiotherapy,1133.21
+4494,2258,Consultation,613.8
+4495,2258,Laboratory test,1787.25
+4496,2259,Medication,1444.78
+4497,2259,Consultation,2439.05
+4498,2259,Diagnostic imaging,1271.0
+4499,2260,Medication,1836.02
+4500,2261,Physiotherapy,1049.6
+4501,2261,Physiotherapy,691.47
+4502,2262,Physiotherapy,4117.9
+4503,2262,Consultation,3540.0
+4504,2262,Laboratory test,5557.12
+4505,2263,Medication,505.37
+4506,2263,Diagnostic imaging,6176.19
+4507,2264,Surgery,20120.98
+4508,2265,Physiotherapy,3155.84
+4509,2265,Surgery,13637.26
+4510,2265,Laboratory test,5094.14
+4511,2266,Medication,3528.66
+4512,2266,Medication,6016.95
+4513,2267,Laboratory test,5885.4
+4514,2267,Laboratory test,4297.98
+4515,2267,Surgery,824.36
+4516,2268,Surgery,1457.78
+4517,2268,Surgery,1927.39
+4518,2268,Medication,5575.66
+4519,2269,Consultation,4637.3
+4520,2269,Laboratory test,1428.2
+4521,2269,Physiotherapy,2653.44
+4522,2270,Physiotherapy,4179.85
+4523,2271,Consultation,5143.37
+4524,2271,Surgery,16664.97
+4525,2272,Medication,5711.63
+4526,2272,Diagnostic imaging,2998.77
+4527,2272,Diagnostic imaging,4757.86
+4528,2273,Diagnostic imaging,1504.31
+4529,2274,Laboratory test,6363.44
+4530,2274,Laboratory test,4775.35
+4531,2274,Surgery,9583.89
+4532,2275,Diagnostic imaging,3527.55
+4533,2275,Medication,1178.29
+4534,2275,Surgery,21754.72
+4535,2276,Surgery,22299.86
+4536,2276,Diagnostic imaging,1459.87
+4537,2277,Diagnostic imaging,4010.24
+4538,2277,Physiotherapy,3823.27
+4539,2277,Consultation,5387.94
+4540,2278,Physiotherapy,1746.27
+4541,2278,Physiotherapy,3464.22
+4542,2278,Medication,4382.17
+4543,2279,Laboratory test,1302.62
+4544,2280,Surgery,17529.84
+4545,2281,Physiotherapy,2127.01
+4546,2282,Diagnostic imaging,2766.04
+4547,2282,Physiotherapy,267.71
+4548,2282,Medication,523.33
+4549,2283,Diagnostic imaging,1707.72
+4550,2283,Physiotherapy,4592.94
+4551,2284,Consultation,3072.55
+4552,2284,Surgery,22160.29
+4553,2285,Surgery,9580.11
+4554,2286,Physiotherapy,2369.63
+4555,2286,Physiotherapy,5111.7
+4556,2287,Medication,5413.17
+4557,2287,Surgery,5133.32
+4558,2288,Medication,5936.58
+4559,2289,Physiotherapy,1796.24
+4560,2289,Surgery,4308.06
+4561,2289,Surgery,24579.58
+4562,2290,Laboratory test,6300.94
+4563,2290,Surgery,15676.58
+4564,2291,Consultation,2660.1
+4565,2292,Medication,5819.07
+4566,2292,Diagnostic imaging,3036.16
+4567,2292,Consultation,610.24
+4568,2293,Diagnostic imaging,6414.69
+4569,2293,Surgery,15417.65
+4570,2294,Surgery,22071.72
+4571,2294,Diagnostic imaging,6409.51
+4572,2295,Consultation,1045.24
+4573,2295,Surgery,24975.97
+4574,2296,Consultation,2483.05
+4575,2296,Diagnostic imaging,4630.81
+4576,2296,Diagnostic imaging,2311.66
+4577,2297,Diagnostic imaging,5876.9
+4578,2298,Physiotherapy,6094.94
+4579,2298,Laboratory test,4064.98
+4580,2299,Laboratory test,6110.37
+4581,2299,Consultation,5430.44
+4582,2300,Laboratory test,1400.79
+4583,2300,Medication,2929.29
+4584,2301,Physiotherapy,3260.18
+4585,2301,Laboratory test,5436.05
+4586,2302,Consultation,1890.24
+4587,2302,Surgery,14288.85
+4588,2303,Physiotherapy,1789.82
+4589,2304,Laboratory test,3726.24
+4590,2305,Surgery,12831.28
+4591,2305,Surgery,2222.23
+4592,2306,Medication,5470.19
+4593,2306,Medication,686.7
+4594,2306,Consultation,2701.87
+4595,2307,Surgery,20218.25
+4596,2307,Surgery,11374.16
+4597,2308,Diagnostic imaging,3871.83
+4598,2308,Laboratory test,2242.53
+4599,2308,Laboratory test,6033.74
+4600,2309,Surgery,10256.45
+4601,2310,Medication,3118.07
+4602,2310,Physiotherapy,1624.21
+4603,2310,Medication,2891.9
+4604,2311,Diagnostic imaging,5230.64
+4605,2312,Consultation,5844.92
+4606,2313,Surgery,9123.97
+4607,2313,Diagnostic imaging,4572.96
+4608,2313,Laboratory test,1124.6
+4609,2314,Consultation,6102.87
+4610,2314,Medication,5736.06
+4611,2315,Physiotherapy,6417.5
+4612,2316,Physiotherapy,2607.92
+4613,2316,Consultation,4547.38
+4614,2317,Physiotherapy,6176.01
+4615,2317,Medication,1394.13
+4616,2318,Surgery,13608.47
+4617,2319,Medication,4969.66
+4618,2320,Consultation,5960.93
+4619,2321,Laboratory test,5328.48
+4620,2322,Diagnostic imaging,6407.36
+4621,2322,Laboratory test,381.58
+4622,2322,Diagnostic imaging,1978.48
+4623,2323,Surgery,8960.14
+4624,2323,Medication,4955.16
+4625,2323,Laboratory test,566.22
+4626,2324,Laboratory test,241.96
+4627,2324,Physiotherapy,3961.58
+4628,2325,Diagnostic imaging,1832.74
+4629,2326,Physiotherapy,2236.26
+4630,2327,Surgery,11289.97
+4631,2327,Surgery,3781.85
+4632,2328,Surgery,12126.74
+4633,2328,Laboratory test,5809.85
+4634,2329,Consultation,6079.23
+4635,2329,Consultation,1468.86
+4636,2330,Diagnostic imaging,5811.91
+4637,2330,Surgery,13380.03
+4638,2330,Diagnostic imaging,4625.83
+4639,2331,Surgery,9869.19
+4640,2332,Consultation,2826.03
+4641,2332,Physiotherapy,1337.28
+4642,2332,Diagnostic imaging,363.34
+4643,2333,Laboratory test,5716.11
+4644,2333,Surgery,7660.52
+4645,2334,Consultation,3092.52
+4646,2334,Diagnostic imaging,1198.7
+4647,2334,Surgery,11293.76
+4648,2335,Surgery,3203.25
+4649,2335,Medication,5966.61
+4650,2335,Diagnostic imaging,3581.58
+4651,2336,Medication,4791.12
+4652,2336,Surgery,18159.54
+4653,2337,Physiotherapy,326.59
+4654,2337,Laboratory test,1891.28
+4655,2338,Laboratory test,6108.04
+4656,2338,Consultation,2272.07
+4657,2338,Physiotherapy,2758.7
+4658,2339,Surgery,11235.76
+4659,2339,Physiotherapy,2604.94
+4660,2339,Physiotherapy,5338.03
+4661,2340,Diagnostic imaging,2992.92
+4662,2340,Laboratory test,1124.38
+4663,2340,Medication,5503.1
+4664,2341,Physiotherapy,1836.34
+4665,2342,Laboratory test,595.05
+4666,2343,Diagnostic imaging,3898.64
+4667,2344,Medication,4201.05
+4668,2345,Physiotherapy,4389.35
+4669,2345,Laboratory test,1408.17
+4670,2345,Consultation,5999.29
+4671,2346,Diagnostic imaging,2122.97
+4672,2346,Surgery,12208.63
+4673,2346,Surgery,10719.68
+4674,2347,Diagnostic imaging,5730.36
+4675,2347,Physiotherapy,2410.48
+4676,2347,Physiotherapy,254.14
+4677,2348,Diagnostic imaging,1488.04
+4678,2348,Diagnostic imaging,2228.95
+4679,2348,Physiotherapy,5322.82
+4680,2349,Physiotherapy,1867.56
+4681,2349,Diagnostic imaging,1371.97
+4682,2349,Physiotherapy,4467.6
+4683,2350,Physiotherapy,4872.15
+4684,2350,Consultation,3622.47
+4685,2350,Surgery,24394.97
+4686,2351,Laboratory test,3985.85
+4687,2351,Laboratory test,5798.29
+4688,2352,Physiotherapy,2053.07
+4689,2353,Medication,4856.63
+4690,2353,Laboratory test,3127.62
+4691,2354,Physiotherapy,5716.78
+4692,2355,Diagnostic imaging,1676.92
+4693,2355,Consultation,2460.21
+4694,2355,Diagnostic imaging,614.8
+4695,2356,Diagnostic imaging,3229.97
+4696,2357,Consultation,4360.6
+4697,2358,Medication,4206.72
+4698,2358,Physiotherapy,652.81
+4699,2358,Surgery,10690.05
+4700,2359,Laboratory test,5948.47
+4701,2360,Diagnostic imaging,3214.72
+4702,2361,Physiotherapy,1433.37
+4703,2361,Physiotherapy,4680.07
+4704,2361,Physiotherapy,874.1
+4705,2362,Laboratory test,4581.63
+4706,2363,Consultation,1548.54
+4707,2364,Surgery,19109.82
+4708,2364,Consultation,4908.05
+4709,2365,Laboratory test,758.65
+4710,2366,Medication,2047.8
+4711,2366,Surgery,19280.1
+4712,2366,Laboratory test,1475.34
+4713,2367,Laboratory test,324.43
+4714,2367,Laboratory test,5200.57
+4715,2367,Consultation,3500.37
+4716,2368,Surgery,17176.71
+4717,2368,Consultation,4809.86
+4718,2369,Diagnostic imaging,2194.26
+4719,2369,Physiotherapy,5838.32
+4720,2369,Consultation,3309.45
+4721,2370,Consultation,2442.39
+4722,2371,Medication,401.08
+4723,2371,Consultation,1285.19
+4724,2371,Consultation,2697.81
+4725,2372,Laboratory test,6113.67
+4726,2372,Surgery,15977.04
+4727,2372,Medication,3681.56
+4728,2373,Laboratory test,3598.21
+4729,2373,Consultation,6119.21
+4730,2373,Medication,6389.91
+4731,2374,Surgery,25283.81
+4732,2374,Medication,5614.25
+4733,2375,Laboratory test,626.89
+4734,2375,Surgery,24392.55
+4735,2376,Laboratory test,3020.94
+4736,2377,Laboratory test,3478.25
+4737,2377,Medication,3161.81
+4738,2377,Diagnostic imaging,2440.83
+4739,2378,Physiotherapy,250.94
+4740,2378,Physiotherapy,5872.25
+4741,2378,Consultation,5828.68
+4742,2379,Medication,1966.09
+4743,2379,Diagnostic imaging,4451.04
+4744,2380,Physiotherapy,3660.64
+4745,2380,Physiotherapy,3032.73
+4746,2380,Diagnostic imaging,5160.37
+4747,2381,Surgery,5645.48
+4748,2381,Laboratory test,5100.11
+4749,2382,Surgery,6126.91
+4750,2383,Laboratory test,5225.0
+4751,2383,Consultation,4850.25
+4752,2384,Laboratory test,2010.73
+4753,2384,Medication,2261.06
+4754,2384,Physiotherapy,1984.0
+4755,2385,Diagnostic imaging,4112.66
+4756,2386,Medication,3936.07
+4757,2387,Physiotherapy,3768.99
+4758,2387,Consultation,2436.85
+4759,2388,Medication,1276.63
+4760,2388,Physiotherapy,5850.3
+4761,2389,Laboratory test,2718.59
+4762,2390,Consultation,5997.82
+4763,2390,Physiotherapy,2790.09
+4764,2390,Surgery,11924.93
+4765,2391,Consultation,5744.05
+4766,2391,Diagnostic imaging,5223.52
+4767,2391,Consultation,3444.84
+4768,2392,Laboratory test,3841.31
+4769,2393,Diagnostic imaging,5930.81
+4770,2394,Laboratory test,4896.83
+4771,2395,Laboratory test,1190.93
+4772,2395,Consultation,4260.55
+4773,2395,Laboratory test,688.34
+4774,2396,Physiotherapy,6371.45
+4775,2397,Surgery,6170.19
+4776,2397,Surgery,19739.59
+4777,2397,Medication,3349.4
+4778,2398,Surgery,12308.72
+4779,2398,Surgery,8904.75
+4780,2399,Medication,503.54
+4781,2400,Physiotherapy,245.75
+4782,2400,Medication,2811.56
+4783,2401,Laboratory test,972.52
+4784,2401,Diagnostic imaging,4361.86
+4785,2401,Surgery,8874.74
+4786,2402,Surgery,10614.65
+4787,2402,Laboratory test,1149.98
+4788,2403,Laboratory test,5061.35
+4789,2403,Laboratory test,3063.05
+4790,2403,Diagnostic imaging,3235.09
+4791,2404,Medication,5417.01
+4792,2404,Surgery,12958.53
+4793,2404,Medication,5520.21
+4794,2405,Physiotherapy,4980.99
+4795,2405,Surgery,9345.21
+4796,2405,Diagnostic imaging,1477.31
+4797,2406,Consultation,3707.72
+4798,2407,Physiotherapy,3600.32
+4799,2408,Diagnostic imaging,4741.15
+4800,2408,Physiotherapy,1214.13
+4801,2409,Medication,3313.44
+4802,2409,Surgery,5490.74
+4803,2409,Diagnostic imaging,3460.12
+4804,2410,Consultation,5258.25
+4805,2410,Surgery,1589.48
+4806,2411,Surgery,18362.19
+4807,2412,Medication,456.57
+4808,2412,Diagnostic imaging,4494.37
+4809,2412,Consultation,349.49
+4810,2413,Laboratory test,2417.46
+4811,2413,Laboratory test,2250.73
+4812,2414,Consultation,1037.16
+4813,2415,Diagnostic imaging,1347.56
+4814,2415,Consultation,1456.67
+4815,2415,Physiotherapy,4882.06
+4816,2416,Diagnostic imaging,5231.78
+4817,2416,Surgery,644.21
+4818,2417,Consultation,6071.66
+4819,2418,Consultation,1256.58
+4820,2419,Medication,1459.66
+4821,2419,Surgery,21573.39
+4822,2419,Diagnostic imaging,2526.42
+4823,2420,Surgery,19083.88
+4824,2421,Diagnostic imaging,5386.63
+4825,2422,Surgery,24963.58
+4826,2422,Consultation,3338.38
+4827,2423,Surgery,4225.26
+4828,2423,Physiotherapy,6201.9
+4829,2424,Surgery,6946.45
+4830,2424,Physiotherapy,5551.41
+4831,2424,Consultation,4423.05
+4832,2425,Laboratory test,2372.82
+4833,2425,Laboratory test,5503.25
+4834,2426,Physiotherapy,5859.37
+4835,2426,Laboratory test,5994.71
+4836,2427,Laboratory test,2466.52
+4837,2427,Surgery,19046.27
+4838,2427,Consultation,5608.49
+4839,2428,Physiotherapy,239.86
+4840,2428,Medication,5754.56
+4841,2429,Laboratory test,5905.0
+4842,2430,Physiotherapy,2878.32
+4843,2430,Medication,3014.16
+4844,2430,Physiotherapy,5814.08
+4845,2431,Diagnostic imaging,691.49
+4846,2431,Surgery,26049.57
+4847,2431,Consultation,2356.65
+4848,2432,Laboratory test,995.48
+4849,2432,Consultation,6127.2
+4850,2433,Medication,5625.34
+4851,2433,Diagnostic imaging,3113.49
+4852,2433,Physiotherapy,4287.57
+4853,2434,Diagnostic imaging,2361.69
+4854,2434,Surgery,5968.86
+4855,2435,Consultation,5225.3
+4856,2436,Medication,1255.63
+4857,2436,Surgery,8702.82
+4858,2437,Medication,3419.31
+4859,2438,Physiotherapy,6404.55
+4860,2438,Diagnostic imaging,4349.36
+4861,2438,Medication,2276.24
+4862,2439,Surgery,22315.93
+4863,2439,Consultation,5290.57
+4864,2440,Medication,617.6
+4865,2441,Consultation,4703.75
+4866,2441,Physiotherapy,4366.53
+4867,2441,Laboratory test,6423.1
+4868,2442,Physiotherapy,1743.43
+4869,2443,Physiotherapy,1734.48
+4870,2444,Medication,608.78
+4871,2444,Laboratory test,1165.83
+4872,2444,Physiotherapy,3956.15
+4873,2445,Surgery,7693.85
+4874,2445,Consultation,1712.68
+4875,2446,Surgery,3261.45
+4876,2446,Medication,4312.5
+4877,2446,Physiotherapy,1857.47
+4878,2447,Physiotherapy,5563.1
+4879,2448,Physiotherapy,2308.6
+4880,2448,Physiotherapy,6224.51
+4881,2449,Diagnostic imaging,3733.44
+4882,2450,Diagnostic imaging,4195.7
+4883,2451,Diagnostic imaging,154.55
+4884,2451,Diagnostic imaging,334.58
+4885,2452,Surgery,12143.94
+4886,2452,Diagnostic imaging,2962.26
+4887,2453,Surgery,276.68
+4888,2453,Physiotherapy,789.07
+4889,2454,Surgery,1192.59
+4890,2454,Laboratory test,2633.44
+4891,2455,Surgery,25065.87
+4892,2455,Physiotherapy,3532.52
+4893,2456,Diagnostic imaging,6379.48
+4894,2456,Diagnostic imaging,6294.34
+4895,2457,Laboratory test,3424.57
+4896,2457,Laboratory test,239.72
+4897,2457,Consultation,5100.34
+4898,2458,Diagnostic imaging,3445.98
+4899,2458,Laboratory test,1785.97
+4900,2459,Physiotherapy,6305.8
+4901,2459,Medication,3987.83
+4902,2459,Consultation,1487.74
+4903,2460,Laboratory test,949.16
+4904,2460,Physiotherapy,3588.93
+4905,2461,Laboratory test,3967.39
+4906,2462,Medication,4838.4
+4907,2462,Medication,380.83
+4908,2462,Physiotherapy,1599.51
+4909,2463,Physiotherapy,3474.79
+4910,2464,Diagnostic imaging,3539.33
+4911,2464,Laboratory test,1992.75
+4912,2464,Physiotherapy,4293.23
+4913,2465,Consultation,1295.29
+4914,2465,Surgery,6975.37
+4915,2465,Diagnostic imaging,5721.86
+4916,2466,Surgery,14384.6
+4917,2467,Diagnostic imaging,525.13
+4918,2468,Physiotherapy,5458.35
+4919,2469,Surgery,18631.33
+4920,2469,Diagnostic imaging,2550.33
+4921,2469,Laboratory test,4916.62
+4922,2470,Physiotherapy,2113.26
+4923,2470,Diagnostic imaging,3024.06
+4924,2470,Diagnostic imaging,2407.07
+4925,2471,Medication,3791.38
+4926,2471,Consultation,4640.7
+4927,2471,Medication,2469.66
+4928,2472,Laboratory test,3070.66
+4929,2473,Medication,1434.44
+4930,2473,Physiotherapy,1480.44
+4931,2473,Consultation,5607.7
+4932,2474,Physiotherapy,5864.67
+4933,2474,Surgery,5876.33
+4934,2474,Diagnostic imaging,5573.6
+4935,2475,Consultation,2161.63
+4936,2475,Laboratory test,4737.67
+4937,2476,Physiotherapy,4842.56
+4938,2476,Diagnostic imaging,3096.32
+4939,2477,Laboratory test,3206.9
+4940,2477,Physiotherapy,5264.5
+4941,2477,Diagnostic imaging,4166.98
+4942,2478,Medication,759.49
+4943,2478,Diagnostic imaging,5979.34
+4944,2479,Diagnostic imaging,2363.09
+4945,2479,Physiotherapy,3831.51
+4946,2480,Medication,5849.39
+4947,2480,Diagnostic imaging,693.17
+4948,2481,Surgery,5544.26
+4949,2481,Physiotherapy,2072.56
+4950,2482,Diagnostic imaging,736.6
+4951,2482,Diagnostic imaging,5099.58
+4952,2482,Laboratory test,528.98
+4953,2483,Consultation,4501.16
+4954,2483,Medication,5382.44
+4955,2484,Surgery,26138.21
+4956,2484,Physiotherapy,1505.52
+4957,2485,Medication,5036.25
+4958,2486,Medication,662.67
+4959,2486,Consultation,2900.23
+4960,2487,Surgery,6767.6
+4961,2487,Surgery,12225.04
+4962,2488,Medication,5952.55
+4963,2488,Surgery,4475.31
+4964,2489,Surgery,20991.93
+4965,2489,Physiotherapy,4339.88
+4966,2489,Consultation,1309.87
+4967,2490,Medication,5416.13
+4968,2491,Medication,1978.1
+4969,2491,Surgery,24493.52
+4970,2491,Diagnostic imaging,5537.15
+4971,2492,Laboratory test,4865.1
+4972,2492,Consultation,3076.81
+4973,2493,Physiotherapy,312.14
+4974,2493,Laboratory test,4205.71
+4975,2493,Physiotherapy,343.24
+4976,2494,Laboratory test,3039.77
+4977,2495,Consultation,5361.38
+4978,2496,Consultation,5514.12
+4979,2497,Surgery,20692.59
+4980,2498,Consultation,4860.87
+4981,2498,Diagnostic imaging,3238.28
+4982,2499,Physiotherapy,2645.45
+4983,2499,Laboratory test,1486.59
+4984,2500,Laboratory test,3684.57
+4985,2501,Medication,5578.87
+4986,2501,Physiotherapy,821.88
+4987,2501,Medication,326.1
+4988,2502,Laboratory test,3137.8
+4989,2502,Physiotherapy,1620.05
+4990,2503,Medication,4465.47
+4991,2503,Medication,4517.57
+4992,2504,Surgery,26491.2
+4993,2504,Surgery,3999.04
+4994,2505,Surgery,14590.03
+4995,2506,Diagnostic imaging,5063.09
+4996,2506,Consultation,2703.68
+4997,2506,Diagnostic imaging,2664.12
+4998,2507,Physiotherapy,4852.59
+4999,2508,Diagnostic imaging,3245.53
+5000,2508,Laboratory test,1145.25
+5001,2509,Medication,2478.51
+5002,2510,Laboratory test,4625.58
+5003,2511,Consultation,1899.17
+5004,2511,Medication,6200.05
+5005,2512,Surgery,26496.17
+5006,2512,Diagnostic imaging,4020.95
+5007,2512,Consultation,5101.7
+5008,2513,Medication,5644.26
+5009,2514,Diagnostic imaging,5262.49
+5010,2514,Physiotherapy,3343.16
+5011,2514,Medication,3047.6
+5012,2515,Diagnostic imaging,2107.09
+5013,2515,Consultation,903.84
+5014,2516,Laboratory test,5288.53
+5015,2516,Physiotherapy,1164.81
+5016,2517,Diagnostic imaging,1789.92
+5017,2517,Physiotherapy,3848.87
+5018,2517,Medication,5732.83
+5019,2518,Surgery,20043.03
+5020,2519,Consultation,3280.87
+5021,2519,Consultation,2913.57
+5022,2520,Surgery,10506.17
+5023,2521,Medication,2760.64
+5024,2522,Physiotherapy,3954.97
+5025,2522,Laboratory test,879.66
+5026,2522,Physiotherapy,5990.1
+5027,2523,Physiotherapy,6362.68
+5028,2523,Physiotherapy,6293.81
+5029,2523,Diagnostic imaging,6212.66
+5030,2524,Physiotherapy,5271.81
+5031,2524,Surgery,3590.33
+5032,2525,Diagnostic imaging,2373.73
+5033,2526,Diagnostic imaging,3199.88
+5034,2526,Consultation,2930.15
+5035,2527,Diagnostic imaging,6497.34
+5036,2527,Surgery,4614.64
+5037,2528,Surgery,4009.94
+5038,2528,Diagnostic imaging,5535.98
+5039,2529,Medication,2112.03
+5040,2529,Surgery,7817.68
+5041,2530,Medication,286.16
+5042,2530,Physiotherapy,5916.1
+5043,2531,Medication,5679.88
+5044,2531,Surgery,6533.57
+5045,2531,Diagnostic imaging,1132.53
+5046,2532,Diagnostic imaging,4822.86
+5047,2532,Diagnostic imaging,1913.5
+5048,2533,Surgery,15516.65
+5049,2534,Surgery,24038.9
+5050,2534,Physiotherapy,3706.58
+5051,2535,Laboratory test,6384.29
+5052,2535,Consultation,2462.48
+5053,2535,Diagnostic imaging,4105.38
+5054,2536,Diagnostic imaging,6073.14
+5055,2536,Laboratory test,3714.36
+5056,2536,Medication,1105.48
+5057,2537,Surgery,22459.39
+5058,2538,Laboratory test,1533.54
+5059,2538,Diagnostic imaging,3035.07
+5060,2538,Diagnostic imaging,1846.2
+5061,2539,Diagnostic imaging,861.19
+5062,2539,Laboratory test,2797.17
+5063,2539,Consultation,2669.12
+5064,2540,Consultation,4858.28
+5065,2540,Medication,751.86
+5066,2541,Medication,3966.93
+5067,2542,Surgery,14550.31
+5068,2543,Physiotherapy,5922.65
+5069,2543,Medication,415.43
+5070,2544,Physiotherapy,5821.72
+5071,2544,Laboratory test,2541.76
+5072,2544,Physiotherapy,1555.61
+5073,2545,Consultation,2759.42
+5074,2546,Surgery,21777.89
+5075,2546,Diagnostic imaging,3361.32
+5076,2547,Medication,5379.76
+5077,2547,Laboratory test,3863.4
+5078,2547,Physiotherapy,4749.82
+5079,2548,Surgery,10502.08
+5080,2548,Physiotherapy,2397.59
+5081,2548,Physiotherapy,5874.57
+5082,2549,Laboratory test,1643.02
+5083,2550,Physiotherapy,4635.91
+5084,2551,Laboratory test,747.06
+5085,2551,Diagnostic imaging,2773.95
+5086,2552,Laboratory test,5580.78
+5087,2552,Diagnostic imaging,3811.47
+5088,2552,Laboratory test,5766.65
+5089,2553,Medication,6042.01
+5090,2553,Consultation,3893.4
+5091,2553,Consultation,2901.9
+5092,2554,Physiotherapy,1186.53
+5093,2554,Diagnostic imaging,2780.92
+5094,2555,Physiotherapy,6437.28
+5095,2555,Medication,5364.56
+5096,2556,Diagnostic imaging,3731.58
+5097,2556,Laboratory test,5658.92
+5098,2557,Diagnostic imaging,4095.16
+5099,2557,Consultation,4867.95
+5100,2557,Diagnostic imaging,6181.11
+5101,2558,Physiotherapy,3238.34
+5102,2558,Physiotherapy,1782.0
+5103,2559,Laboratory test,1717.81
+5104,2559,Surgery,23731.62
+5105,2559,Diagnostic imaging,2653.68
+5106,2560,Laboratory test,1054.67
+5107,2560,Laboratory test,1494.57
+5108,2560,Diagnostic imaging,6126.47
+5109,2561,Laboratory test,454.17
+5110,2561,Consultation,4330.65
+5111,2561,Medication,3487.18
+5112,2562,Surgery,19994.24
+5113,2562,Medication,3256.33
+5114,2562,Medication,5694.7
+5115,2563,Physiotherapy,3343.85
+5116,2563,Medication,2125.32
+5117,2564,Diagnostic imaging,4247.11
+5118,2565,Laboratory test,2763.08
+5119,2565,Surgery,18144.44
+5120,2565,Medication,4369.61
+5121,2566,Physiotherapy,1995.16
+5122,2566,Physiotherapy,2232.99
+5123,2566,Medication,1007.68
+5124,2567,Laboratory test,3074.98
+5125,2567,Surgery,13775.79
+5126,2567,Surgery,4069.49
+5127,2568,Surgery,15622.26
+5128,2568,Physiotherapy,1126.0
+5129,2568,Diagnostic imaging,279.07
+5130,2569,Consultation,2658.96
+5131,2569,Laboratory test,694.87
+5132,2569,Surgery,9223.32
+5133,2570,Medication,200.31
+5134,2570,Physiotherapy,1833.82
+5135,2570,Laboratory test,3419.26
+5136,2571,Laboratory test,4618.94
+5137,2571,Diagnostic imaging,4081.65
+5138,2572,Diagnostic imaging,4293.6
+5139,2573,Surgery,6151.76
+5140,2573,Physiotherapy,5147.55
+5141,2574,Physiotherapy,3898.34
+5142,2574,Medication,735.15
+5143,2574,Consultation,3136.48
+5144,2575,Laboratory test,6477.45
+5145,2575,Surgery,24875.06
+5146,2576,Consultation,4916.94
+5147,2576,Diagnostic imaging,1990.43
+5148,2577,Diagnostic imaging,5760.72
+5149,2577,Laboratory test,3528.32
+5150,2577,Physiotherapy,4823.14
+5151,2578,Medication,2039.35
+5152,2578,Surgery,23591.56
+5153,2578,Laboratory test,6165.27
+5154,2579,Surgery,18847.48
+5155,2579,Diagnostic imaging,831.46
+5156,2579,Medication,2657.36
+5157,2580,Laboratory test,554.07
+5158,2580,Medication,5463.93
+5159,2580,Surgery,24910.7
+5160,2581,Physiotherapy,640.35
+5161,2581,Laboratory test,508.69
+5162,2582,Physiotherapy,3175.26
+5163,2582,Physiotherapy,6459.37
+5164,2582,Physiotherapy,1714.25
+5165,2583,Surgery,19591.0
+5166,2583,Laboratory test,2439.44
+5167,2584,Laboratory test,4619.15
+5168,2584,Diagnostic imaging,6334.61
+5169,2585,Laboratory test,2821.4
+5170,2585,Diagnostic imaging,558.55
+5171,2586,Laboratory test,1247.16
+5172,2586,Physiotherapy,4253.04
+5173,2586,Consultation,4737.45
+5174,2587,Physiotherapy,2490.62
+5175,2588,Physiotherapy,1111.14
+5176,2589,Medication,3311.37
+5177,2589,Laboratory test,4761.37
+5178,2589,Diagnostic imaging,2377.26
+5179,2590,Surgery,7936.21
+5180,2590,Laboratory test,2188.09
+5181,2591,Medication,461.9
+5182,2591,Medication,3199.16
+5183,2591,Surgery,20785.96
+5184,2592,Consultation,3718.78
+5185,2593,Medication,5301.88
+5186,2593,Physiotherapy,3630.14
+5187,2594,Surgery,7922.94
+5188,2594,Medication,2743.49
+5189,2595,Consultation,1301.37
+5190,2595,Surgery,8302.22
+5191,2596,Laboratory test,5917.6
+5192,2597,Laboratory test,6179.17
+5193,2597,Surgery,12762.39
+5194,2598,Laboratory test,3227.78
+5195,2598,Physiotherapy,1622.22
+5196,2599,Laboratory test,3024.54
+5197,2599,Diagnostic imaging,869.02
+5198,2599,Physiotherapy,4036.67
+5199,2600,Surgery,13663.59
+5200,2600,Diagnostic imaging,2935.04
